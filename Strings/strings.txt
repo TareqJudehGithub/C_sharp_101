@@ -1,0 +1,41 @@
+Console.WriteLine()
+  - Writes a new line to the Console.
+
+Console.Write()
+  - Writes in the same line to the Console.
+
+  Console.WriteLine("What is your name?");
+  string name = "john smith";
+  Console.WriteLine($"Hi, {name}!");
+
+  Console.WriteLine("\n\n");
+
+
+Console.ReadLine();
+  - Captures users input and store in a variable.
+    string name = Console.ReadLine();
+
+
+string greet = "Hello world!    ";
+Console.WriteLine($"[{greet}]");
+  $ is called string interpolation, allowing us to include both string literal along
+  with variables wrapped between {} in the same string value between double quotation.
+
+
+stringName.length
+    .length is a property of the string.
+    Console.WriteLine($"greet variable contains {greet.Length} characters.");
+stringName.Trim()
+    .Trim() is a method of the string.
+
+  greet = greet.Trim();
+  Console.WriteLine($"[{greet}]");
+
+
+Replace() method
+  - Replaces a string of part of it with another.
+
+WE MUST reassign any changes to variable defined, or else
+the state of that variable won't change.
+  greet =  greet.Replace("Hello", "Hello,");
+  Console.WriteLine($"{greet}");

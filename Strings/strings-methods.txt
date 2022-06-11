@@ -1,0 +1,15 @@
+Methods in strings
+  - Methods in strings ends with () i.e., .Replace()
+
+  string introduceSelf = "Hello, my name is Tareq.";
+
+  .Contains()
+    - Contains() is string method that searches inside a string lateral for a match and 
+      returns a boolean value.
+        Console.WriteLine(introduceSelf.Contains("Tareq"));
+        >>> True
+
+    - Contains() is case sensitive
+        Console.WriteLine(introduceSelf.Contains("tareq"));
+        >>> False
+
