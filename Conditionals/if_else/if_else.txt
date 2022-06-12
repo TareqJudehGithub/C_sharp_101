@@ -1,0 +1,24 @@
+if/else statements
+ -  A boolean is a variable that can have one of two values: true or false. 
+ - An if statement evaluates a boolean expression value.
+ - When the value is true, the statement following the if executes. Otherwise, it's 
+   skipped.
+ - If the boolean expression condition in the if statement was false, then
+   the next condition wil be evaluated (the else if).
+ - The statement following the else keyword executes only when the condition being 
+   tested is false.
+
+
+    int a = 5;
+    int b = 6;
+
+    // Check if a is greater than b
+    if (a > b && b >= 1)
+    {
+        Console.WriteLine($"{a} is greater than {b}!");
+    }
+    else
+    {
+        Console.WriteLine($"{b} is greater than {a}");
+    }
+

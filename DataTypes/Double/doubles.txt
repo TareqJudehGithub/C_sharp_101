@@ -1,0 +1,43 @@
+Doubles
+ - The double numeric type represents a double-precision floating point number.
+ - Doubles hold larger values than integers.
+
+
+
+Double data type min and max value
+  double a = 10;
+  double b = 15;
+  double c = b / a;
+  double dblMin = double.MaxValue;
+  double dblMax = double.MaxValue;
+
+  Console.WriteLine($"The range of double is between {dblMin} and {dblMax}");
+  >>>The range of double is between 1.79769313486232E+308 and 1.79769313486232E+308
+
+  double third = 1.0 / 3.0;
+  Console.WriteLine(third);
+  >>>0.333333333333
+
+  double science = 79;
+  double math = 85;
+  double biology = 83;
+  double physics = 91;
+  double marks_total = science + math + biology + physics;
+  double score = marks_total / 4;
+  Console.WriteLine($"The student scored: {score}");
+  >>>The student scored: 85.5
+
+
+  
+  Challenge
+    write code that calculates the area of a circle whose radius 
+    is 2.50 centimeters.
+
+    area = radius squared multiplied by PI.
+    double radius = 2.5;
+    Double area = Math.Pow(radius, 2) * Math.PI;
+    Console.WriteLine(area);
+
+ - Math is a class in C Sharp.
+
+

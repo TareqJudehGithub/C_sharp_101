@@ -1,0 +1,24 @@
+Integers
+ - an integer is a positive or a negative whole number.
+ - Integer data ranges between negative 2 billions and 2 billions.
+    int intMin = int.MinValue;
+    int intMax = int.MaxValue;
+    Console.WriteLine($"The range of Integer is between {intMin} and {intMax}");
+    >>> The range of Integer is between -2147483648 and 2147483647
+
+
+
+
+
+  int a = 15;
+  int b = 25;
+  int c = a + b;
+
+  Console.WriteLine($"{a} + {b} = {c}");
+  Console.WriteLine($"{b} / {a} = {b / a}");
+  Console.WriteLine($"{b} % {a} = {b % a}");
+
+Integers Precision
+
+
+

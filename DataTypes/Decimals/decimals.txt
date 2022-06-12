@@ -1,0 +1,20 @@
+Decimals
+ - The decimal type has a smaller range but greater precision than double. 
+ - Decimal values must end with an 'M'. Otherwise, the compiler assumes the 
+   double type.
+ - The letter M was chosen as the most visually distinct letter between the 
+   double and decimal keywords.
+  
+  decimal dcMin = decimal.MinValue;
+  decimal dcMax = decimal.MaxValue;
+  Console.WriteLine($"Decimal range is between {dcMin} and {dcMax}");
+  >>>Decimal range is between -79228162514264337593543950335 and 
+     79228162514264337593543950335
+
+  decimal third = (1.0M / 3.0M);
+  Console.WriteLine(third);
+  >>>0.3333333333333333333333333333
+
+
+
+

@@ -1,0 +1,19 @@
+Order of Operations (precedence)
+
+ ()
+ **
+ * and /
+ + and -
+
+
+int a = 10;
+int b = 15;
+int c = a + b;
+Console.WriteLine($"{a} + {b} = {c}");
+Console.WriteLine($"{b} / {a} = {b / a}");
+Console.WriteLine($"{b} % {a} = {b % a}");
+
+Console.WriteLine($"a + b + a * b = {a + b + a * b}");
+Console.WriteLine($"a + (b + a) * b = {a +( b + a) * b}");
+
+

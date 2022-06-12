@@ -1,0 +1,6 @@
+What is C# 
+  - Websites, web apps, mobile, ML, and gaming.
+  - The C# language doesn't treat indentation or white space as significant. 
+
+  
+  

@@ -1,0 +1,6 @@
+Variables in C Sharp
+
+string myName = "John Smith";
+  - We declared a new variable called myName assigning it the value "John Smith".
+  - You can assign different values to any variable you declare.
+  

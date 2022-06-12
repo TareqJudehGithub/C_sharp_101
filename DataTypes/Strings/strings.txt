@@ -22,9 +22,7 @@ Console.WriteLine($"[{greet}]");
   with variables wrapped between {} in the same string value between double quotation.
 
 
-stringName.length
-    .length is a property of the string.
-    Console.WriteLine($"greet variable contains {greet.Length} characters.");
+
 stringName.Trim()
     .Trim() is a method of the string.
 

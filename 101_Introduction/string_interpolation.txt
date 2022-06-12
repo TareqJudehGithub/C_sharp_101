@@ -1,0 +1,10 @@
+string myName = "Tareq Judeh";
+
+Concatenation
+  Console.WriteLine("Hello, " + myName);
+
+String interpolation
+  - In string interpolation, add a dollar sign $ before the double quotation 
+    (with no space) and wrap variables in curly braces {}.
+  Console.WriteLine($"Welcome, {myName}!");
+
