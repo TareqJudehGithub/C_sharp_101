@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\bin\Debug\net6.0\loops.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\bin\Debug\net6.0\loops.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\bin\Debug\net6.0\loops.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\bin\Debug\net6.0\loops.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\refint\loops.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\loops\obj\Debug\net6.0\ref\loops.dll
