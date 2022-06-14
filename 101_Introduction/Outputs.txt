@@ -1,0 +1,11 @@
+C# Output
+
+ WriteLine()
+ - To output values or print text in C#, you can use the WriteLine() method:
+    Console.WriteLine("Hello World");
+ - WriteLine() will add a new line for each method.
+
+ Write()
+ - Write() method does not insert a new line at the end of the output:
+    Console.Write("Hello World! ");
+    Console.Write("I will print on the same line.");

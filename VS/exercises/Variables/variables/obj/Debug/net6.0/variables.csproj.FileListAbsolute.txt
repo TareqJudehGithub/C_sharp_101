@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\bin\Debug\net6.0\variables.exe
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\bin\Debug\net6.0\variables.deps.json
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\bin\Debug\net6.0\variables.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\bin\Debug\net6.0\variables.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\refint\variables.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\variables\obj\Debug\net6.0\ref\variables.dll

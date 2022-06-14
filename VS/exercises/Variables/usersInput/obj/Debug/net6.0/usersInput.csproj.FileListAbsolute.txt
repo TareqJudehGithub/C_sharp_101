@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\bin\Debug\net6.0\usersInput.exe
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\bin\Debug\net6.0\usersInput.deps.json
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\bin\Debug\net6.0\usersInput.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\bin\Debug\net6.0\usersInput.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\bin\Debug\net6.0\usersInput.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\refint\usersInput.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\usersInput.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\usersInput\obj\Debug\net6.0\ref\usersInput.dll

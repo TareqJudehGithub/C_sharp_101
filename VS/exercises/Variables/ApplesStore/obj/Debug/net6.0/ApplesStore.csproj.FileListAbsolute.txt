@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\bin\Debug\net6.0\ApplesStore.exe
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\bin\Debug\net6.0\ApplesStore.deps.json
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\bin\Debug\net6.0\ApplesStore.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\bin\Debug\net6.0\ApplesStore.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\bin\Debug\net6.0\ApplesStore.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\refint\ApplesStore.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ApplesStore.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\Variables\ApplesStore\obj\Debug\net6.0\ref\ApplesStore.dll

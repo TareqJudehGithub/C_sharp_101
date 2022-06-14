@@ -1,6 +1,10 @@
 What is C# 
   - Websites, web apps, mobile, ML, and gaming.
   - The C# language doesn't treat indentation or white space as significant. 
+  - Every C# statement ends with a semicolon;
+  - C# is case-sensitive: "MyClass" and "myclass" has different meaning.
+  
+
 
   
   

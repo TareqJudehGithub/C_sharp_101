@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\bin\Debug\net6.0\strInterpolation.exe
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\bin\Debug\net6.0\strInterpolation.deps.json
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\bin\Debug\net6.0\strInterpolation.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\bin\Debug\net6.0\strInterpolation.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\bin\Debug\net6.0\strInterpolation.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\refint\strInterpolation.dll
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.pdb
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\strInterpolation.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\exercises\strInterpolation\obj\Debug\net6.0\ref\strInterpolation.dll
