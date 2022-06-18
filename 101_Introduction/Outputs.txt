@@ -1,6 +1,7 @@
 C# Output
 
  WriteLine()
+ - The WriteLine() is called a method.
  - To output values or print text in C#, you can use the WriteLine() method:
     Console.WriteLine("Hello World");
  - WriteLine() will add a new line for each method.
@@ -9,3 +10,11 @@ C# Output
  - Write() method does not insert a new line at the end of the output:
     Console.Write("Hello World! ");
     Console.Write("I will print on the same line.");
+ 
+ - The data that's printed is sent in between the opening and closing parenthesis
+   as an input parameter.
+ - 
+ - The parentheses () are known as the method invocation operator.
+- The Console part is called a class. 
+- Classes "own" methods. Methods live inside of a class.
+

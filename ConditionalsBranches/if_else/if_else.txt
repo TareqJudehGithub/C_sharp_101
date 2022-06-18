@@ -1,12 +1,13 @@
-if/else statements
+if/else statements (Branches)
+ - Branches in C# means to do conditionals  (if, else if, and else).
  -  A boolean is a variable that can have one of two values: true or false. 
  - An if statement evaluates a boolean expression value.
- - When the value is true, the statement following the if executes. Otherwise, it's 
-   skipped.
+ - If the boolean expression value in the if statement is true, the statement between 
+ two parentheses {} executes. Otherwise, it's skipped.
  - If the boolean expression condition in the if statement was false, then
    the next condition wil be evaluated (the else if).
- - The statement following the else keyword executes only when the condition being 
-   tested is false.
+ - else keyword. Since the if and else if statements are not met, the else statement
+   block of code will run.
 
 
     int a = 5;

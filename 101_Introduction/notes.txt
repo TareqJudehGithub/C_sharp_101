@@ -2,7 +2,11 @@ What is C#
   - Websites, web apps, mobile, ML, and gaming.
   - The C# language doesn't treat indentation or white space as significant. 
   - Every C# statement ends with a semicolon;
+  - The semi-colon is the end of statement operator.
+  - A statement is a complete instruction in C#.
+  - The semi-colon tells the compiler that we're finished entering the command.
   - C# is case-sensitive: "MyClass" and "myclass" has different meaning.
+  - In C#, we always capitalize classes and methods. Console.WriteLine();
   
 
 

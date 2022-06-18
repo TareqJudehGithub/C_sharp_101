@@ -1,6 +1,8 @@
 C# Variables
 
-  - Variables are containers for storing data values.
+  - Variables are temporary storage containers for data.
+  - Variables are temporary values you store in the computer's memory address.
+  -  In C#, the variable is statically typed.
 
   - In C#, there are different types of variables (defined with different keywords), 
     for example:
@@ -14,6 +16,12 @@ C# Variables
     string myName = "John Smith";
   - We declared a new variable called myName assigning it the value "John Smith".
   - You can assign different values to any variable you declare.
+
+ - Initializing a variable
+  - You can initialize a variable by assigning a value to the variable at the point 
+    of declaration.
+      Example: 
+        string firstName = "Bob";
 
 Constants
  - You can add the const keyword if you don't want others (or yourself) to overwrite 
@@ -55,4 +63,23 @@ The general rules for naming variables are:
   - Names must begin with a letter
   - Names should start with a lowercase letter and it cannot contain whitespace
   - Names are case sensitive ("myVar" and "myvar" are different variables)
-  - Reserved words (like C# keywords, such as int or double) cannot be used as names
+  - Reserved words (like C# keywords, such as int or double) cannot be used as names.
+
+  - Here's a few examples of variable declarations:
+      char userOption;
+      int gameScore;
+      decimal particlesPerMillion;
+      bool processedCustomer;
+
+- What are implicitly typed local variables?
+  - An implicitly typed local variable is created using the var keyword, which 
+    instructs the C# compiler to infer the type. After the type is inferred, it's 
+    the same as if the actual data type had been used to declare the variable.
+  - the var keyword
+    - he var keyword tells the compiler to infer the data type of the variable 
+      based on the value it is initialized to.
+    - You can only use the var keyword if the variable is initialized.  
+      // wrong    var firstName; 
+        >>> (1,5): error CS0818: Implicitly-typed variables must be initialized
+      // correct  var firstName = "Bob";
+        >>> "Bob"

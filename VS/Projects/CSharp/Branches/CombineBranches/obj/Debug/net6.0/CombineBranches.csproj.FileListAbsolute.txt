@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\bin\Debug\net6.0\CombineBranches.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\bin\Debug\net6.0\CombineBranches.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\bin\Debug\net6.0\CombineBranches.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\bin\Debug\net6.0\CombineBranches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\bin\Debug\net6.0\CombineBranches.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\refint\CombineBranches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\CombineBranches.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\CombineBranches\obj\Debug\net6.0\ref\CombineBranches.dll

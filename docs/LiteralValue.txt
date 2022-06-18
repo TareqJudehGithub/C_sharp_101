@@ -1,0 +1,2 @@
+What is a literal value?
+ - A literal value is a hard-coded value that never changes.

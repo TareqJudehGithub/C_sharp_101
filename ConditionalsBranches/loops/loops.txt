@@ -1,8 +1,10 @@
 while loop 
     - Whenever the condition is true, keep on repeating it.
-    - while-loop will repeat checking the condition and executing those statements until 
-    - The while-loop tests the condition before executing the code following the while. 
-      the condition is false.
+    - A while loop will repeat checking the condition and executing those statements
+      until a condition (boolean expression) is no longer true.
+    - The while loop tests the condition before executing the code following the while.
+    - Make sure that the while loop condition does switch to false as you execute 
+    the code. Otherwise, you create an infinite loop where your program never ends. 
         int counter = 10;
 
         while (counter > 0)
@@ -20,7 +22,7 @@ while loop
  - The first part is the for initializer: int counter = 0; declares that counter is the 
    loop variable, and sets its initial value to 0.
  - The middle part is the for condition: counter < 10 declares that this for loop 
-   continues to execute as long as the value of counter is less than 10.
+   continues to execute a`s long as the value of counter is less than 10.
  - The final part is the for iterator: counter++ specifies how to modify the loop 
    variable after executing the block following the for statement. Here, it specifies 
    that counter should be incremented by 1 each time the block executes.

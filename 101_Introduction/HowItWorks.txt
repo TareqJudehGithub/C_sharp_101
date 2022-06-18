@@ -1,0 +1,52 @@
+What is a programming language?
+ - Programming languages like C# enable you to write instructions that you want 
+   the computer to carry out.
+ - Each programming language has a different syntax.
+ - A programming language's job is to enable a human to write instructions in a 
+   human-readable and understandable way.
+ - The instructions you write in a programming language is called 
+   "source code", or just "code".  
+ -  computer can't understand the code. It first must be compiled into a format 
+    that the computer can understand.
+ 
+ What is compilation?
+  - A special program called a compiler converts your source code into a different 
+    format (machine code) that is executable by the computer's CPU .
+
+What is syntax?
+- The syntax of a programming language includes the keywords, the operators.
+- The operators are those special keyboard characters like the semicolon or parenthesis.
+
+
+Explaining "Hello World!" and keywords
+  using System;
+  namespace Branches
+  {
+      internal class Program
+      {
+          static void Main(string[] args)
+          {
+              Console.WriteLine("Hello, World!");
+          }
+      }
+  }
+
+ - using System;
+  - using keyword is importing other libraries.
+ - namespace keyword. 
+  - A container/package to organize classes.
+  - all of the code inside namespace is hold by curly braces {}
+ 
+ - static void Main(string[] args) 
+  - This is the main entry point, where the program will start.
+  - 
+
+ - class
+
+ - static
+  - The main method above must be static, it cannot be changed.
+ - void
+  - Meaning this method does not return anything.
+ - String[] args
+  - String of arrays with unlimited arguments.
+  

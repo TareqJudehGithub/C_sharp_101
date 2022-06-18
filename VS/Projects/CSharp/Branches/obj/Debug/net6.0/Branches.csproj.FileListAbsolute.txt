@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\bin\Debug\net6.0\Branches.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\bin\Debug\net6.0\Branches.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\bin\Debug\net6.0\Branches.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\bin\Debug\net6.0\Branches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\bin\Debug\net6.0\Branches.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\refint\Branches.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\Branches.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Branches\obj\Debug\net6.0\ref\Branches.dll
