@@ -8,34 +8,35 @@ C# Operators
  - Arithmetic Operators
   - Arithmetic operators are used to perform common mathematical operations: 
 
-    Operator	Name	          Description	                            Example
-    +	        Addition	      Adds together two values	              x + y	
-    -	        Subtraction	    Subtracts one value from another	      x - y	
-    *	        Multiplication	Multiplies two values	                  x * y	
-    /	        Division	      Divides one value by another	          x / y	
-    %	        Modulus	        Returns the division remainder	        x % y	
-    ++	      Increment	      Increases the value of a variable by    1	x++	
-    --	      Decrement	      Decreases the value of a variable by    1	x--
+    Operator	Name	            Description	                          Example
+    +	     Addition	       Adding values | concatenation	      x + y | name + age
+    -	     Subtraction	  Subtracts one value from another	      x - y	
+    *	     Multiplication	  Multiplies two values	                x * y	
+    /	     Division	       Divides one value by another	      x / y	
+    %	     Modulus	       Returns the division remainder	      x % y	
+    ++	     Increment	       Increases the value of a variable by   x++	
+    --	     Decrement	       Decreases the value of a variable by   x--
 
- - Assignment Operators
-  int x = 10;
- - The addition assignment operator (+=) adds a value to a variable:
+ - Assignment Operators (compound assignment operators)
+ 4569* int x = 10;
+ - The addition assignment operator += adds (increment) a value to a variable:
       x += 5;
  
       A list of all assignment operators:
-      Operator	Example	Same As	
-      =	        x = 5	  x = 5	
-      +=	      x += 3	x = x + 3	
-      -=	      x -= 3	x = x - 3	
-      *=	      x *= 3	x = x * 3	
-      /=	      x /= 3	x = x / 3	
-      %=	      x %= 3	x = x % 3	
-      &=	      x &= 3	x = x & 3	
-      |=	      x |= 3	x = x | 3	
-      ^=	      x ^= 3	x = x ^ 3	
-      >>=	      x >>= 3	x = x >> 3	
-      <<=	      x <<= 3	x = x << 3	
-
+      Operator	Example	     Same As	
+      =	      x = 5	     x = 5	
+      +=	      x += 3	     x = x + 3	
+      -=	      x -= 3	     x = x - 3	
+      *=	      x *= 3	     x = x * 3	
+      /=	      x /= 3	     x = x / 3	
+      %=	      x %= 3	     x = x % 3	
+      &=	      x &= 3	     x = x & 3	
+      |=	      x |= 3	     x = x | 3	
+      ^=	      x ^= 3	     x = x ^ 3	
+      >>=	      x >>= 3	     x = x >> 3	
+      <<=	      x <<= 3	     x = x << 3	
+      --        x = x - 1     x--
+      ++        x = x + 1     x++
 
  - C# Comparison Operators
   - Comparison operators are used to compare two values:
@@ -56,3 +57,5 @@ C# Operators
       || 	      Logical or	  Returns true if one of the statements is true	          x < 5 || x < 4	
       !	        Logical not	  Reverse the result, returns false if the result is true	!(x < 5 && x < 10)
 
+- % the remainder
+  -The remainder operator % tells you the remainder of int division.

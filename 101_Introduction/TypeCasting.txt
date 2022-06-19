@@ -16,6 +16,11 @@ C# Type Casting
        parentheses in front of the value:
         double myDouble = 9.78;
         int myInt = (int) myDouble; // Manual casting: double to int
+
+        int numOne = 10;
+        int numTwo = 3;
+        decimal result = (decimal)numOne / (decimal)numTwo;
+        Console.WriteLine(result);
   
   Type Conversion Methods
     It is also possible to convert data types explicitly by using built-in methods.

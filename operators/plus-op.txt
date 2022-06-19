@@ -1,0 +1,15 @@
+ Mix data types to force implicit type conversions
+  int firstNum = 12;
+  int secondNum = 7;
+  string name = "Bob";
+
+  Console.WriteLine(firstNum + secondNum);
+  Console.WriteLine(name + " sold " + (firstNum + secondNum) + " apples.");
+
+ - C# compiler attempts to implicitly convert the int variable into a 
+   string temporarily so it can concatenate it to the rest of the string.
+ - overloading an operator
+  - Add parentheses to make our intention clear to the compiler. 
+  - The parentheses symbol () becomes another overloaded operator.
+  - We indicate that we want the inner-most parentheses resolved first resulting 
+    in the addition of int values (firstNum + secondNum).

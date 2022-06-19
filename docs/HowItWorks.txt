@@ -1,6 +1,8 @@
 What is a programming language?
  - Programming languages like C# enable you to write instructions that you want 
    the computer to carry out.
+ - Programming is writing instructions that the computer will follow to perform 
+   various tasks.
  - Each programming language has a different syntax.
  - A programming language's job is to enable a human to write instructions in a 
    human-readable and understandable way.
@@ -8,15 +10,29 @@ What is a programming language?
    "source code", or just "code".  
  -  computer can't understand the code. It first must be compiled into a format 
     that the computer can understand.
- 
+
  What is compilation?
-  - A special program called a compiler converts your source code into a different 
-    format (machine code) that is executable by the computer's CPU .
+  - A special program called a compiler converts your source code (high level language) 
+    into a different format (machine code - low level language) that is executable by 
+    the computer's CPU .
+  - High level (C# code) ==> Assembly level (Intermediate language) ==> process level (Machine code)
 
 What is syntax?
 - The syntax of a programming language includes the keywords, the operators.
 - The operators are those special keyboard characters like the semicolon or parenthesis.
 
+C# language
+  - Released in 2001 by Microsoft.
+  - C# is one of the most popular and in demand programming languages.
+  - Simple, modern, OOP, and type-safe programming language.
+  - Mobile ,desktop, and web apps.
+  - Web services and Web sites.
+  - Games and VR.
+  - Database apps.
+
+.Net
+ - A framework (development platform) for for building various application.
+ - Common Language runtime (CLR) and a set of class libraries.
 
 Explaining "Hello World!" and keywords
   using System;
@@ -32,17 +48,17 @@ Explaining "Hello World!" and keywords
   }
 
  - using System;
-  - using keyword is importing other libraries.
+  - using keyword is importing other libraries and classes.
+
  - namespace keyword. 
-  - A container/package to organize classes.
-  - all of the code inside namespace is hold by curly braces {}
+  - A container/package to organize classes, other namespace, and code.
+  - all of the code inside namespace or any block is hold by curly braces {}
  
  - static void Main(string[] args) 
   - This is the main entry point, where the program will start.
-  - 
 
  - class
-
+  - A container for data and methods that bring functionality to our program.
  - static
   - The main method above must be static, it cannot be changed.
  - void

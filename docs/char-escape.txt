@@ -10,7 +10,6 @@ Character Escape Sequences
     \t    Adds a tab                        "ID\tName\tEmail\tAddress"
     \"    insert a " in a literal string    "My name\"s John Smith"
     \r    Add a return
-
     \\   Displays a single backslash.       "c:\\source\\repos"
 
 
@@ -33,3 +32,4 @@ Solution:
 
   string russianLocation = $"c:\\Exercise\\{projectName}\\ru-RU\\data.txt";
   Console.WriteLine($"{russianMessage}:\n\t\t{russianLocation}");
+

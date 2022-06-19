@@ -1,0 +1,4 @@
+Order of Operations
+
+ - In math, PEMDAS is an acronym that helps students remember the order in which 
+   multiple operations are performed. The order is:
