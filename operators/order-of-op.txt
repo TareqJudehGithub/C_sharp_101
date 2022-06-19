@@ -2,3 +2,7 @@ Order of Operations
 
  - In math, PEMDAS is an acronym that helps students remember the order in which 
    multiple operations are performed. The order is:
+    1. Parentheses (whatever is inside the parenthesis is performed first)
+    2. Exponents. In C# we can use System.Math.Pow() method.
+    3. Multiplication and Division (from left to right)
+    4. Addition and Subtraction (from left to right)

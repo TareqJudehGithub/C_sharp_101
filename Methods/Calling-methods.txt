@@ -1,0 +1,70 @@
+Calling methods in C#
+
+- Methods are part of a class. They live in the class.
+    // Create a new instance from Random class and store the reference to the new object
+    // in dice variable
+    Random dice = new Random();
+
+    // Call Next() method passing it two parameters (min, max)
+    int roll = dice.Next(1, 6);
+    Console.WriteLine(roll);
+
+- Stateful versus stateless methods:
+  - state describes the condition of the execution environment at a specific 
+    moment in time. 
+    - As your code executes line by line, values are stored in variables. 
+    - At any moment during execution, the current state of the application is the 
+      collection of all values stored in memory.
+  - some methods are stateful and others are stateless.
+ 
+ - stateless methods
+  - Some methods don't rely on the current state of the application to work properly. 
+  - stateless methods are implemented so that they can work without referencing or 
+    changing any values already stored in memory.
+  - Stateless methods are also known as static methods.  
+  - For example, the Console.WriteLine() method doesn't rely on any values stored in 
+    memory. It performs its function and finishes without impacting the state of the 
+    application in any way.
+  
+  - Stateful methods 
+   - Stateful methods are built in such a way that they rely on values stored in memory.
+   - Stateful methods modify the state of the application by updating values or storing 
+     new values in memory.    
+   - Stateful methods are also known as instance methods.
+   - Stateful (instance) methods keep track of their state in fields, which are 
+     variables defined on the class. 
+   - Each new instance of the class gets its own copy of those fields in which to 
+     store state.
+   - A single class can support both stateful and stateless methods. 
+   - To call stateful methods, you must first create an instance of the class so that 
+     the method can access state.
+
+  - Creating an instance of a class
+   - An instance of a class is called an object.
+   - To create a new instance of a class, you use the new operator. 
+
+    Example: Consider the following line of code that creates a new instance of the 
+             Random class to create a new object called dice:
+             Random dice = new Random();
+    
+    The 'new' operator does several important things:
+      - It first requests an address in the computer's memory large enough to store a 
+        new object based on the Random class.
+      - It creates the new object, and stores it at the memory address.
+       -It returns the memory address so that it can be saved in the dice variable.
+
+    - From that point on, when the dice variable is referenced, the .NET Runtime 
+      performs a lookup behind the scenes to give the illusion that you're working 
+      directly with the object itself.
+
+
+Recap
+ - To call methods of a class in the .NET Class Library, you use the format 
+   ClassName.MethodName(), where the . symbol is the member access operator to access a 
+   method defined on the class, and the () symbols are the method invocation operators.
+ - When calling a stateless method, you don't need to create a new instance of its class 
+   first.
+ - When calling a stateful method, you need to create an instance of the class, and access 
+   the method on the object.
+ - Use the new operator to create a new instance of a class.
+ - An instance of a class is called an object.

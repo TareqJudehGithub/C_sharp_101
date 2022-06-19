@@ -7,6 +7,9 @@ What is C#
   - The semi-colon tells the compiler that we're finished entering the command.
   - C# is case-sensitive: "MyClass" and "myclass" has different meaning.
   - In C#, we always capitalize classes and methods. Console.WriteLine();
+  - Microsoft Intellisense can help write code more quickly. It provides a quick 
+    reference to methods, their return values, their overloaded versions, and the 
+    types of their input parameters.
   
 
 

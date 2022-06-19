@@ -1,0 +1,40 @@
+Overloaded methods
+- Many methods in the .NET Class Library have overloaded method signatures.
+- An overloaded method is defined with multiple method signatures.
+- Overloaded methods provide different ways to call the method or provide different 
+  types of data.
+- Overloaded methods support several implementations of the method, each with a unique
+  method signature (the number of input parameters and the data type of each input 
+  parameter).
+- For example, The Math.Max() method supports 11 overloaded versions to accept different 
+  data types. The overloaded version of the Math.Max() method that we call will accept 
+  int as both input parameters, and returns the larger of the two values as an int.
+
+    int firstValue = 500;
+    int secondValue = 600;
+    int largerValue = Math.Max(firstValue, secondValue);
+    Console.WriteLine(largerValue);
+
+  - The Console.Writeline() class method also provides different types of data.
+  int number = 7;
+  string text = "seven";
+
+  Console.WriteLine(number);
+  Console.WriteLine();
+  Console.WriteLine(text);
+  
+  In this example, you're invoking three separate overloaded versions of the 
+  WriteLine() method.
+
+
+  The following code example calls the Random.Next() using three different overloaded 
+  versions.
+
+    Random dice = new Random();
+    int roll1 = dice.Next();
+    int roll2 = dice.Next(101);
+    int roll3 = dice.Next(50, 101);
+
+    Console.WriteLine($"First roll: {roll1}");
+    Console.WriteLine($"Second roll: {roll2}");
+    Console.WriteLine($"Third roll: {roll3}");

@@ -1,0 +1,15 @@
+Return values
+ - Some methods are designed to complete their function, and end "quietly". they 
+   don't return values when they finish. They are referred to as void methods.
+ -  A return value is a primary way a method can communicate back to the code that 
+    calls the method.
+ - A method can be designed to return any data type, even another class.
+ - The Random.Next() method returns an int value of the randomly generated number.
+
+- Methods Input parameters
+ - Some methods are designed to accept no input parameters. These methods need no 
+   additional input to complete their task.
+ - Other methods are designed to accept one or more input parameters. 
+      int roll = dice.Next(1, 7);
+ - Input parameters are defined using a data type. We can't pass values of a 
+   different data type as input parameters and expect the method to work.

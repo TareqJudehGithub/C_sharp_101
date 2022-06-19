@@ -33,6 +33,9 @@ C# language
 .Net
  - A framework (development platform) for for building various application.
  - Common Language runtime (CLR) and a set of class libraries.
+ - The .NET Class Library is a collection of thousands of classes containing tens of 
+   thousands of methods. Even our data types are part of the .NET Class Library. 
+ - .NET Runtime hosts and manages your code as it executes on the end user's computer. 
 
 Explaining "Hello World!" and keywords
   using System;
@@ -52,13 +55,21 @@ Explaining "Hello World!" and keywords
 
  - namespace keyword. 
   - A container/package to organize classes, other namespace, and code.
+    - Think of a namespace as the last name, surname or "family name" for a type. 
+    - A class contains the code that implements a type. 
+    - Classes are organized into namespaces to prevent naming collisions.
+    - The namespace helps to make sure no two classes have the same full name.
+    - A namespace prevents naming collisions between class names in the .NET Class 
+      Library.
   - all of the code inside namespace or any block is hold by curly braces {}
  
  - static void Main(string[] args) 
   - This is the main entry point, where the program will start.
 
  - class
-  - A container for data and methods that bring functionality to our program.
+  - A container for methods that bring functionality to our program.
+  - Developers typically keep related methods together in a single class.
+
  - static
   - The main method above must be static, it cannot be changed.
  - void
