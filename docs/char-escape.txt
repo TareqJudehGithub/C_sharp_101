@@ -1,0 +1,35 @@
+Character Escape Sequences
+ 
+ - An escape character sequence is a special instruction to the runtime that you 
+   want to insert a special character that will affect the output of your string.
+ - In C#, the escape character sequences begin with a backslash \ and then include 
+   another character. 
+
+    \     Adds white space                  "Hello\nWorld!"
+    \n    Adds a new line                   "Hello,\nJohn!"
+    \t    Adds a tab                        "ID\tName\tEmail\tAddress"
+    \"    insert a " in a literal string    "My name\"s John Smith"
+    \r    Add a return
+
+    \\   Displays a single backslash.       "c:\\source\\repos"
+
+
+Challenge: 
+
+  string projectName = "ACME";
+  string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+  
+  - Givin the above two variables, Produce the below output:
+      View English output:
+        c:\Exercise\ACME\data.txt
+
+      Посмотреть русский вывод:
+        c:\Exercise\ACME\ru-RU\data.txt
+
+Solution:
+
+  string englishLocation = $"c:\\Exercise\\{projectName}\\data.txt\n";
+  Console.WriteLine($"View English output:\n\t\t{englishLocation}");
+
+  string russianLocation = $"c:\\Exercise\\{projectName}\\ru-RU\\data.txt";
+  Console.WriteLine($"{russianMessage}:\n\t\t{russianLocation}");

@@ -1,0 +1,10 @@
+Verbatim String Literal
+ - A verbatim string literal will keep all whitespace and characters without the 
+   need to escape the backslash. 
+ - To create a verbatim string, use the @ directive before the literal string.
+ - @ Adds a new line.
+ - @ Allows us to continue typing string literal in a new line.
+      Console.WriteLine(@"To create a verbatim string, use 
+      the @ directive before the literal string.");
+
+

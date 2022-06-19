@@ -1,0 +1,6 @@
+Unicode Escape Characters
+ - Adds encoded characters in literal strings using the \u escape sequence.
+ - The \u is followed by a four-character code representing some character 
+   in Unicode (UTF-16).
+      // Kon'nichiwa World
+      Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");

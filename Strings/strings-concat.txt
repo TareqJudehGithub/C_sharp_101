@@ -1,0 +1,4 @@
+String Concatenation
+ - String concatenation is combining two or more values into a new value.
+ - values are combines using + operator in string concatenations.
+ 
