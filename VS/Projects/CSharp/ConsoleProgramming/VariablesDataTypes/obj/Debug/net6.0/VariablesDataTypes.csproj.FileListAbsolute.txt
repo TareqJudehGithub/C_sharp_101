@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\refint\VariablesDataTypes.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\VariablesDataTypes\obj\Debug\net6.0\ref\VariablesDataTypes.dll

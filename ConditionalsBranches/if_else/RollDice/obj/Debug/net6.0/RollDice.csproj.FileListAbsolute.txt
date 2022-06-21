@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\bin\Debug\net6.0\RollDice.exe
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\bin\Debug\net6.0\RollDice.deps.json
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\bin\Debug\net6.0\RollDice.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\bin\Debug\net6.0\RollDice.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\bin\Debug\net6.0\RollDice.pdb
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\refint\RollDice.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.pdb
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\RollDice.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\RollDice\obj\Debug\net6.0\ref\RollDice.dll

@@ -1,0 +1,4 @@
+What is a code block?
+- A code block is a collection of one or more lines of code that are defined by 
+  an opening and closing curly brace symbol { }. 
+- Code blocks can contain other code blocks. 

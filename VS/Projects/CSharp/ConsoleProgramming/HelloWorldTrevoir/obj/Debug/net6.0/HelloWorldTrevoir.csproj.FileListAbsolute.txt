@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\bin\Debug\net6.0\HelloWorldTrevoir.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\bin\Debug\net6.0\HelloWorldTrevoir.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\bin\Debug\net6.0\HelloWorldTrevoir.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\bin\Debug\net6.0\HelloWorldTrevoir.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\bin\Debug\net6.0\HelloWorldTrevoir.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\refint\HelloWorldTrevoir.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\HelloWorldTrevoir.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\HelloWorldTrevoir\obj\Debug\net6.0\ref\HelloWorldTrevoir.dll

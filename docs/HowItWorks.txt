@@ -32,10 +32,12 @@ C# language
 
 .Net
  - A framework (development platform) for for building various application.
- - Common Language runtime (CLR) and a set of class libraries.
  - The .NET Class Library is a collection of thousands of classes containing tens of 
    thousands of methods. Even our data types are part of the .NET Class Library. 
  - .NET Runtime hosts and manages your code as it executes on the end user's computer. 
+ - Common Language Runtime (CLR) and a set of class libraries.
+    - CLR is the programming (Virtual Machine component) that manages the execution of 
+      programs written in any language (C#, F#, or VB) that uses the .NET Framework. 
 
 Explaining "Hello World!" and keywords
   using System;
@@ -76,4 +78,17 @@ Explaining "Hello World!" and keywords
   - Meaning this method does not return anything.
  - String[] args
   - String of arrays with unlimited arguments.
+
+- What is a console?
+  - An application that uses the command line for input and output rather than a 
+    graphical interface (GUI). For example, utility programs that perform a single 
+    function or that run in the background are often written as console apps.
   
+- There are three structures in C# programming:
+
+  1. Sequence 
+    - Sequence is to follow to order from writing code, from top to bottom.
+  2. Decision
+    - To build logics based on decisions.
+  3. Repetition
+    - To repeat and same blocks or lines of codes.

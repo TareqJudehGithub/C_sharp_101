@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\bin\Debug\net6.0\inputOutput.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\bin\Debug\net6.0\inputOutput.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\bin\Debug\net6.0\inputOutput.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\bin\Debug\net6.0\inputOutput.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\bin\Debug\net6.0\inputOutput.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\refint\inputOutput.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\inputOutput.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\inputOutput\obj\Debug\net6.0\ref\inputOutput.dll

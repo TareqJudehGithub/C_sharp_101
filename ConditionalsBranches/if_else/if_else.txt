@@ -1,6 +1,7 @@
 if/else statements (Branches)
  - Branches in C# means to do conditionals  (if, else if, and else).
- -  A boolean is a variable that can have one of two values: true or false. 
+ - The most widely used branching statement is the if statement.
+ - A boolean is a variable that can have one of two values: true or false. 
  - An if statement evaluates a boolean expression value.
  - If the boolean expression value in the if statement is true, the statement between 
  two parentheses {} executes. Otherwise, it's skipped.
@@ -9,17 +10,32 @@ if/else statements (Branches)
  - else keyword. Since the if and else if statements are not met, the else statement
    block of code will run.
 
-
+ 
     int a = 5;
     int b = 6;
 
     // Check if a is greater than b
+  - The if statement relies on a Boolean expression that is enclosed in a set of parentheses. 
+  - If the expression is true, the code after the if statement is executed.
     if (a > b && b >= 1)
     {
         Console.WriteLine($"{a} is greater than {b}!");
     }
     else
+    - If the expression is false, the code after the if statement is skipped.
     {
         Console.WriteLine($"{b} is greater than {a}");
     }
 
+What is a Boolean expression?
+ - A Boolean expression is any code that returns a Boolean value, either true or false. 
+ - Other simple Boolean expressions can be created by using operators to compare two 
+   values. Operators include:
+
+    ==, the "equals" operator, to test for equality.
+    >, the "greater than" operator, to test that the value on the left is greater than 
+       the value on the right.
+    <, the "less than" operator, to test that the value on the left is less than the 
+       value on the right.
+    >=, the "greater than or equal to" operator.
+    <=, the "less than or equal to" operator.
