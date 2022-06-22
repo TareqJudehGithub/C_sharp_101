@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\bin\Debug\net6.0\Challenge.exe
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\bin\Debug\net6.0\Challenge.deps.json
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\bin\Debug\net6.0\Challenge.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\bin\Debug\net6.0\Challenge.pdb
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.pdb
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\ConditionalsBranches\if_else\Challenge\obj\Debug\net6.0\ref\Challenge.dll
