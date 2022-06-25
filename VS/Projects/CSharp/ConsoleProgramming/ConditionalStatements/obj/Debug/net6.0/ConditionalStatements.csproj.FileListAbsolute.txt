@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\refint\ConditionalStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\ConditionalStatements\obj\Debug\net6.0\ref\ConditionalStatements.dll

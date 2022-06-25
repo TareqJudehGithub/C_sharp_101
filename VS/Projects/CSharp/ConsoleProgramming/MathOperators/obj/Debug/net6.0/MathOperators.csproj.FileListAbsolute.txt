@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\bin\Debug\net6.0\MathOperators.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\bin\Debug\net6.0\MathOperators.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\bin\Debug\net6.0\MathOperators.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\bin\Debug\net6.0\MathOperators.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\bin\Debug\net6.0\MathOperators.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\refint\MathOperators.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\MathOperators.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MathOperators\obj\Debug\net6.0\ref\MathOperators.dll
