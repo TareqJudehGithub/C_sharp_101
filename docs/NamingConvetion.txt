@@ -1,0 +1,26 @@
+C# Variables naming conventions
+
+Variable name rules
+  - Variable names can contain alphanumeric characters and the underscore character. 
+  - Special characters like the pound #, the dash -, and the dollar sign $ are not 
+    allowed.
+  - Variable names must begin with an alphabetical letter or an underscore, not a number.
+  - Variable names must NOT be a C# keyword.
+  - Variable names are case-sensitive, meaning that string MyValue; and string myValue; 
+    are two different variables.
+
+Variable name conventions
+ Conventions are suggestions that are agreed upon by the software development community. 
+
+ Variable name conventions
+  - Variable names should use camel case.  string firstName;
+  - Variable names should be descriptive and meaningful in your application.
+  - Variable names should be one or more entire words appended together. 
+  - Variable names shouldn't include the data type of the variable.
+ 
+ Variable name examples
+  char userOption;
+  int gameScore;
+  float particlesPerMillion;
+  bool processedCustomer;
+  

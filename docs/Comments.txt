@@ -1,0 +1,19 @@
+What is a code comment?
+ - A code comment is an instruction to the compiler to ignore everything after the  
+   code comment symbols in the current line.
+
+    // This is a code comment!
+
+ When should we use code comment?
+  - When you want to leave a note about the intent of a passage of code. 
+  - When you want to temporarily remove code from your application to try a different 
+    approach.
+  - Adding a message like TODO to remind you to look at a given passage of code later. 
+
+
+    /* 
+    This is a long comment 
+    that spans multiple lines
+    just to prove that it can
+    be done.
+  */
