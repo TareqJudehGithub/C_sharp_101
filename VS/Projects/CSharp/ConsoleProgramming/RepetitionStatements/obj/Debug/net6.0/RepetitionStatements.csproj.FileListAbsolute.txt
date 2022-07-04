@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\bin\Debug\net6.0\RepetitionStatements.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\refint\RepetitionStatements.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\RepetitionStatements.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\RepetitionStatements\obj\Debug\net6.0\ref\RepetitionStatements.dll

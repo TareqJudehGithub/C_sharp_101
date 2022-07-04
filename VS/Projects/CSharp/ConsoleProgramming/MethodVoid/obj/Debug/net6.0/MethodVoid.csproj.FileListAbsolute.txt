@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\bin\Debug\net6.0\MethodVoid.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\bin\Debug\net6.0\MethodVoid.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\bin\Debug\net6.0\MethodVoid.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\bin\Debug\net6.0\MethodVoid.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\bin\Debug\net6.0\MethodVoid.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\refint\MethodVoid.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\MethodVoid.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\MethodVoid\obj\Debug\net6.0\ref\MethodVoid.dll
