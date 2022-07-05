@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\bin\Debug\net6.0\DateTimeManipulation.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\bin\Debug\net6.0\DateTimeManipulation.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\bin\Debug\net6.0\DateTimeManipulation.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\bin\Debug\net6.0\DateTimeManipulation.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\bin\Debug\net6.0\DateTimeManipulation.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\refint\DateTimeManipulation.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\DateTimeManipulation.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\DateTimeManipulation\obj\Debug\net6.0\ref\DateTimeManipulation.dll
