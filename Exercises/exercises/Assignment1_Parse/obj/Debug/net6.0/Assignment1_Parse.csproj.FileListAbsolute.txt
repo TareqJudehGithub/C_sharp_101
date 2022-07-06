@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\bin\Debug\net6.0\Assignment1_Parse.exe
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\bin\Debug\net6.0\Assignment1_Parse.deps.json
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\bin\Debug\net6.0\Assignment1_Parse.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\bin\Debug\net6.0\Assignment1_Parse.dll
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\bin\Debug\net6.0\Assignment1_Parse.pdb
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.dll
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\refint\Assignment1_Parse.dll
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.pdb
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\Assignment1_Parse.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Exercises\Assignment1_Parse\obj\Debug\net6.0\ref\Assignment1_Parse.dll
