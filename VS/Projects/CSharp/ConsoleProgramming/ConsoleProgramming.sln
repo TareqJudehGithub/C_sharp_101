@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepetitionStatements", "Rep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodVoid", "MethodVoid\MethodVoid.csproj", "{6201BFD9-DA0A-47A7-8041-DDA675F2ED70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeManipulation", "DateTimeManipulation\DateTimeManipulation.csproj", "{C06276FB-FBDC-47E6-A485-9EBD6859F213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

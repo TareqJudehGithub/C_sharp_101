@@ -1,0 +1,10 @@
+SubString(int32)
+ - Is used to get the substring from the string, starting from a specified
+   index.
+
+Trim()
+ - Trims white spaces leading and trailing from characters inside.
+
+IndexOf(string)
+ - Used to get the first occurrence of the string of character inside the string.
+

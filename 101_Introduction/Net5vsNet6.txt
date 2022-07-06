@@ -1,0 +1,20 @@
+.Net5
+
+using System;
+
+namespace Net5App
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+
+.Net6
+Console.WriteLine("Hello World!");
+
+

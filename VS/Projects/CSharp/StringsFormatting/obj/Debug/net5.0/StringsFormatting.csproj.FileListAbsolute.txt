@@ -1,0 +1,16 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.runtimeconfig.dev.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\bin\Debug\net5.0\StringsFormatting.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\refint\StringsFormatting.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\StringsFormatting.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringsFormatting\obj\Debug\net5.0\ref\StringsFormatting.dll

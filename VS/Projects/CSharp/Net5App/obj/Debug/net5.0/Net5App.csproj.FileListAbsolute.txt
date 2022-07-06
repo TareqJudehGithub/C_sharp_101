@@ -1,0 +1,16 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.runtimeconfig.dev.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\bin\Debug\net5.0\Net5App.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\refint\Net5App.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\Net5App.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\Net5App\obj\Debug\net5.0\ref\Net5App.dll

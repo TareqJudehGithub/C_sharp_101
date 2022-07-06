@@ -1,0 +1,16 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.runtimeconfig.dev.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\bin\Debug\net5.0\DenisMasterClass.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\refint\DenisMasterClass.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\DenisMasterClass.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\DenisMasterClass\obj\Debug\net5.0\ref\DenisMasterClass.dll

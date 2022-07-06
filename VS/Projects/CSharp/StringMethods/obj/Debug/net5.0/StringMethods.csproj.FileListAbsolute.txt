@@ -1,0 +1,16 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.dev.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\bin\Debug\net5.0\StringMethods.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\refint\StringMethods.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\StringMethods.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\StringMethods\obj\Debug\net5.0\ref\StringMethods.dll

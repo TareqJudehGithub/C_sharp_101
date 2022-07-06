@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\bin\Debug\net6.0\HelloWorld1.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\bin\Debug\net6.0\HelloWorld1.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\bin\Debug\net6.0\HelloWorld1.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\bin\Debug\net6.0\HelloWorld1.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\bin\Debug\net6.0\HelloWorld1.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\refint\HelloWorld1.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\HelloWorld1.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\HelloWorld1\obj\Debug\net6.0\ref\HelloWorld1.dll
