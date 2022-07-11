@@ -8,6 +8,7 @@ namespace StringManipulation
         {
             Console.WriteLine("String Manipulation in C#");
 
+
             string name = "Alfonso";
             int age = 31;
             string mood = "happy";

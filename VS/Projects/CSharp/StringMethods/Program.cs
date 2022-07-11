@@ -13,7 +13,7 @@ namespace StringMethods
 
             Console.WriteLine(firstName.IndexOf('o'));
 
-            string fullName = string.Concat(" ",firstName, lastName," ");
+            string fullName = string.Concat(" ", firstName, lastName, " ");
             Console.WriteLine(fullName);
             Console.WriteLine(firstName.Substring(1));
             Console.WriteLine(firstName);

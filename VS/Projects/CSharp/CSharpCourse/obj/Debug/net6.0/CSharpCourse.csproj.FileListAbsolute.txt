@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\bin\Debug\net6.0\CSharpCourse.exe
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\bin\Debug\net6.0\CSharpCourse.deps.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\bin\Debug\net6.0\CSharpCourse.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\bin\Debug\net6.0\CSharpCourse.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\bin\Debug\net6.0\CSharpCourse.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\refint\CSharpCourse.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.pdb
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\CSharpCourse.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\CSharpCourse\obj\Debug\net6.0\ref\CSharpCourse.dll

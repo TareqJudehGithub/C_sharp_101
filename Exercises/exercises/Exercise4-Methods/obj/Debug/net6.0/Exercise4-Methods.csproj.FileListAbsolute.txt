@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\bin\Debug\net6.0\Exercise4-Methods.exe
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\bin\Debug\net6.0\Exercise4-Methods.deps.json
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\bin\Debug\net6.0\Exercise4-Methods.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\bin\Debug\net6.0\Exercise4-Methods.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\bin\Debug\net6.0\Exercise4-Methods.pdb
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\refint\Exercise4-Methods.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.pdb
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\Exercise4-Methods.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\Exercise4-Methods\obj\Debug\net6.0\ref\Exercise4-Methods.dll

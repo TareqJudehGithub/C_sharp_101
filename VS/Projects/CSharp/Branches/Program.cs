@@ -1,12 +1,13 @@
-﻿namespace Branches
+﻿using System;
+namespace Branches
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("If statements");
-            int a = 15;
-            int b = 25;
+                Console.WriteLine("If statements");
+                int a = 15;
+                int b = 25;
 
             if (a > b)
             {
