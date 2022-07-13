@@ -1,0 +1,20 @@
+TryParse method
+ - TryParse converts strings into numeric data types.
+      string numberAsString = "128";
+      int parsedValue;
+
+     string numInStr = "1000";
+     int parsedValue;
+
+     //try
+     //{
+     bool success = int.TryParse(numInStr, out parsedValue);
+     if (success)
+     {
+          Console.WriteLine($"Parsing was successful! number {parsedValue}");
+     }
+     else
+     {
+          Console.WriteLine("Parsing failed!");
+     }
+

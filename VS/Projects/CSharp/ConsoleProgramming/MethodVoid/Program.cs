@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Methods - Void\n");
-            
+
             greet();
 
             Console.Write("Enter the first number: ");

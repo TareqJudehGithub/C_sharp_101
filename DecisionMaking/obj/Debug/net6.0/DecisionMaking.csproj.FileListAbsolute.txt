@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\DecisionMaking\bin\Debug\net6.0\DecisionMaking.exe
+E:\web\ASP_NET\CSharp101\DecisionMaking\bin\Debug\net6.0\DecisionMaking.deps.json
+E:\web\ASP_NET\CSharp101\DecisionMaking\bin\Debug\net6.0\DecisionMaking.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\DecisionMaking\bin\Debug\net6.0\DecisionMaking.dll
+E:\web\ASP_NET\CSharp101\DecisionMaking\bin\Debug\net6.0\DecisionMaking.pdb
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.dll
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\refint\DecisionMaking.dll
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.pdb
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\DecisionMaking.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\DecisionMaking\obj\Debug\net6.0\ref\DecisionMaking.dll

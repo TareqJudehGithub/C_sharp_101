@@ -12,7 +12,7 @@ Console.Write("Enter your name: ");
 fullName = Console.ReadLine();
 
 Console.Write("Enter your age: ");
-age = Convert.ToInt32(Console.ReadLine()); 
+age = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Enter your salary: ");
 salary = Convert.ToDouble(Console.ReadLine());
@@ -29,7 +29,7 @@ You salary is ${salary}
 Your gender is {gender}
 And you're work status is: {isWorking}");
 
-  
+
 
 
 

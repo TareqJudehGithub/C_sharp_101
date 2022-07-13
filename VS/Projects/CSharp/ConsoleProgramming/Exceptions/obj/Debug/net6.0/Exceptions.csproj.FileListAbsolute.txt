@@ -1,7 +1,7 @@
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.exe
-E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.dll
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.dll
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\bin\Debug\net6.0\Exceptions.pdb
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleProgramming\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig

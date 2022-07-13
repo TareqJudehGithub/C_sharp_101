@@ -1,8 +1,9 @@
 Exception Handling
+ - Exceptions is a neat way to handle errors that occur.
 
   try
    - The try block of code test the code for errors.
-   
+
   catch
    - Catches any errors without breaking the program.
 
