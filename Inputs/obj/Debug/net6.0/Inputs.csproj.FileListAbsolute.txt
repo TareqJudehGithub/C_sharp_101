@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Inputs\bin\Debug\net6.0\Inputs.exe
+E:\web\ASP_NET\CSharp101\Inputs\bin\Debug\net6.0\Inputs.deps.json
+E:\web\ASP_NET\CSharp101\Inputs\bin\Debug\net6.0\Inputs.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Inputs\bin\Debug\net6.0\Inputs.dll
+E:\web\ASP_NET\CSharp101\Inputs\bin\Debug\net6.0\Inputs.pdb
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.dll
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\refint\Inputs.dll
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.pdb
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\Inputs.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Inputs\obj\Debug\net6.0\ref\Inputs.dll

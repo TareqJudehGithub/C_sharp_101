@@ -1,0 +1,5 @@
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net5.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.CoreCompileInputs.cache

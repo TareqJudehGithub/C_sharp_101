@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodVoid", "MethodVoid\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{9C8F5E90-4B72-43CE-8880-5EC667B4ADC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeManipulation", "DateTimeManipulation\DateTimeManipulation.csproj", "{C06276FB-FBDC-47E6-A485-9EBD6859F213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeManipulation", "DateTimeManipulation\DateTimeManipulation.csproj", "{C06276FB-FBDC-47E6-A485-9EBD6859F213}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{61B3F499-ADB5-4604-8232-91F81012297B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{496E0216-F7ED-4613-A6C7-872A39867C9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C06276FB-FBDC-47E6-A485-9EBD6859F213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B3F499-ADB5-4604-8232-91F81012297B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B3F499-ADB5-4604-8232-91F81012297B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B3F499-ADB5-4604-8232-91F81012297B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B3F499-ADB5-4604-8232-91F81012297B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496E0216-F7ED-4613-A6C7-872A39867C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496E0216-F7ED-4613-A6C7-872A39867C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496E0216-F7ED-4613-A6C7-872A39867C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496E0216-F7ED-4613-A6C7-872A39867C9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

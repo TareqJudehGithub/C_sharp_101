@@ -1,0 +1,21 @@
+Exception Handling
+
+  try
+   - The try block of code test the code for errors.
+   
+  catch
+   - Catches any errors without breaking the program.
+
+  throw;
+   - Kills the program displaying the error log to the user/developer.
+      catch (FormatException formatError)
+      {
+          Console.WriteLine($"Invalid format type\n{formatError.Message}");
+      }
+
+  finally
+   - Wether any of the try or the catch is successful, run the code inside 
+     finally block.
+
+  
+  

@@ -44,3 +44,4 @@ Console.WriteLine($"The date now is {TimeOnly.FromDateTime(localDate)}"); // Tim
 Console.WriteLine($"UTC time now is {localDate}"); // Both date and time
 
 
+

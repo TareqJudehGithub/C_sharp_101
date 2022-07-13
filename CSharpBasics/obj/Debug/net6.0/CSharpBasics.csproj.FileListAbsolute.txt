@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\CSharpBasics\bin\Debug\net6.0\CSharpBasics.exe
+E:\web\ASP_NET\CSharp101\CSharpBasics\bin\Debug\net6.0\CSharpBasics.dll
+E:\web\ASP_NET\CSharp101\CSharpBasics\bin\Debug\net6.0\CSharpBasics.deps.json
+E:\web\ASP_NET\CSharp101\CSharpBasics\bin\Debug\net6.0\CSharpBasics.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\CSharpBasics\bin\Debug\net6.0\CSharpBasics.pdb
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.dll
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\refint\CSharpBasics.dll
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.pdb
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\CSharpBasics.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\CSharpBasics\obj\Debug\net6.0\ref\CSharpBasics.dll

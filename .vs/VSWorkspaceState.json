@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Methods",
-    "\\Methods\\MethodsProject",
-    "\\Methods\\MethodsProject\\Methods"
+    "\\Exercises\\exercises",
+    "\\Exercises\\exercises\\Exceptions",
+    "\\TryCatchFinally"
   ],
-  "SelectedNode": "\\Methods\\MethodsProject\\Methods\\Program.cs",
+  "SelectedNode": "\\Exercises",
   "PreviewInSolutionExplorer": false
 }
