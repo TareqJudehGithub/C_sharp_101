@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\bin\Debug\net6.0\ForLoops.exe
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\bin\Debug\net6.0\ForLoops.deps.json
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\bin\Debug\net6.0\ForLoops.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\bin\Debug\net6.0\ForLoops.dll
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\bin\Debug\net6.0\ForLoops.pdb
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.dll
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\refint\ForLoops.dll
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.pdb
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ForLoops.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Loops\ForLoops\obj\Debug\net6.0\ref\ForLoops.dll

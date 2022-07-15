@@ -19,10 +19,11 @@ while loop
 
  for loop
  - for loop, iterates for a number of times we already know, unlike while-loops.
- - The first part is the for initializer: int counter = 0; declares that counter is the 
-   loop variable, and sets its initial value to 0.
- - The middle part is the for condition: counter < 10 declares that this for loop 
-   continues to execute a`s long as the value of counter is less than 10.
+ - The first part is the for initializer: int counter = 0; 
+   The initializer declares that counter is the loop variable, and sets its initial value.
+ - The middle part is the for condition. 
+   Counter < 10 declares that this for loop continues to execute as long as the value of 
+   counter is less than 10.
  - The final part is the for iterator: counter++ specifies how to modify the loop 
    variable after executing the block following the for statement. Here, it specifies 
    that counter should be incremented by 1 each time the block executes.
@@ -40,3 +41,14 @@ while loop
               Console.WriteLine($"{i} equals {greet.Length}");
           }
       }
+
+
+  do while loop
+    - do while loop keeps iterating until a certain condition is no longer true.
+    - The do block of code executes first, then it checks the condition and executes
+      it in the while block of code.  
+
+  
+break and continue
+
+

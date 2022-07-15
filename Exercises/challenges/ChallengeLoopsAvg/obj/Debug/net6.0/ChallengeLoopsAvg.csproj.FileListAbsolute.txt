@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\bin\Debug\net6.0\ChallengeLoopsAvg.exe
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\bin\Debug\net6.0\ChallengeLoopsAvg.deps.json
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\bin\Debug\net6.0\ChallengeLoopsAvg.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\bin\Debug\net6.0\ChallengeLoopsAvg.dll
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\bin\Debug\net6.0\ChallengeLoopsAvg.pdb
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.dll
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\refint\ChallengeLoopsAvg.dll
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.pdb
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ChallengeLoopsAvg.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Exercises\challenges\ChallengeLoopsAvg\obj\Debug\net6.0\ref\ChallengeLoopsAvg.dll
