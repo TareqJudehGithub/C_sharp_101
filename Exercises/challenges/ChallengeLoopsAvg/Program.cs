@@ -24,6 +24,12 @@
                 {
                     Console.Write("Enter a score mark: ");
                     userInput = Convert.ToInt32(Console.ReadLine());
+                    if (userInput == -1 && scoreAvg == 0)
+                    {
+                        Console.WriteLine("Quitting program\n");
+                        Console.Write("Good bye!");
+                        break;
+                    }
                     if (userInput == -1)
                     {
                         Console.WriteLine("Calculating results.. please wait..\n");
