@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\bin\Debug\net6.0\TitleNames.exe
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\bin\Debug\net6.0\TitleNames.deps.json
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\bin\Debug\net6.0\TitleNames.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\bin\Debug\net6.0\TitleNames.dll
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\bin\Debug\net6.0\TitleNames.pdb
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.dll
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\refint\TitleNames.dll
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.pdb
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\TitleNames.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\CheatSheets\TitleNames\obj\Debug\net6.0\ref\TitleNames.dll

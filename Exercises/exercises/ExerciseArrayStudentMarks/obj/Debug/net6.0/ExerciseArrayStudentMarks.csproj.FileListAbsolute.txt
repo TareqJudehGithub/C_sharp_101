@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\bin\Debug\net6.0\ExerciseArrayStudentMarks.exe
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\bin\Debug\net6.0\ExerciseArrayStudentMarks.deps.json
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\bin\Debug\net6.0\ExerciseArrayStudentMarks.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\bin\Debug\net6.0\ExerciseArrayStudentMarks.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\bin\Debug\net6.0\ExerciseArrayStudentMarks.pdb
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\refint\ExerciseArrayStudentMarks.dll
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.pdb
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ExerciseArrayStudentMarks.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Exercises\exercises\ExerciseArrayStudentMarks\obj\Debug\net6.0\ref\ExerciseArrayStudentMarks.dll
