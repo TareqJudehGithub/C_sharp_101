@@ -1,53 +1,58 @@
 Lists
+ - 
+ - Unlike arrays, lists are dynamic.
 
-foreach (string name in names) {
-   Console.WriteLine(char.ToUpper(name[0]) + name.Substring(1));
-}
-
-Adding and removing in Lists
-  Console.WriteLine("");
-  names.Add("sarah");
-  names.Remove("ana");
-
-foreach (string name in names) {    
-   Console.WriteLine(char.ToUpper(name[0]) + name.Substring(1));
-}
-
-Check lists length
-Console.WriteLine($"We've got {names.Count}");
-
-Search Lists
-- The IndexOf method searches for an item and returns the index of the item.
-- If the item isn't in the list, IndexOf returns -1. 
-- Any() method checks if a list contains any item or not.
-    bool chkList = fibonacciNumbers.Any();
-
-Console.Write("Search a name in names list: ");
-string friendName = Console.ReadLine();
-
-int nameIndex = names.IndexOf(friendName);
-
-if (nameIndex  != -1) {
-    Console.WriteLine($"{friendName}  found in the list!");
-}
-else {
-    Console.WriteLine($"{friendName} not found in the list!");
-}
+ 
 
 
-var fibonacciNumbers = new List<int> {1, 1};
+    foreach (string name in names) {
+    Console.WriteLine(char.ToUpper(name[0]) + name.Substring(1));
+    }
+
+  Adding and removing in Lists
+        Console.WriteLine("");
+        names.Add("sarah");
+        names.Remove("ana");
+
+        foreach (string name in names) {    
+        Console.WriteLine(char.ToUpper(name[0]) + name.Substring(1));
+        }
+
+  Check lists length
+    Console.WriteLine($"We've got {names.Count}");
+
+ Search Lists
+    - The IndexOf method searches for an item and returns the index of the item.
+    - If the item isn't in the list, IndexOf returns -1. 
+    - Any() method checks if a list contains any item or not.
+        bool chkList = fibonacciNumbers.Any();
+
+    Console.Write("Search a name in names list: ");
+    string friendName = Console.ReadLine();
+
+    int nameIndex = names.IndexOf(friendName);
+
+    if (nameIndex  != -1) {
+        Console.WriteLine($"{friendName}  found in the list!");
+    }
+    else {
+        Console.WriteLine($"{friendName} not found in the list!");
+    }
 
 
-Fibonacci Numbers:
-  var previous = fibonacciNumbers[fibonacciNumbers.Count - 1]; // 1
-  var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];// 1
-  Console.WriteLine(previous);
-  Console.WriteLine(previous2);
-
-  fibonacciNumbers.Add(previous + previous2);
-
-  foreach(var item in fibonacciNumbers)
-      Console.WriteLine(item);
+    var fibonacciNumbers = new List<int> {1, 1};
 
 
-    
+    Fibonacci Numbers:
+    var previous = fibonacciNumbers[fibonacciNumbers.Count - 1]; // 1
+    var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];// 1
+    Console.WriteLine(previous);
+    Console.WriteLine(previous2);
+
+    fibonacciNumbers.Add(previous + previous2);
+
+    foreach(var item in fibonacciNumbers)
+        Console.WriteLine(item);
+
+
+        
