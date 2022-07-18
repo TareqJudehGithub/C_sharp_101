@@ -1,0 +1,22 @@
+﻿OOP in C#
+ - OOP is way to write organized code.
+ - OOP saved time and decreases development cost.
+ -
+
+ Class
+  - A class is blue print of an object.
+  - A class has actions or abilities. like functions and methods.
+  - A class has properties. Like member variables. e.g. string properties.
+  - Inheritance is possible in classes.
+  - Classes can be used as data type.
+
+Object
+ - We can create objects out of a class.
+ 
+ Example of classes and object:
+	We can create a 'car' class, and from that car class, we could create new objects.
+	Properties like: HP, Wheels, Doors..etc.
+	Abilities like: drive, break, open window, light on/off.
+	inheritance: A5 < Audi < Car.
+
+
