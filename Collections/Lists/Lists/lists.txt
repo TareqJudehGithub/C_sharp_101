@@ -2,9 +2,6 @@ Lists
  - 
  - Unlike arrays, lists are dynamic.
 
- 
-
-
     foreach (string name in names) {
     Console.WriteLine(char.ToUpper(name[0]) + name.Substring(1));
     }
