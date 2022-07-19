@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\bin\Debug\net6.0\ComplicatedPermissions.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\bin\Debug\net6.0\ComplicatedPermissions.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\bin\Debug\net6.0\ComplicatedPermissions.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\bin\Debug\net6.0\ComplicatedPermissions.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\bin\Debug\net6.0\ComplicatedPermissions.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\refint\ComplicatedPermissions.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ComplicatedPermissions.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ComplicatedPermissions\obj\Debug\net6.0\ref\ComplicatedPermissions.dll

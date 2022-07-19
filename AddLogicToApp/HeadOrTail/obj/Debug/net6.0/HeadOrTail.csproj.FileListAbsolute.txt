@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\bin\Debug\net6.0\HeadOrTail.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\bin\Debug\net6.0\HeadOrTail.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\bin\Debug\net6.0\HeadOrTail.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\bin\Debug\net6.0\HeadOrTail.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\bin\Debug\net6.0\HeadOrTail.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\refint\HeadOrTail.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\HeadOrTail.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\HeadOrTail\obj\Debug\net6.0\ref\HeadOrTail.dll

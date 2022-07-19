@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\bin\Debug\net6.0\TernaryOperators.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\bin\Debug\net6.0\TernaryOperators.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\bin\Debug\net6.0\TernaryOperators.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\bin\Debug\net6.0\TernaryOperators.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\bin\Debug\net6.0\TernaryOperators.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\refint\TernaryOperators.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\TernaryOperators.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\TernaryOperators\obj\Debug\net6.0\ref\TernaryOperators.dll

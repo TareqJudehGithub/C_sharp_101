@@ -1,0 +1,49 @@
+﻿What is an expression?
+ - An expression is any combination of values (literal or variable), operators, and methods that return a single value.
+ - In a Boolean expression, the runtime evaluates the values, operators, and methods to return a single true or false value.
+
+ What is a statement?
+  -  A statement is a complete instruction in C#, and statements are comprised of one or more expressions.
+
+  Evaluating equality and inequality
+   - We use the equality operator == between two values to evaluate equality.
+   - Use the ToLower() or ToUpper() helper methods, and the Trim() helper method to improve the likelihood that two strings are equal.
+   - If the two values on either side of the equality operator are equivalent, then the expression will return true. Otherwise, it will return false.
+   - Other times, you may want to check to see if two values aren't equal. You use the inequality operator != between two values evaluate equality.
+
+Evaluating comparisons
+	Use the following operators to perform these types of comparisons.
+	Greater than >
+	Less than <
+	Greater than or equal to >=
+	Less than or equal to <=
+
+Methods that return a Boolean value
+
+ - Several string methods return a Boolean value including Contains(), StartsWith(), and EndsWith(). 
+
+
+ Use a method invocation expression
+	string pangram = "The quick brown fox jumps over the lazy dog.";
+	Console.WriteLine(pangram.Contains("cow"));
+	>>> $ false
+
+What is logical negation?
+ - The term "Logical Negation" refers to the ! operator. 
+ - Some people simply call this the "not operator".
+ - Adding the ! operator before a conditional expression like a method call checks to ensure the expression is false.
+
+	// These two lines of code do the same thing:
+	string pangram = "The quick brown fox jumps over the lazy dog.";
+
+	Console.WriteLine(pangram.Contains("fox") == false);
+	Console.WriteLine(!pangram.Contains("fox"));
+
+What is the conditional operator?
+  - The conditional operator ?:, commonly known as the ternary conditional operator, evaluates a Boolean expression, and returns the result of evaluating one of two expressions, depending on whether the Boolean expression evaluates to true or false.
+  - Use the conditional operator when you need to add branching logic inline.
+  -  Use the conditional operator when you need to return a value based on a binary condition ... return this when true, return that when false.
+
+ - Ternary operator basic form:
+	<evaluate this condition> ? <if condition is true, return this value> : <if condition is false, return this value>
+
