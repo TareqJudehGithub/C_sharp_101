@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\bin\Debug\net6.0\SwitchStatement.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\bin\Debug\net6.0\SwitchStatement.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\bin\Debug\net6.0\SwitchStatement.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\bin\Debug\net6.0\SwitchStatement.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\bin\Debug\net6.0\SwitchStatement.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\refint\SwitchStatement.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll
