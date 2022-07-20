@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\bin\Debug\net6.0\MethodsClassesNamespaces.exe
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\bin\Debug\net6.0\MethodsClassesNamespaces.deps.json
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\bin\Debug\net6.0\MethodsClassesNamespaces.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\bin\Debug\net6.0\MethodsClassesNamespaces.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\bin\Debug\net6.0\MethodsClassesNamespaces.pdb
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\refint\MethodsClassesNamespaces.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.pdb
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\MethodsClassesNamespaces.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\MethodsClassesNamespaces\obj\Debug\net6.0\ref\MethodsClassesNamespaces.dll

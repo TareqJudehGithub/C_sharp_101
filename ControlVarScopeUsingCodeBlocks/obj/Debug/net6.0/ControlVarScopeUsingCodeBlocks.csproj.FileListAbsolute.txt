@@ -1,0 +1,5 @@
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\obj\Debug\net6.0\ControlVarScopeUsingCodeBlocks.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\obj\Debug\net6.0\ControlVarScopeUsingCodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\obj\Debug\net6.0\ControlVarScopeUsingCodeBlocks.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\obj\Debug\net6.0\ControlVarScopeUsingCodeBlocks.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\obj\Debug\net6.0\ControlVarScopeUsingCodeBlocks.csproj.CoreCompileInputs.cache

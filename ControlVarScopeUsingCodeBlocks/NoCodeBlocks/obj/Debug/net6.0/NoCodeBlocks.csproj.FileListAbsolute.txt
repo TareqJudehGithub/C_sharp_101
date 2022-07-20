@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\bin\Debug\net6.0\NoCodeBlocks.exe
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\bin\Debug\net6.0\NoCodeBlocks.deps.json
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\bin\Debug\net6.0\NoCodeBlocks.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\bin\Debug\net6.0\NoCodeBlocks.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\bin\Debug\net6.0\NoCodeBlocks.pdb
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\refint\NoCodeBlocks.dll
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.pdb
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\NoCodeBlocks.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\ControlVarScopeUsingCodeBlocks\NoCodeBlocks\obj\Debug\net6.0\ref\NoCodeBlocks.dll

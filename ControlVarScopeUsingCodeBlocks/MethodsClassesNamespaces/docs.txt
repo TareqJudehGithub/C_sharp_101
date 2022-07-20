@@ -1,0 +1,42 @@
+﻿Levels of code block
+
+ - Here you see three levels of code blocks, starting from the inner-most code block and working our way outward:
+
+		a method Main()
+		a class Program
+		a namespace MethodsClassesNamespaces
+ 
+ - As you build real applications, you'll write methods, and organize them into classes and namespaces.
+
+Methods
+ - A method is a code block that is a unit of execution. 
+ -  In other words, once the method is called by its name, the entire method will execute until:
+		the runtime encounters the return keyword, or
+		the runtime encounters an exception and can't continue, or
+		the runtime successfully executes each line of code in the method
+
+ - The method's name Main() is special. When the program is executed, by default the .NET Runtime will search for a method named Main() to use as the starting point, or entry point, for the program.
+
+ Class
+  - A class is a container for members like methods, properties, events, fields, and so on. 
+
+namespace
+ - A namespace disambiguates class names.
+ - When you create a new project using the dotnet CLI or the full Visual Studio IDE, it will automatically create a namespace using the project's name.
+ - You can create additional namespaces in your code as needed, and can create a hierarchical series of namespaces by using the dot operator.
+
+		 namespace MyNewApp.Business
+		{
+		  // Classes here    
+
+public keyword
+ - public keyword gives acces to other class codes, methods, and propeties.
+
+using statement
+ - The using statement helps the compiler resolve namespaces, but requiring fewer keystrokes.
+ - The using statement is added to the top of a code file.
+ - It resolves the class names that are used in the file, instructing the compiler to look at the list of namespaces to find all of the class names.
+ - The using statement tells the compiler to look here when attempting to resolve any class names it needs to find.
+ - using System;
+	It makes it possible to call Console.WriteLine() instead of System.Console.WriteLine().
+ - 
