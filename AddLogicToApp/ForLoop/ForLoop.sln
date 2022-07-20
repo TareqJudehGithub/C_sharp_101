@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop.csproj", "{FC5602D4-0E33-402E-A40D-09769DB00C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{6B543955-5A4E-4EFC-BAEF-BA7782B8517A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5602D4-0E33-402E-A40D-09769DB00C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5602D4-0E33-402E-A40D-09769DB00C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5602D4-0E33-402E-A40D-09769DB00C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5602D4-0E33-402E-A40D-09769DB00C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B543955-5A4E-4EFC-BAEF-BA7782B8517A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B543955-5A4E-4EFC-BAEF-BA7782B8517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B543955-5A4E-4EFC-BAEF-BA7782B8517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B543955-5A4E-4EFC-BAEF-BA7782B8517A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D0827B-457E-4158-9320-B315B1207D8B}
+	EndGlobalSection
+EndGlobal

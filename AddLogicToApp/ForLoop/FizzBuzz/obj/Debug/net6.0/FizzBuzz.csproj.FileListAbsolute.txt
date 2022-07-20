@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\ForLoop\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
