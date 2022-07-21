@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\bin\Debug\net6.0\DoWhileAndWhile.exe
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\bin\Debug\net6.0\DoWhileAndWhile.deps.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\bin\Debug\net6.0\DoWhileAndWhile.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\bin\Debug\net6.0\DoWhileAndWhile.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\bin\Debug\net6.0\DoWhileAndWhile.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\refint\DoWhileAndWhile.dll
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.pdb
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\DoWhileAndWhile.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\AddLogicToApp\DoWhileAndWhile\obj\Debug\net6.0\ref\DoWhileAndWhile.dll
