@@ -1,20 +1,37 @@
 TryParse method
- - TryParse converts strings into numeric data types.
+ - TryParse attempts to parse a string into the given numeric data type.
+ - If successful, it will store the converted value in an out parameter.
+ - TryParse() returns true if the conversion is successful, false if it's unsuccessful.
+ 
+ - TryParse prevents errors converting strings to numeric types.
+ - TryParse is supported by every numeric data type in C#.
+ 
+ What is an out parameter?
+  - Methods can return values through out parameters. using out keyword.
+  - you have to define a variable before calling the method that will be used 
+    to store an out parameter value.
+
       string numberAsString = "128";
       int parsedValue;
 
      string numInStr = "1000";
      int parsedValue;
 
-     //try
-     //{
-     bool success = int.TryParse(numInStr, out parsedValue);
-     if (success)
-     {
-          Console.WriteLine($"Parsing was successful! number {parsedValue}");
-     }
-     else
-     {
-          Console.WriteLine("Parsing failed!");
-     }
+          string value = "102";
+          int result = 0;
+
+          bool isParsed = Int32.TryParse(value, out result);
+
+          if (isParsed) Console.WriteLine($"Measurement: {result}");
+          else Console.WriteLine("Unable to report the measurement");
+
+          - isParsed will return true if it successfully converted value (string type) 
+            into an int; otherwise, it will return false. 
+          - So, surround the statement in an if statement, and then perform the decision 
+            logic, accordingly. 
+          - An out parameter provides a secondary means of a method returning a value.
+          - The out keyword instructs the compiler that the TryParse() method will not 
+            only return a value the traditional way (as a return value), but also will 
+            communicate an output through this two-way parameter.
+          
 

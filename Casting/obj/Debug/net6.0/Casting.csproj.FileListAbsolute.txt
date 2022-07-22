@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Casting\bin\Debug\net6.0\Casting.exe
+E:\web\ASP_NET\CSharp101\Casting\bin\Debug\net6.0\Casting.deps.json
+E:\web\ASP_NET\CSharp101\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Casting\bin\Debug\net6.0\Casting.dll
+E:\web\ASP_NET\CSharp101\Casting\bin\Debug\net6.0\Casting.pdb
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.dll
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\refint\Casting.dll
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.pdb
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Casting\obj\Debug\net6.0\ref\Casting.dll

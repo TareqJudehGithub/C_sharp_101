@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web\\ASP_NET\\CSharp101\\VS\\Projects\\CSharp\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "E:\\web\\ASP_NET\\CSharp101\\VS\\Projects\\CSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "E:\\web\\ASP_NET\\CSharp101\\Casting\\Casting.csproj",
+      "projectName": "Casting",
+      "projectPath": "E:\\web\\ASP_NET\\CSharp101\\Casting\\Casting.csproj",
       "packagesPath": "C:\\Users\\USER10\\.nuget\\packages\\",
-      "outputPath": "E:\\web\\ASP_NET\\CSharp101\\VS\\Projects\\CSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\web\\ASP_NET\\CSharp101\\Casting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
