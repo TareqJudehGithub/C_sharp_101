@@ -1,0 +1,20 @@
+What is C#?
+ - A modern programming language by Microsoft based on .Net platform.
+ - C# is modern, OOP, interoperable, simple, cross-platform, and type safe.
+
+C# language
+  - Released in 2001 by Microsoft.
+  - C# is one of the most popular and in demand programming languages.
+  - Simple, modern, OOP, and type-safe programming language.
+  - Mobile ,desktop, gaming, cloud service, web apps, and many more.
+  - Web services and Web sites.
+  - Games and VR.
+  - Database apps.
+
+
+C# is type-safe
+ - Data type is specified before defining a variable.
+ - The values should match the data type specified, else the compiler will return errors.
+ - Type validation is done at compile time rather than run time.
+ 
+

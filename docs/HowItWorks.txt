@@ -1,8 +1,16 @@
-What is a programming language?
- - Programming languages like C# enable you to write instructions that you want 
-   the computer to carry out.
+What is programming?
+ - Programming is writing a set of instructions for a computer to execute to 
+   automate tasks.
  - Programming is writing instructions that the computer will follow to perform 
    various tasks.
+
+What is a programming language?
+ - A programming language that a human understands and is translated to what 
+   machine understands.
+ - Programming languages like C# enable you to write instructions that you want 
+   the computer to carry out.
+ 
+ -
  - Each programming language has a different syntax.
  - A programming language's job is to enable a human to write instructions in a 
    human-readable and understandable way.
@@ -21,17 +29,22 @@ What is syntax?
 - The syntax of a programming language includes the keywords, the operators.
 - The operators are those special keyboard characters like the semicolon or parenthesis.
 
+What is C#?
+ - A modern programming language by Microsoft based on .Net platform.
+
 C# language
   - Released in 2001 by Microsoft.
   - C# is one of the most popular and in demand programming languages.
   - Simple, modern, OOP, and type-safe programming language.
-  - Mobile ,desktop, and web apps.
+  - Mobile ,desktop, gaming, cloud service, web apps, and many more.
   - Web services and Web sites.
   - Games and VR.
   - Database apps.
 
 .Net
  - A framework (development platform) for for building various application.
+ - .Net platform is a set of free, open-source, cross-platform tools and libraries you
+   can install to build c# applications.
  - The .NET Class Library is a collection of thousands of classes containing tens of 
    thousands of methods. Even our data types are part of the .NET Class Library. 
  - .NET Runtime hosts and manages your code as it executes on the end user's computer. 
@@ -52,8 +65,16 @@ Explaining "Hello World!" and keywords
       }
   }
 
+
+using statement
+ - using keyword is importing other libraries and classes.
+ - The using statement helps the compiler resolve namespaces, but requiring fewer keystrokes.
+ - The using statement is added to the top of a code file.
+ - It resolves the class names that are used in the file, instructing the compiler to look at the list of namespaces to find all of the class names.
+ - The using statement tells the compiler to look here when attempting to resolve any class names it needs to find.
  - using System;
-  - using keyword is importing other libraries and classes.
+	It makes it possible to call Console.WriteLine() instead of System.Console.WriteLine().
+ 
 
  - namespace keyword. 
   - A container/package to organize classes, other namespace, and code.
@@ -65,12 +86,13 @@ Explaining "Hello World!" and keywords
       Library.
   - all of the code inside namespace or any block is hold by curly braces {}
  
- - static void Main(string[] args) 
-  - This is the main entry point, where the program will start.
-
  - class
   - A container for methods that bring functionality to our program.
   - Developers typically keep related methods together in a single class.
+
+
+ - static void Main(string[] args) 
+  - This is the main entry point, where the program will start.
 
  - static
   - The main method above must be static, it cannot be changed.
@@ -80,7 +102,7 @@ Explaining "Hello World!" and keywords
   - String of arrays with unlimited arguments.
 
 - What is a console?
-  - An application that uses the command line for input and output rather than a 
+  - A non-GUI application that uses the command line for input and output rather than a 
     graphical interface (GUI). For example, utility programs that perform a single 
     function or that run in the background are often written as console apps.
   

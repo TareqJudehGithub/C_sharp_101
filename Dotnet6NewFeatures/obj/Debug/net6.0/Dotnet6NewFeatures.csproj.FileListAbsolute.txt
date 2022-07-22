@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\bin\Debug\net6.0\Dotnet6NewFeatures.exe
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\bin\Debug\net6.0\Dotnet6NewFeatures.deps.json
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\bin\Debug\net6.0\Dotnet6NewFeatures.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\bin\Debug\net6.0\Dotnet6NewFeatures.dll
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\bin\Debug\net6.0\Dotnet6NewFeatures.pdb
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.dll
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\refint\Dotnet6NewFeatures.dll
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.pdb
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\Dotnet6NewFeatures.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Dotnet6NewFeatures\obj\Debug\net6.0\ref\Dotnet6NewFeatures.dll

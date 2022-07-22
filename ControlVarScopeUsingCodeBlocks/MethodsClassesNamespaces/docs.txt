@@ -19,18 +19,19 @@ Methods
 
  Class
   - A class is a container for members like methods, properties, events, fields, and so on. 
+	- We can create instances out of classes.
 
 namespace
  - A namespace disambiguates class names.
  - When you create a new project using the dotnet CLI or the full Visual Studio IDE, it will automatically create a namespace using the project's name.
  - You can create additional namespaces in your code as needed, and can create a hierarchical series of namespaces by using the dot operator.
-
+ - A namespace is a place to hold projects.
 		 namespace MyNewApp.Business
 		{
 		  // Classes here    
 
 public keyword
- - public keyword gives acces to other class codes, methods, and propeties.
+ - public keyword gives access to other class codes, methods, and propeties.
 
 using statement
  - The using statement helps the compiler resolve namespaces, but requiring fewer keystrokes.
@@ -39,4 +40,6 @@ using statement
  - The using statement tells the compiler to look here when attempting to resolve any class names it needs to find.
  - using System;
 	It makes it possible to call Console.WriteLine() instead of System.Console.WriteLine().
+
+Main() method
  - 

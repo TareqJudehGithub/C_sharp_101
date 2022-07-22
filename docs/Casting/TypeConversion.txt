@@ -13,7 +13,6 @@ Explicit Casting
     Console.WriteLine(myDouble);   // Outputs 9.78
     Console.WriteLine(myInt);      // Outputs 9
 
-
 Type Conversion Methods
   It is also possible to convert data types explicitly by using built-in methods, such as 
   Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32 (int) and 
@@ -28,7 +27,6 @@ Type Conversion Methods
     Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
     Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
     Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
-
 
 Check this link for more info
 https://www.w3schools.com/cs/cs_type_casting.php
