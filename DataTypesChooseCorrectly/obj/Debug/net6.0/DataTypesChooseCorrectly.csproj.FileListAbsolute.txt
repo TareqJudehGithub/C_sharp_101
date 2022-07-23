@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\bin\Debug\net6.0\DataTypesChooseCorrectly.exe
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\bin\Debug\net6.0\DataTypesChooseCorrectly.deps.json
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\bin\Debug\net6.0\DataTypesChooseCorrectly.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\bin\Debug\net6.0\DataTypesChooseCorrectly.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\bin\Debug\net6.0\DataTypesChooseCorrectly.pdb
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\refint\DataTypesChooseCorrectly.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.pdb
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\DataTypesChooseCorrectly.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\obj\Debug\net6.0\ref\DataTypesChooseCorrectly.dll

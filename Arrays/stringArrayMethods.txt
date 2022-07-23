@@ -1,0 +1,4 @@
+string data type's Array methods
+ - The variables of type string have many built-in methods that convert a single string into either an array of smaller strings, or an array of individual characters.
+ - Use methods like ToCharArray() and Split() to create an array
+ - Use methods like Join(), or create a new string passing in an array of char to turn the array back into a single string.

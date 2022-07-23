@@ -46,11 +46,14 @@ C# language
  - .Net platform is a set of free, open-source, cross-platform tools and libraries you
    can install to build c# applications.
  - The .NET Class Library is a collection of thousands of classes containing tens of 
-   thousands of methods. Even our data types are part of the .NET Class Library. 
+   thousands of methods. Even our data types are part of the .NET Class Library.
+
  - .NET Runtime hosts and manages your code as it executes on the end user's computer. 
+ 
  - Common Language Runtime (CLR) and a set of class libraries.
     - CLR is the programming (Virtual Machine component) that manages the execution of 
       programs written in any language (C#, F#, or VB) that uses the .NET Framework. 
+    - runs the code and provides services that make the development process easier.
 
 Explaining "Hello World!" and keywords
   using System;

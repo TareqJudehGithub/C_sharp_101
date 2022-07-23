@@ -1,0 +1,12 @@
+﻿Floating point data types
+ - A floating point is a simple value type that represents fractional numbers.
+ -  Precision is the number of values that can be stored after the decimal point.
+ - float and double values are stored internally in a binary (base 2) format while decimal is stored in a decimal (base 10) format. 
+ - float and double uses less memory than decimal but less precise, and should only be used when an approximation is useful. 
+ - When you need more a more precise answer, you should use decimal. 
+ -  Each value of type decimal has a relatively large memory footprint, however performing math operations gives you a more precise result. 
+ - Use decimal when working with financial data or any scenario where you need an accurate result from a calculation.
+
+Deciphering large floating-point values
+ - Floating-point values can sometimes be represented using "E notation" when the numbers grow especially large.
+ - Because floating-point types can hold large numbers with a lot of precision, their values can be represented using "E notation", which is a form of scientific notation that means "times ten raised to the power of." So, a value like 5E+2 would be the value 500 because it's the equivalent of 5 * 10^2, or 5 * 10 * 10.

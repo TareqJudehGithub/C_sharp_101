@@ -1,0 +1,26 @@
+Arrays
+ - The Array class contains methods that we can use to manipulate the content, arrangement, and size of an array. 
+
+Sorting item in arrays
+ - Array.Sort(arrayName) methods sorts out elements inside an array in an alphabetical order.
+
+Reversing items in arrays
+ - Array.Reverse() method reverses the elements orders in an array
+
+Clearing/removing an element from an array
+ - The Array.Clear(arrayName, starting index, ending index) method allows us to clear the value of specific elements in our array.
+ - Here we're using the Array.Clear() method to clear the values stored in the elements of the pallets array 
+ -  the elements still exist, but they're now empty.
+
+Empty string versus null
+ - When you use Array.Clear(), the elements that were cleared no longer reference a string in memory.
+ -  The value stored in pallets[0] (the cleared element value) after being cleared is null.
+ - Null points to no reference in memory.
+ 
+Resizing arrays
+Array.Resize(ref ArrayName, new array size number);
+Array.Resize(ref myArray, 5);
+ - Here, we're calling the Resize() method passing in the myArray array by reference, using the ref keyword.
+ - The new elements will be null until we assign a value to them. 
+
+ - If we resized to a smaller number of the original array size, the elements at the end of the array will be removed.

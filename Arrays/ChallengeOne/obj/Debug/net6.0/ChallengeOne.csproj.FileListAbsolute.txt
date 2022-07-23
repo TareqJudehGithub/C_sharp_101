@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\bin\Debug\net6.0\ChallengeOne.exe
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\bin\Debug\net6.0\ChallengeOne.deps.json
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\bin\Debug\net6.0\ChallengeOne.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\bin\Debug\net6.0\ChallengeOne.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\bin\Debug\net6.0\ChallengeOne.pdb
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\refint\ChallengeOne.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.pdb
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ChallengeOne.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeOne\obj\Debug\net6.0\ref\ChallengeOne.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\bin\Debug\net6.0\SignedAndUnsignedDataTypes.exe
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\bin\Debug\net6.0\SignedAndUnsignedDataTypes.deps.json
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\bin\Debug\net6.0\SignedAndUnsignedDataTypes.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\bin\Debug\net6.0\SignedAndUnsignedDataTypes.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\bin\Debug\net6.0\SignedAndUnsignedDataTypes.pdb
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\refint\SignedAndUnsignedDataTypes.dll
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.pdb
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\SignedAndUnsignedDataTypes.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\DataTypesChooseCorrectly\SignedAndUnsignedDataTypes\obj\Debug\net6.0\ref\SignedAndUnsignedDataTypes.dll

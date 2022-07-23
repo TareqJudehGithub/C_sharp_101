@@ -1,0 +1,10 @@
+Integral types
+ - An integral type is a simple value data type that can hold whole numbers.
+  - There are two subcategories of integral types: signed and unsigned integral types.
+  Signed integral Types
+   - A signed type uses its bytes to represent an equal number of positive and negative numbers.
+  
+  Unsigned integral types
+   - An unsigned type uses its bytes to represent only positive numbers. 
+
+   - You can use the MaxValue and MinValue properties of numeric data types to evaluate whether a number can fit in a given data type.

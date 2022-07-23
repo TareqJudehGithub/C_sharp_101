@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\bin\Debug\net6.0\ChallengeTwo.exe
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\bin\Debug\net6.0\ChallengeTwo.deps.json
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\bin\Debug\net6.0\ChallengeTwo.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\bin\Debug\net6.0\ChallengeTwo.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\bin\Debug\net6.0\ChallengeTwo.pdb
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\refint\ChallengeTwo.dll
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.pdb
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ChallengeTwo.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Arrays\ChallengeTwo\obj\Debug\net6.0\ref\ChallengeTwo.dll

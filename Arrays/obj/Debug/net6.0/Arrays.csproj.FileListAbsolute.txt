@@ -1,0 +1,5 @@
+E:\web\ASP_NET\CSharp101\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
