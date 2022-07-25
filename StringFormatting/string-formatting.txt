@@ -1,0 +1,57 @@
+String formatting basics
+
+What is Composite Formatting?
+ - Composite formatting uses numbered placeholders within a string.
+ - At run time, everything inside the braces will be resolved to a value that is also passed in based on their position.
+ -  composite formatting can be accomplished using a built-in method Format().
+		 string first = "hello";
+		 string second = "world";
+
+		 string greet = string.Format("{0} {1}!", first, second);
+
+		 Console.WriteLine(greet);
+ 
+ - The literal string "{0} {1}!" forms a template, parts of which will be replaced at run time.
+ - The token {0} is replaced by the first argument after the string template, in other words, the value of the variable first.
+ - The token {1} is replaced by the second argument after the string template, in other words, the value of the variable second.
+
+
+ What is string interpolation?
+  - String interpolation is a newer technique that simplifies composite formatting. 
+  - n order for a string to be interpolated, you must prefix it with the $ directive.
+		Console.WriteLine($"{first} {second}!");
+
+Formatting numbers
+ - When working with numeric data, you may want to format the number for readability by including commas to delineate thousands, millions, billions, and so on.
+ - The N numeric format specifier will do this.
+	
+	decimal bigNum = 1584195.1254687m;
+	Console.WriteLine($"clean, formatted number = {bigNum:N}");
+ - We could also use String.Format()
+			Sting.Format("{0:N2}", bigNum);
+
+
+- By default, the N numeric format specifier displays only two digits after the decimal point.
+- If you want to display more precision, you can do that by adding a number after the specifier.
+
+Currency formatting
+ - Use {amount:C} to add currency before any amount.
+ - Control how many digit to display after decimal by adding a number after the 'C'.
+			decimal foodBill = 25.7517m;
+			Console.WriteLine($"Food bill: {foodBill:C2}\n");
+- We could also use String.Format()
+			Sting.Format("{0:C2}", foodBill);
+
+
+
+
+Formatting percentages
+ - Use the P format specifier to format percentages. 
+ - Add a number afterwards to control the number of values displayed after the decimal point.
+		decimal tax = 0.16m;
+
+		Console.WriteLine($"percentage formatted: {tax:P0}");  // 0
+ - We could also use String.Format()
+			Sting.Format("{0:P}", tax);
+
+

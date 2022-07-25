@@ -1,0 +1,28 @@
+padding and alignment
+
+Here's a brief list of categories of these built-in methods so you can get an idea of what's possible.
+
+Methods that either add blank spaces for formatting purposes (PadLeft(), PadRight())
+
+ - The PadLeft() method will add blank spaces to the left-hand side of the string so that the total number of characters equals the argument you send it. In this case, we want to total length of the string to be 12 characters.
+
+	string input = "Pad this";
+	Console.WriteLine(input.PadLeft(12));
+
+Methods that either compare two strings or facilitate comparison (Trim(), TrimStart(), TrimEnd(), GetHashcode(), the Length property)
+
+Methods that help you determine what's inside of a string, or even retrieve just a part of the string (Contains(), StartsWith(), EndsWith(), Substring())
+
+Methods that change the content of the string by replacing, inserting, or removing parts (Replace(), Insert(), Remove())
+
+Methods that turn a string into an array of strings or characters (Split(), ToCharArray())
+
+Formatting strings by adding whitespace before or after
+
+What is an overloaded method?
+- In C#, an overloaded method is another version of a method with different or additional arguments .
+- You can also call a second overloaded version of the method and pass in whatever character you want.
+
+
+The += operator concatenates a new string on the right to the existing string on the left.
+

@@ -1,0 +1,5 @@
+E:\web\ASP_NET\CSharp101\StringFormatting\obj\Debug\net6.0\StringFormatting.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\obj\Debug\net6.0\StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\StringFormatting\obj\Debug\net6.0\StringFormatting.csproj.CoreCompileInputs.cache
