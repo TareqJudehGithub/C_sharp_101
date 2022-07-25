@@ -1,0 +1,28 @@
+﻿IndexOf() and SubString()
+
+ - IndexOf() method and its variants including IndexOfAny() and LastIndexOf() locate the position of one character or string inside a larger string.
+ - Once we've located the position, we can use the Substring() method to return the rest of the string AFTER the position.
+
+ - Substring(starting index, length);
+  - When you use Substring() without specifying a length input parameter, it will return every character after the starting position you specify. 
+
+ - LastIndexOf(), which we use to get the positions of the last targeted index.
+
+Retrieve any value between one or more sets of parentheses in a string.
+
+IndexOfAny()
+ - IndexOfAny() will return us the first match it finds in the string.
+ - The IndexOfAny() helper method requires a char array of characters. 
+
+
+
+ Recap
+We covered a lot of ground in this unit. Here's the most important things to remember:
+
+IndexOf() gives us the first position of a character or string inside of another string.
+IndexOf() returns -1 if it can't find a match.
+Substring() returns just the specified portion of a string, using a starting position and optional length.
+LastIndexOf() returns the last position of a character or string inside of another string.
+IndexOfAny() returns the first position of an array of char that occurs inside of another string.
+There's often more than one way to solve a problem. We used two separate techniques to find all instances of a given character or string.
+Avoid hardcoded magic values. Instead, define a const variable. A constant variable's value can't be changed after initialization.

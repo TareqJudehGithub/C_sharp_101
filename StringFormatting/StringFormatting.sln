@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormatting", "StringFormatting.csproj", "{2BF9A917-B04D-4AE8-A7B5-B17FE85069FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge", "Challenge\Challenge.csproj", "{09554CBE-169D-44B6-8199-B76CA1D2D449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge", "Challenge\Challenge.csproj", "{09554CBE-169D-44B6-8199-B76CA1D2D449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf_SubString", "IndexOf_SubString\IndexOf_SubString.csproj", "{04321F38-69AE-43CB-9972-129B661DD35C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{09554CBE-169D-44B6-8199-B76CA1D2D449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09554CBE-169D-44B6-8199-B76CA1D2D449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09554CBE-169D-44B6-8199-B76CA1D2D449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04321F38-69AE-43CB-9972-129B661DD35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04321F38-69AE-43CB-9972-129B661DD35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04321F38-69AE-43CB-9972-129B661DD35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04321F38-69AE-43CB-9972-129B661DD35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

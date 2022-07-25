@@ -1,0 +1,5 @@
+const keyword
+ - A constant allows you to define and initialize a variable whose value can never 
+   be changed. 
+ - You would then use that constant in the rest of the code whenever you needed that 
+   value. 

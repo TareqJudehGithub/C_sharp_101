@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\bin\Debug\net6.0\IndexOf_SubString.exe
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\bin\Debug\net6.0\IndexOf_SubString.deps.json
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\bin\Debug\net6.0\IndexOf_SubString.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\bin\Debug\net6.0\IndexOf_SubString.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\bin\Debug\net6.0\IndexOf_SubString.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\refint\IndexOf_SubString.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\IndexOf_SubString.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\IndexOf_SubString\obj\Debug\net6.0\ref\IndexOf_SubString.dll
