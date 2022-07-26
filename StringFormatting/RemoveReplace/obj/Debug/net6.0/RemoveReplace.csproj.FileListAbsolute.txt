@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\bin\Debug\net6.0\RemoveReplace.exe
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\bin\Debug\net6.0\RemoveReplace.deps.json
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\bin\Debug\net6.0\RemoveReplace.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\bin\Debug\net6.0\RemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\bin\Debug\net6.0\RemoveReplace.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\refint\RemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\RemoveReplace.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\obj\Debug\net6.0\ref\RemoveReplace.dll

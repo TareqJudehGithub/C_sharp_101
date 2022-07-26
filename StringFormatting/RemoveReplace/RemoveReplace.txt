@@ -1,0 +1,13 @@
+the Remove() and Replace() methods
+
+
+Remove()
+ - The Remove() method works like the Substring() method, except that it deletes the specified characters in the string.
+ - Use Remove() when there's a standard and consistent position of the characters you want to remove from the string.
+ - The Remove() method works similarly to the Substring() method. You supply a starting position and the length to remove those characters from the string.
+ - Remove(start index, stop-at index)
+ - If we do not specify an 'stop-at index' argument, the runtime will remove all remaining strings.
+
+ 
+ Replace()
+  - The Replace() method swaps all instances of a string with a new string.

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\bin\Debug\net6.0\ChallengeRemoveReplace.exe
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\bin\Debug\net6.0\ChallengeRemoveReplace.deps.json
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\bin\Debug\net6.0\ChallengeRemoveReplace.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\bin\Debug\net6.0\ChallengeRemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\bin\Debug\net6.0\ChallengeRemoveReplace.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\refint\ChallengeRemoveReplace.dll
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.pdb
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ChallengeRemoveReplace.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\StringFormatting\RemoveReplace\ChallengeRemoveReplace\obj\Debug\net6.0\ref\ChallengeRemoveReplace.dll
