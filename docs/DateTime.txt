@@ -1,0 +1,4 @@
+DateTime method
+
+- For today's date:       DateTime.Now
+- For short date version  DateTime.Now.ToShortDateString()

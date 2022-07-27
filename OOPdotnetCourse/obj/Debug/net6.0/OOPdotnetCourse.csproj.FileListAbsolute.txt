@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\bin\Debug\net6.0\OOPdotnetCourse.exe
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\bin\Debug\net6.0\OOPdotnetCourse.deps.json
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\bin\Debug\net6.0\OOPdotnetCourse.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\bin\Debug\net6.0\OOPdotnetCourse.dll
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\bin\Debug\net6.0\OOPdotnetCourse.pdb
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.dll
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\refint\OOPdotnetCourse.dll
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.pdb
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\OOPdotnetCourse.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPdotnetCourse\obj\Debug\net6.0\ref\OOPdotnetCourse.dll
