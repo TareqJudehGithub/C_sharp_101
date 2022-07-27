@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\bin\Debug\net6.0\ListSearchSort.exe
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\bin\Debug\net6.0\ListSearchSort.deps.json
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\bin\Debug\net6.0\ListSearchSort.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\bin\Debug\net6.0\ListSearchSort.dll
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\bin\Debug\net6.0\ListSearchSort.pdb
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.dll
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\refint\ListSearchSort.dll
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.pdb
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ListSearchSort.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Collections\Lists\ListSearchSort\obj\Debug\net6.0\ref\ListSearchSort.dll
