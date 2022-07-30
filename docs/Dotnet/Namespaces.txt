@@ -1,0 +1,13 @@
+Namespace
+ - Namespace a collection of classes.
+ - Namespace groups-up classes meant for particular purpose.
+    Namespace Garage
+    {
+      class Car 
+      {
+
+      }
+    }
+ - To access class Car from a different Namespace:
+    Garage.Car
+    

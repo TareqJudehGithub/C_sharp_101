@@ -1,0 +1,10 @@
+Common Language Specifications
+ - A set or rules and concepts that serve as a guideline to .NET programming languages.
+ - C# language is developed based on CLS specifications.
+ - CLS includes rules regarding:
+  - Classes and Objects.
+   - For example, a class consists of fields, properties, and methods.
+  - Reference Variables.
+  - Methods Parameters
+  - Generics.
+  

@@ -24,3 +24,4 @@ Variable name conventions
   float particlesPerMillion;
   bool processedCustomer;
   
+  

@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\bin\Debug\ConsoleClass.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\bin\Debug\ConsoleClass.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\bin\Debug\ConsoleClass.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\obj\Debug\ConsoleClass.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\obj\Debug\ConsoleClass.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\obj\Debug\ConsoleClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\obj\Debug\ConsoleClass.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ConsoleClass\obj\Debug\ConsoleClass.pdb

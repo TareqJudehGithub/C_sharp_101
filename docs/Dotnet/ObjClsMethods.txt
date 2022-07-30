@@ -1,0 +1,36 @@
+Object, Classes, and Methods
+ - Objects
+   - An object is an instance of a class, that is an object is created from a class.
+
+ - Classes
+  - A class is model (blue prints) of objects.
+  - A class is structure of data that you  want to store in objects.
+  - Every C Sharp program must at least contain one class.
+    
+      class Program 
+      {
+          static void Main(String[] args)
+          {
+
+          }
+      }
+
+ - Methods
+  - Methods are part of the class.
+  - Methods are not stored in objects, but are associated to them.
+  - A collection of statements that do some particular action.
+  - For example, a method take inputs from users, do some action, and returns an 
+    output.
+
+ - static 
+  - Static keyword means this method does not return any value.
+
+  - In C#, the Main method is the starting (entry) point of program execution.
+  - When compiling, CLR will look for the Main method for compiling the code.
+  - The Main method should always be void.
+  - Main word should start with an upper letter.
+  - 
+ 
+ - Fields
+  - Fields are details that are stored inside objects.
+  

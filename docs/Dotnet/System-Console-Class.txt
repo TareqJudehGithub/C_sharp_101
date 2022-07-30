@@ -1,0 +1,26 @@
+System Console Class
+ - Console is a built-in predefined class and a  member of the 'System' 
+   namespace.
+ - Console performs input/output (I/O) operations in console applications.
+ - Console is a static class, which means this class method is accessible 
+   without the need to instantiate an object first.
+ 
+
+ - Console has the following methods:
+    - Write()
+     - Receives an argument, and displays it in Console/Terminal in the same line.
+     - The cursor stays in the same line.
+     - Returns a void.
+    - WriteLine()
+     - Receives an argument, and displays it in Console/Terminal in the next line.
+     - The cursor goes to the next line automatically.
+     - Returns a void.
+    - ReadLine()
+     - Returns a string entered by the user.
+    - ReadKey()
+     - Prevents Console window from closing automatically, and waits for the user
+       to press any key instead.
+     - - Returns the key pressed by the user.
+    - Clear()
+     - Clears the screen.
+

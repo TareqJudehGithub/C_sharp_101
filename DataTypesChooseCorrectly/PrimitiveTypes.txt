@@ -1,0 +1,28 @@
+Primitive Types
+ - A data type specifies what type of value to be stored in memory.
+ - Primitive type stored strictly a single value.
+ - Primitive types are the building blocks of Non-Primitive types.
+  int num = 101;
+
+ - Primitive Type include:
+  - sbyte
+    Size:           1 byte
+    Range:          -128 - 127
+    Default Value:  0
+
+
+  byte, short, unshort
+  - int, unit, long, ulong
+  - float, double, decimal, char, bool
+
+Non-Primitive Types
+ - Non-Primitive stores multiple values in a single variable.
+   string name = "Scott Rhymes";
+
+ - Non-Primitive types include:
+ - All classes, interfaces, structures, enumerations, and strings.
+
+
+
+
+

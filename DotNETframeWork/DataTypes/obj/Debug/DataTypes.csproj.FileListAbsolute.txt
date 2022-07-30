@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\bin\Debug\DataTypes.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\bin\Debug\DataTypes.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\bin\Debug\DataTypes.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\obj\Debug\DataTypes.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\obj\Debug\DataTypes.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\DataTypes\obj\Debug\DataTypes.pdb

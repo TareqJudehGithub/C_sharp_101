@@ -1,0 +1,8 @@
+C#
+ - A general purpose programming language developed by Andres Hejlsberg and Microsoft 
+   in 2000, and introduced in 2002.
+ - C# is an object oriented programming language (OOP).
+ - C# is case sensitive. Variable myMoney is different than MyMoney.
+ - C# is strongly-typed language. Variables typed are fixed and cannot be changed 
+   after declaration.
+ - C# is compiler-based language.

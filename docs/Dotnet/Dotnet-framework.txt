@@ -1,0 +1,156 @@
+What is .NET?
+  An applications development platform to build various applications.
+  - .NET is a technologies to create applications.
+  - .NET was developed by Microsoft and released  in 2002 for free.
+  - .NET provided fully managed, secured application execution environment.
+  - .NET supports multiple languages including C#, VB, F#, and VC++.
+
+Why use .NET?
+  - .NET offers secured environment for running applications (also knows as CLR).
+  - .NET supports various applications and languages.
+  - .NET offers code reusability.
+  
+Modules and applications of .NET
+  - various applications including desktop, websites, mobile, gaming, AI, and more.
+  - .NET has two modules:
+    1. ASP.NET
+      - Websites (e.g. landing pages)
+      - Web applications (e.g. E-Commerce)
+      - Web Services (e.g. reuseable programs on the web)
+    2. C#.NET
+      - Windows GUI applications  (e.g. calculator)
+      - Windows desktop application
+      - Windows services.
+
+CLI (Common Language Infrastructure)
+  - CLI is the .NET compiler
+  - Compiling code steps in .NET:
+  - The developer writes code in humanly understandable programming high level
+    language like C# or VB (source code).
+  - Next, The source code is converted to an intermediate level language (IL) or
+    Microsoft Intermediate Language using the C Sharp Compiler (CSC).
+  - The compiled IL code is stored in a separate .exe file under 
+    /projectFolder/bin/Debug/projectName.exe 
+  - After that, the CLR takes the IL (byte code) and converts it into a machine code and
+    execute it (at execution time).
+  - Finally, the machine code is executed by machine operating system (OS) and returns 
+    the output for the user.
+
+CLR (Common Language Runtime)
+  - .NET applications will not execute directly on OS.
+  - CLR is part of .NET framework; pre-installed on windows.
+  - CLR is the execution engine for all .NET modules. That means any .NET program
+    written in any .NET language must executed based on CLR only. Which means .NET
+    programs will not be executed on the OS directly.
+  - CLR is a component that runs all .NET applications.
+  - CLR is secured and managed execution environment for .NET applications.
+  - CLR offers best performance for applications.
+  - CLR provides several run-time services, including the following components:
+    memory management, exception management, class loading, garbage
+    collection, and other services as well.
+
+  CLR components
+    - Class loader
+    - Loading classes from compiled source code to memory.
+    - Responsible for loading the class before execution (creating new
+    - Class Loader cannot execute the actual code.
+    - Class Loader cannot allocate or delete any memory.
+      objects).;
+
+    - Memory Manager
+    - The memory manager is responsible for allocating memory for objects and local 
+      variable.
+    - Local variable are stored in the stack.
+    - Objects are stored in the heap.
+  
+  - Garbage Collector
+    - The Garbage Collector is responsible to free memory (deleting memory) of variable
+      and objects after code execution.
+    - Garbage Collector identifies all unreferenced objects and delete them in memory.
+
+  - JIT (Just In Time) Compiler
+    - Converts IL (Byte code) into machine code in order to execute it.
+    - JIT converts the source code loaded by the Class Loader.
+  
+  - Exception Manager
+    - Catches all exceptions raised during execution, and execute a Catch block 
+      built by the developer in the Catch block.
+  
+  -  Thread Manager.
+    - Creates, runs, and stops threads.
+    - A thread, is an object in .NET responsible for executing the code.
+    - By default, every application contains a thread called "Main thread".
+    - We may create multiple threads based on the main thread.
+
+  - Security Manager
+    - Verifies every statement before execution whether that statement makes changes
+      or harms the system or not. For example, if a program is trying to access certain
+      hardware resources, but the current user has no permission to do so, then the 
+      Security Manager will block this operation, and raise an appropriate exception.
+
+
+Understanding 
+
+.NET framework architecture 
+  -.NET has two major components:
+    A- .NET framework
+      - .NET framework is a development platform to build various type of applications.
+      - .NET framework consists of two major components:
+
+        1. CLR - Common Language Runtime.
+         - CLR is the .NET runtime engine to execute any runtime .NET application.
+         - CLR provides the runtime services (CLR components) mentioned earlier above.
+
+        2. FCL -Framework Class Library.
+          - Contains the complete libraries available in .NET.
+          - FLC includes all predefined classes, structures, and interfaces that are 
+            available.
+          - Based on FCL only, the developers writes their code.
+          - FCL contains both BCL (to be discussed below) and all libraries of Windows
+            and web applications.
+          
+          - How are both CLR and FCL are arranged?
+          - .NET stack is a collection of all components and languages that are available 
+            in .Net Framework.
+          - CLS Common Language Specifications. 
+            - A standard of rules for all .NET programming languages.
+          - BCL - Based Class Library
+            - Contains a set of predefined classes that can be used in all types of .NET 
+              applications & languages for general I/O operations, type conversion, 
+              and creation of threads, which all can be used in .NET applications.
+            - All predefined classes, interfaces, and structures are also known as 
+              Base Class Library.
+            - Example of BCL classes are: String, Console, Convert, and Console classes.
+
+            - ADO.NET
+            - Contains a set of predefined classes that can be used in all types of .NET
+              applications and languages for connecting to databases.
+            - ADO.NET can retrieve, insert, update, and delete data from databases.
+            - Some classes that are available in ADO.NET, like:
+                - SqlCOmmand
+                - SqlConnection
+                - SqlDataAdapter
+                - SqlDataReader
+
+            - Win Forms
+            - Contains a set of predefined classes that can be used in all types of .NET
+              applications and languages for developing Windows GUI applications.
+            - Win Forms include textbox, button, checkbox, radio button..etc.
+            - WPF is an advance form for Win Forms.
+
+            - ASP.NET
+            - A Contains a set of predefined classes that can be used in all types of .NET
+              applications and languages for developing web applications.
+            - Page, button, label, textbox..etc
+            
+        
+    B- .NET Core
+
+Versions of .NET framework
+
+
+
+Visual Studio
+
+
+

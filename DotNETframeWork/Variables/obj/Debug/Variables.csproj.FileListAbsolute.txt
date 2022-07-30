@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\bin\Debug\Variables.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\bin\Debug\Variables.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\bin\Debug\Variables.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\obj\Debug\Variables.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Variables\obj\Debug\Variables.pdb
