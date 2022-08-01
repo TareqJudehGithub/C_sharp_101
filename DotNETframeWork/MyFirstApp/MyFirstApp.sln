@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Variables\V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "..\DataTypes\DataTypes.csproj", "{9B5C3302-C149-4CD9-899C-7F67C929B3EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "..\Operators\Operators.csproj", "{68A4A4E6-896E-4AC3-AA4A-FA7BD66F8D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "..\ControlFlow\ControlFlow.csproj", "{BC5F5067-FA2B-4E49-B636-F8C732EF658B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{9B5C3302-C149-4CD9-899C-7F67C929B3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5C3302-C149-4CD9-899C-7F67C929B3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5C3302-C149-4CD9-899C-7F67C929B3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A4A4E6-896E-4AC3-AA4A-FA7BD66F8D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A4A4E6-896E-4AC3-AA4A-FA7BD66F8D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A4A4E6-896E-4AC3-AA4A-FA7BD66F8D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A4A4E6-896E-4AC3-AA4A-FA7BD66F8D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5F5067-FA2B-4E49-B636-F8C732EF658B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5F5067-FA2B-4E49-B636-F8C732EF658B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5F5067-FA2B-4E49-B636-F8C732EF658B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5F5067-FA2B-4E49-B636-F8C732EF658B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

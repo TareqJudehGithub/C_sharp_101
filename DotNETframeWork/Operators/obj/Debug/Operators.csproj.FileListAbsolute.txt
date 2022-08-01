@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\bin\Debug\Operators.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\bin\Debug\Operators.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\bin\Debug\Operators.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\obj\Debug\Operators.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Operators\obj\Debug\Operators.pdb

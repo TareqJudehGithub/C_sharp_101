@@ -1,3 +1,14 @@
+Control Flow
+ - Program execution flow in C# is a top-to-bottom execution flow.
+ - top-to-bottom execution flow means the first statement in a method will 
+   be executed first.
+ - In order to control the flow of execution forward or backward, we use the 
+   Control Statements.
+ - Control Statements that enables us to jump forward are called Conditional
+   Control Statements (if/else, and switch).
+ - Control Statements that enables us to jump backward are called Looping 
+   Control Statements (do-while, while, and for).
+
 if/else statements (Branches)
  - Branches in C# means to do conditionals  (if, else if, and else).
  - The most widely used branching statement is the if statement.
@@ -9,6 +20,7 @@ if/else statements (Branches)
    the next condition wil be evaluated (the else if).
  - else keyword. Since the if and else if statements are not met, the else statement
    block of code will run.
+
 
  
     int a = 5;
