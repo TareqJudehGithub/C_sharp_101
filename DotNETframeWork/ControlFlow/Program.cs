@@ -176,12 +176,10 @@ namespace ControlFlow
                 counter++;
             }
 
-
             for (int i = 10; i > 0; i--)
             {
                 Console.Write(i + " ");
                 if (i == 3) break;
-
             }
             Console.WriteLine("");
 
@@ -198,7 +196,6 @@ namespace ControlFlow
             }
             Console.WriteLine("");
         }
-
     }
 
 }

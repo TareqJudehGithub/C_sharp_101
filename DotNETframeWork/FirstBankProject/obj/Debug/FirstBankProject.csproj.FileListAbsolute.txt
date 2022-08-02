@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\bin\Debug\FirstBankProject.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\bin\Debug\FirstBankProject.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\bin\Debug\FirstBankProject.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\obj\Debug\FirstBankProject.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\obj\Debug\FirstBankProject.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\obj\Debug\FirstBankProject.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\obj\Debug\FirstBankProject.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\FirstBankProject\obj\Debug\FirstBankProject.pdb
