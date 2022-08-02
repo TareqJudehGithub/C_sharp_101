@@ -44,11 +44,21 @@ while loop
 
 
   do while loop
+    - in do-while loop, do block is first executed, then the condition is checked
+      in the while block.
     - do while loop keeps iterating until a certain condition is no longer true.
     - The do block of code executes first, then it checks the condition and executes
       it in the while block of code.  
 
   
 break and continue
+
+ - break
+  - break statement stops (terminates) the current loop.
+
+ - continue
+  - continue skips the current iteration and jumps to the next one.
+  
+
 
 

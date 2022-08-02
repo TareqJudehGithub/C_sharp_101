@@ -20,8 +20,6 @@ if/else statements (Branches)
    the next condition wil be evaluated (the else if).
  - else keyword. Since the if and else if statements are not met, the else statement
    block of code will run.
-
-
  
     int a = 5;
     int b = 6;
