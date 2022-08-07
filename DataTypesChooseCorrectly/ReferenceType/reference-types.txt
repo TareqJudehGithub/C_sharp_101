@@ -4,10 +4,12 @@ Reference types
 
  How reference types are different from value types
 
+ Value Types
   - A value type variable will store its values directly in an area of storage called the stack.
   - The stack is memory allocated to the code that is currently running on the CPU  (also known as the stack frame, or activation frame).
   - When the stack frame has finished executing, the values in the stack are removed.
-
+ 
+ Reference Types
   - A reference type variable will store its values in a separate memory region called the heap. 
   - Reference types can hold large values, and a new instance of a reference type is created using the new operator.
   -  The heap is a memory area that is shared across many applications running on the operating system at the same time. 

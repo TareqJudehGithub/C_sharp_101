@@ -1,0 +1,11 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\bin\Debug\OOPfields.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\bin\Debug\OOPfields.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\bin\Debug\OOPfields.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\bin\Debug\ClassLibrary1.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\bin\Debug\ClassLibrary1.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.csproj.CopyComplete
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOPfields\obj\Debug\OOPfields.pdb

@@ -1,0 +1,33 @@
+Access Modifiers 
+ - Access Modifiers specifies the accessibility or the visibility of fields 
+   for other classes.
+ - Access modifiers available are:
+  private, protected, private protected, internal, protected internal, and public.
+
+  - private.
+    - private gives access to 'fields declared' only within the class it self (the 
+      class the field was defined in).
+    - private has no access outside the class .cs file (other assemblies).
+  
+  - protected
+    - protected gives access to fields in both parent class (fields defined in) and
+      and child classes only.
+    - protected has no access outside the class .cs file (other assemblies).
+
+  - private protected
+   - Accessible only within it's parent and child class.
+   - protected private has no access in other classes within the same assembly.
+   - protected private has no access outside the class .cs file (other assemblies).
+  
+  - internal
+   - internal access modifier gives access to field in:
+    - The same class.
+    - In child classes within the same assembly.
+    - Access in other classes within the same assembly.
+    - internal has no access outside it's own assembly.
+  
+  - public
+   - public access modifier is accessible everywhere.
+
+
+  

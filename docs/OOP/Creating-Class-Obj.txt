@@ -1,0 +1,27 @@
+Creating a Class
+
+- Inside the class, We declare the class members:
+
+  AccessModifier modifier class ClassName {
+    Fields
+    Methods
+    Constructors
+    Properties
+    Events
+    Destructors
+  }
+
+// Access Modifiers 
+ - Internal
+  - an internal class is accessible with the same project.
+  - A class by default has internal access right.
+
+ - Public
+  - a public class is accessible inside and outside the project.
+
+Solution
+ - A collection of projects.
+
+Assembly
+ - The compiled source code of a project is known as "assembly".
+

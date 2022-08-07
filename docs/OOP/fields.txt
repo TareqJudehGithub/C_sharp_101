@@ -1,0 +1,37 @@
+Fields
+ 
+  Understanding Fields
+   - A field is variable stored inside the object.
+   - It is not a good habit to initialize values for fields; because field is shared
+     for all objects, and every object should have it's own separate value.
+
+  Syntax of Fields
+   accessModifier Modifier(optional) dataType fieldName;
+
+       Product product1 = new Product();
+        - product1 is a reference variable which access the object.
+        - product1 is stored in the stack.
+        - 
+        
+
+   - Field access modifiers:
+    private, protected, private protected, internal, protected internal, and public.
+    - Field default access modifier is private.
+   
+   - Field modifiers:
+    static, const, and readonly 
+    static
+     - static fields are common to all objects.
+     - Accessible with class name.
+    const
+     - const field's value cannot be modified
+     - compiler replaces all const names with respective values.
+     - const is by default "static"
+    readonly
+     - readonly field's value cannot be modified.
+     - compilation-time restriction only.  
+
+  Access Modifiers of Fields
+  Static Fields
+  Constant Fields
+  Read-Only Fields

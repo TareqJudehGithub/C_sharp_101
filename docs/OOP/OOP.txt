@@ -1,0 +1,73 @@
+﻿Object Oriented Programming (OOP) in C#
+ - OOP is way to write organized code by creating types in the form of classes. 
+ - OOP can groups all data and information into an object.
+ - OOP saves time and decreases development cost.
+ - OOP is a programming model for scalable applications.
+
+ Class
+  - A class is blue print of an object.
+  - A class has actions or abilities. like functions and methods.
+  - A class has properties. Like member variables. e.g. string properties.
+  - Inheritance is possible in classes.
+  - Classes can be used as data type.
+  - {get;} Meaning this is a property and it is only get-able.
+  - Classes support two access modifiers: Internal and public.
+  - Classes support four modifiers: static, abstract, sealed, and partial.
+
+  - Parent-Child classes
+      public class Product {
+
+      }
+      public class DomesticProduct: Product
+      {
+      }
+      - In the above example, Product is a parent class, and DomesticProduct
+        is a child.
+      - All parent class fields are inherited in the child class.
+      - 
+  - In non child classes we need first to instantiate an new object before accessing
+    fields.
+    
+  - Members:
+    A class can contain properties and methods, and these are called Members
+    of that class.
+
+Objects
+ - We can create objects out of a class.
+ - An object is small unit in the program that represents a real-world
+   thing or person.
+ - Objects can store values.  
+ - Objects can access methods of the class.
+ - When compiling, objects are stored inside the Heap.
+ 
+ - In order to access an object, we call it's reference variable stored inside the stack,
+   that's why it's called reference variable.
+ - So Object is the collection of variables stored inside the heap, while the reference
+   variable is stored in the stack in order to access that object.
+      ClassName objectName = new ClassName();
+       - objectName is a reference variable
+       - newCustomer is a reference variable with a default value of null unless we 
+         used the 'new' keyword to refer to an object;
+
+ Example of classes and object:
+	We can create a 'car' class, and from that car class, we could create new objects.
+	Properties like: HP, Wheels, Doors..etc.
+	Abilities like: drive, break, open window, light on/off.
+	inheritance: A5 < Audi < Car.
+
+
+- Access modifiers
+ - Access modifiers like (public or private) determines if members of a class
+   can be accessed by other classes or applications.
+   - public means these members have access to other classes and applications.
+   - private means these members have access within their class only.
+
+- Constructor
+ - A constructor is a member that has the same name as the class. 
+ - It's used to initialize objects of that class type. 
+
+- Methods
+ - Method is a collection of statements to perform certain actions.
+ - Method cannot store values.
+
+

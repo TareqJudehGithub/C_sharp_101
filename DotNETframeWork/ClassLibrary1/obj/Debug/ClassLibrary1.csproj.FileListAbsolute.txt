@@ -1,0 +1,6 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
