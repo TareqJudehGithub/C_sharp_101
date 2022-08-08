@@ -1,4 +1,5 @@
-﻿public class Product
+﻿using System;
+public class Product
 {
     // fields
     private int productID;
@@ -8,6 +9,15 @@
     protected internal string expiryDate = "05-12-2024";
     public int quantityInStock;
 
+    const string developerName = "Tareq"; // local constant
+    public const string CategoryName = "Electronics";  // constant
+    public readonly string dateOfPurchase;
+
+    // constructor
+    public Product()
+    {
+        dateOfPurchase = DateTime.Now.ToShortDateString();
+    }
 }
 
 public class DomesticProduct : Product      // child class
@@ -33,5 +43,9 @@ public class OtherClass
         string otherDescription = seperateClass.productDescription;
         string otherExpDate = seperateClass.expiryDate;
         int quantities = seperateClass.quantityInStock;
+
+        string catName = Product.CategoryName;  // accessing a cons variable from outside the class.
+
     }
 }
+

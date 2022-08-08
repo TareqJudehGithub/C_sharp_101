@@ -1,0 +1,12 @@
+readonly fields
+ - readonly fields are instance fields with their values cannot be modified.
+ - readonly fields are stored inside the object only.
+ - 
+ readonly syntax:
+  AccessModifer readonly dataType fieldName = value;
+
+ - readonly fields ares accessed with their objects through their reference
+   variables.
+    objectName.variableName;
+ - readonly fields must be initialized upon declaration.
+

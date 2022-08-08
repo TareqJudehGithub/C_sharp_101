@@ -1,9 +1,16 @@
 Fields
  
   Understanding Fields
-   - A field is variable stored inside the object.
+   - A field is a variable declared in the class, but stored inside the object.
    - It is not a good habit to initialize values for fields; because field is shared
      for all objects, and every object should have it's own separate value.
+   
+   - There are two type of fields:
+      - instance
+       - instance field belong to it's object declared in the constructor.
+
+      - static, const, and readonly
+       - static, const, and readonly are common to all objects.
 
   Syntax of Fields
    accessModifier Modifier(optional) dataType fieldName;
