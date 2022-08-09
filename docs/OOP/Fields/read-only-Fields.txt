@@ -8,5 +8,9 @@ readonly fields
  - readonly fields ares accessed with their objects through their reference
    variables.
     objectName.variableName;
- - readonly fields must be initialized upon declaration.
+ - readonly fields must be initialized upon declaration USING the 
+   constructor.
+ - In OOP, we call methods by their object reference variable names.
+   Product product1 = new Product();
+   product1.MethodName();
 

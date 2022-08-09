@@ -1,0 +1,11 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\bin\Debug\MethodsOOP.exe.config
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\bin\Debug\MethodsOOP.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\bin\Debug\MethodsOOP.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\bin\Debug\ClassLibrary.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\bin\Debug\ClassLibrary.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.csproj.CopyComplete
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.exe
+E:\web\ASP_NET\CSharp101\DotNETframeWork\Methods\MethodsOOP\obj\Debug\MethodsOOP.pdb

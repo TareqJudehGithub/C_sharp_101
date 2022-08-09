@@ -1,0 +1,29 @@
+Methods
+ 
+ - Method is function (group of statements) to do some action.
+ - Method is part of the class.
+ - Method receives inputs (arguments).
+ - Method returns values based on arguments given.
+
+    class Car 
+    {
+      int calculateEmi(int carPrice, int noOfMonths, int interestRate)
+      {
+        // do calculation (action)
+        return someValue;
+      }
+    }
+  - In our example, (int carPrice, int noOfMonths, int interestRate) are
+    called method parameters.
+  - Parameters can be of any primitive and non-primitive type.
+  - To execute methods, we need to call them
+        calculateEmi(1000, 12, 7.5);
+  
+ - method syntax
+      accessModifier modifier returnType methodName(params)
+      {
+
+      }
+  - returnType should match the method return value.
+  - void dataType indicates that a method does not return any dataType.
+  

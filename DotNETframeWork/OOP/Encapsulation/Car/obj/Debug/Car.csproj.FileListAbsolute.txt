@@ -1,0 +1,6 @@
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\bin\Debug\Car.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\bin\Debug\Car.pdb
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\obj\Debug\Car.dll
+E:\web\ASP_NET\CSharp101\DotNETframeWork\OOP\Encapsulation\Car\obj\Debug\Car.pdb

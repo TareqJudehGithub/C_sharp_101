@@ -1,0 +1,26 @@
+Encapsulation
+ - Encapsulation binds data (fields) and actions (methods).
+ - Encapsulation provides safety.
+ - Using Encapsulation, we indirectly access fields through
+   Setters and Getters methods. So we protect fields from 
+   accessing them directly.
+
+ 
+ Setters and Getters methods
+
+ Setters
+  - Set methods sets values into declared fields.
+      public SetFieldName(dataType value){
+
+      }
+   
+   Why do we have to copy the parameter value into it's respective field?
+   - value is short-live parameter which will be removed/deleted
+     after method execution is over.
+   - Parameters are stored inside the stack.
+
+   Getters
+    - Getters return the value of field declared.
+    
+ - readonly fields can only have Get methods since their value is 
+   readonly.
