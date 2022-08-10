@@ -33,7 +33,7 @@
     of that class.
 
 Objects
- - We can create objects out of a class.
+ - We can create (instantiate) objects out of a class.
  - An object is small unit in the program that represents a real-world
    thing or person.
  - Objects can store values.  

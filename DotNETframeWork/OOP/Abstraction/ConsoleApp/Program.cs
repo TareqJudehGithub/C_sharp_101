@@ -4,6 +4,7 @@
     {
         // Instantiate new object from Car class
         Car gmc = new Car();
+        Car.SetSeatNumbers(Car.GetSeatNumbers() + 5);
 
         // Initialize fields with values
 
@@ -18,10 +19,11 @@
         System.Console.WriteLine($"Model: {gmc.GetModel()}");
         System.Console.WriteLine($"Year: {gmc.GetYear()}");
         System.Console.WriteLine($"Color: {gmc.GetColor()}");
+        System.Console.WriteLine($"Number of Seats: {Car.GetSeatNumbers()}");
         System.Console.WriteLine($"Price: {gmc.GetPrice()}");
 
         // methods:
-        gmc.TaxAmount(gmc.GetPrice());
+        gmc.TaxAmount(price: gmc.GetPrice(), percentage: 0.1);
 
         System.Console.WriteLine("");
     }

@@ -1,0 +1,12 @@
+Named Arguments
+ - Named Arguments feature was introduced in c# 4.0
+ - Named Arguments is when we include parameter name along with its 
+   value when calling the method.
+ - Named arguments improves readability specially if a method contains
+   many parameters.
+        public void TaxAmount(double price, double percentage = 0.16) // default parameter value.
+        {
+            double taxAmount = price * percentage;
+            Console.Write($"Tax amount = {taxAmount:C0}");
+        }
+        gmc.TaxAmount(price: gmc.GetPrice(), percentage: 0.1);

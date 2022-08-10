@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\bin\Debug\net6.0\Our1stClass.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\bin\Debug\net6.0\Our1stClass.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\bin\Debug\net6.0\Our1stClass.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\bin\Debug\net6.0\Our1stClass.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\bin\Debug\net6.0\Our1stClass.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\refint\Our1stClass.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\Our1stClass.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Our1stClass\obj\Debug\net6.0\ref\Our1stClass.dll

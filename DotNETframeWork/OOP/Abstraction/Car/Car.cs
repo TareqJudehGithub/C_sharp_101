@@ -8,6 +8,8 @@ public class Car
     private int year;
     private string color;
     private double price;
+
+    public static int SeatNumbers;
     private readonly string dateOfPurchase;
 
     // constructor
@@ -16,16 +18,19 @@ public class Car
         Console.WriteLine("\nThis is the constructor\n");
         dateOfPurchase = DateTime.Now.ToShortDateString();
         Console.WriteLine("End of constructor\n");
+
+
     }
 
     // Setters
     public void SetId(int value)
     {
-        id = value;
+        //id = value;
+        this.id = value;
     }
     public void SetModel(string value)
     {
-        model = value;
+        this.model = value;
     }
     public void SetYear(int value)
     {
@@ -38,6 +43,12 @@ public class Car
     public void SetPrice(double value)
     {
         price = value;
+    }
+
+    public static void SetSeatNumbers(int value)
+    {
+        SeatNumbers = value;
+
     }
 
     // Getters
@@ -66,12 +77,23 @@ public class Car
     {
         return dateOfPurchase;
     }
+    public static int GetSeatNumbers()
+    {
+        return SeatNumbers;
+    }
+
 
     // methods
-    public void TaxAmount(double price)
+    public void TaxAmount(double price, double percentage = 0.16) // default parameter value.
     {
-        double taxAmount = price * 0.1D;
+        double taxAmount = price * percentage;
         Console.Write($"Tax amount = {taxAmount:C0}");
+    }
+
+    // static methods
+    public static void CarInfo()
+    {
+
     }
 }
 

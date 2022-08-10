@@ -1,0 +1,13 @@
+Default arguments 
+ - Default arguments feature was introduce in c# 4.0
+ - Default arguments automatically assign values to method parameters.
+ - In case an argument were provided to the method call, that value
+   will override the default parameter.
+
+    public void TaxAmount(double price, double percentage = 0.16) 
+    {
+        double taxAmount = price * percentage;
+        Console.Write($"Tax amount = {taxAmount:C0}");
+    }
+
+    gmc.TaxAmount(price: gmc.GetPrice(), percentage: 0.1);

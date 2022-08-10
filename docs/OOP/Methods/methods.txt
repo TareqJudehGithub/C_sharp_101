@@ -26,4 +26,14 @@ Methods
       }
   - returnType should match the method return value.
   - void dataType indicates that a method does not return any dataType.
-  
+
+  Local Variables vs Parameters
+   - All Variables declares inside a method are called local variables.
+   - Parameters receive value from the method arguments when calling the 
+     method.
+   - Both local variables and parameters are stored inside the stack.
+   - Every time a method is being called, a new stack is created for that
+     method.
+   - After finishing executing the method, the stack will be removed and 
+     deleting all local variables and parameters stored there.
+   - Parameters can be primitive and non primitive types.
