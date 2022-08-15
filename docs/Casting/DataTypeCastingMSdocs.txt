@@ -7,6 +7,7 @@ Use a helper method on the variable
 Use the Convert class' methods
 
  implicit conversion. 
+  - Implicit casting is converting from a lower numerical type to a higher one.
   - Implicit conversion is handled by the compiler.
   - Implicit conversion causes no data loss. like converting from int to decimal.
       int myInt = 3;

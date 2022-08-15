@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\bin\Debug\TypeConversionAssignment.exe.config
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\bin\Debug\TypeConversionAssignment.exe
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\bin\Debug\TypeConversionAssignment.pdb
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\obj\Debug\TypeConversionAssignment.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\obj\Debug\TypeConversionAssignment.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\obj\Debug\TypeConversionAssignment.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\obj\Debug\TypeConversionAssignment.exe
+E:\web\ASP_NET\CSharp101\Casting\Assignment\TypeConversionAssignment\obj\Debug\TypeConversionAssignment.pdb

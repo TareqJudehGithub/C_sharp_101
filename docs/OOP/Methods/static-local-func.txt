@@ -1,0 +1,6 @@
+static Local Functions
+ - static local function was introduced in c# 8.0
+ - static functions cannot access the local variables and parameters of the containing
+   method.
+ - static modifier for local functions prevents accidental access to local variables 
+   or parameters of containing method inside the local function.

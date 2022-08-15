@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\bin\Debug\OOPParamsModifier.exe.config
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\bin\Debug\OOPParamsModifier.exe
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\bin\Debug\OOPParamsModifier.pdb
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\obj\Debug\OOPParamsModifier.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\obj\Debug\OOPParamsModifier.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\obj\Debug\OOPParamsModifier.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\obj\Debug\OOPParamsModifier.exe
+E:\web\ASP_NET\CSharp101\OOP\OOPParamsModifier\obj\Debug\OOPParamsModifier.pdb

@@ -13,11 +13,6 @@
         gmc.SetColor("Charcoal");
         gmc.SetPrice(21000);
 
-        //int gmcID = gmc.SetId(1541);
-        //string gmcModel = gmc.SetModel("GMC Envoy CLS");
-        //int gmcYear = gmc.SetYear(2006);
-        //string gmcColor = gmc.SetColor("Charcoal");
-        //double gmcPrice = gmc.SetPrice(21000);
 
         // get values from fields
         System.Console.WriteLine($"ID: {gmc.GetId()}");
@@ -25,11 +20,17 @@
         System.Console.WriteLine($"Year: {gmc.GetYear()}");
         System.Console.WriteLine($"Color: {gmc.GetColor()}");
         System.Console.WriteLine($"Price: {gmc.GetPrice()}");
+        System.Console.WriteLine($"Date of Purchase: {gmc.GetDateOFPurchase()}");
 
         // methods:
-        gmc.TaxAmount(gmc.GetPrice());
+        double tax = 0.1;
+        gmc.TaxAmount(gmc.GetPrice(), in tax);
+        System.Console.WriteLine("\n");
 
-        System.Console.WriteLine("");
+        string color = "Green";
+        gmc.CarDetails(model: gmc.GetModel(), year: gmc.GetYear(), color: ref color);
+
+        System.Console.WriteLine("\n");
     }
 
 }

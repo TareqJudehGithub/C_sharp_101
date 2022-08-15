@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\bin\Debug\Parse.exe.config
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\bin\Debug\Parse.exe
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\bin\Debug\Parse.pdb
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\obj\Debug\Parse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\obj\Debug\Parse.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\obj\Debug\Parse.exe
+E:\web\ASP_NET\CSharp101\Casting\Parse\Parse\obj\Debug\Parse.pdb

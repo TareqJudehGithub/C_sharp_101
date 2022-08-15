@@ -37,3 +37,106 @@ Methods
    - After finishing executing the method, the stack will be removed and 
      deleting all local variables and parameters stored there.
    - Parameters can be primitive and non primitive types.
+
+ Parameters Modifiers
+  - A parameter modifier specifies how the parameter value should be received 
+    from the calling portion.
+
+    - default (no keyword)
+      - When we do not specify a modifier for a parameter, then it is consider
+        as default modifier.
+         methodName(string username)
+         {
+
+         }
+      - A default modifier will not affect/change the value of a method argument 
+        when calling the method.
+      - default modifier is: method caller => method definition
+            methodName(string username)
+            {
+            
+            }
+    - ref
+     - Changes made to the ref parameter, will be automatically effected/reflected 
+       in the argument variable.
+    - We must prefix the reef keyword for both the parameter and the argument variables.
+          methodName(ref string username)
+          {
+            username = "john smith";
+
+          }
+          methodName(ref username);
+    - ref keyword references to the variable inside the method body.
+
+    - out
+     - The argument value will not be given to the parameter, the parameter value
+       will be assigned to the argument variable.
+     - Use out keyword whenever we needed to return multiple projects.
+          methodName(out string lastName)
+          {
+            lastName = "smith";
+
+          }
+          methodName(out lasName);
+
+     - out modifier is: method definition => method caller
+               methodName(out string lastName)
+                {
+                  lastName = "smith";
+
+                }
+
+               methodName(out string lasName);
+     - It is ok not to initialize the argument variable.
+     - Starting c# 7.0 we can declare the argument when calling the method
+
+   - in 
+    - in keyword modifier was introduced in c# 7.2
+    - The argument value will be passed to the parameter just like the case
+      of a default modifier, but the parameter will become read-only, which 
+      means we cannot modify the parameter value inside the method body.
+    - in keyword modifier prevents accidental change of parameters inside the method.
+    - In case of in modifier, local variable will be used as an argument for the method.
+                methodName(in string lastName)
+                {
+                  lastName = "smith";
+
+                }
+                string lastName = "adams";   
+                methodName(in string lasName);
+                >>> adams
+
+
+    - params
+     - params keyword receives a set of values as an array.
+     - An array is a collection of values of the same type.
+     - params modifier declares a new array as a method parameter.
+     - Use params modifier in case we did not know how many arguments we will have.
+ 
+        class Student
+        {
+            public void DisplaySubjects(params string[] subjects)
+            {
+                // System.Console.WriteLine(subjects[0]);
+                foreach (string subjcet in subjects)
+                {
+                    System.Console.WriteLine(subjcet);
+                }
+            }
+
+        }
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                // instantiating new objects of Student class
+                Student student = new Student();
+
+
+                // methods
+                student.DisplaySubjects("Math", "Science", "Physics", "Biology");
+            }
+        }
+
+
+

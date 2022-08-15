@@ -1,7 +1,7 @@
 Abstraction
  
- - through Abstraction, a class can hide data and prevent access from outside
-   its class.
+ - through Abstraction, a class can hide sensitive and private data and prevent access 
+   from outside its class.
  - Abstraction is the concept of providing only limited data or actions to 
    instead of providing everything there to outside the class.
  - The code outside the class can access only its public data but 
@@ -12,4 +12,5 @@ Abstraction
  - Always create fields as private, and access them through public methods
    using 'get' and 'set' methods.
  - Abstraction keeps fields secured and safe from outside access.  
+ - Abstraction reduces complexity and increases efficiency.
  

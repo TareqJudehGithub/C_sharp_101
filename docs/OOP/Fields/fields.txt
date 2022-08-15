@@ -2,6 +2,16 @@ Fields
  
   Understanding Fields
    - A field is a variable declared in the class, but stored inside the object.
+   - Fields stores data in their respective class.
+   - Field Syntax:
+        public class Employee 
+        {
+          public string firstName;
+          public string lastName;
+        }
+  - Fields are accessible using the dot . operator
+        objectName.fieldName
+
    - It is not a good habit to initialize values for fields; because field is shared
      for all objects, and every object should have it's own separate value.
    
@@ -18,7 +28,6 @@ Fields
        Product product1 = new Product();
         - product1 is a reference variable which access the object.
         - product1 is stored in the stack.
-        - 
         
 
    - Field access modifiers:

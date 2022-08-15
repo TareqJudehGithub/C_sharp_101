@@ -1,0 +1,34 @@
+
+ Class
+  - A class is blue print of an object.
+  - A class defines a type of object.
+  - A class has actions or abilities. like functions and methods.
+  - A class has properties. Like member variables. e.g. string properties.
+  - Inheritance is possible in classes.
+  - Classes can be used as data type.
+  - {get;} Meaning this is a property and it is only get-able.
+  - Classes support two access modifiers: Internal and public.
+  - Classes support four modifiers: static, abstract, sealed, and partial.
+  - A class is declared by using the class keyword, followed by an identifier (className).
+      class Car {
+
+      }
+  -  It’s recommended for a class to have a single responsibility.
+
+  - Parent-Child classes
+      public class Product {
+
+      }
+      public class DomesticProduct: Product
+      {
+      }
+      - In the above example, Product is a parent class, and DomesticProduct
+        is a child.
+      - All parent class fields are inherited in the child class.
+      - 
+  - In non child classes we need first to instantiate an new object before accessing
+    fields.
+    
+  - Members:
+    A class can contain properties and methods, and these are called Members
+    of that class.

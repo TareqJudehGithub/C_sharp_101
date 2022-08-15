@@ -1,0 +1,29 @@
+Objects
+ - An object represents a physical or a non-physical entity.
+ - An object is small unit in the program that represents a real-world
+   thing or person.
+ - An object has it's own properties. I.e. a chair has legs, cushion, and backrest, etc.
+ 
+ - An object refers to an instance of a class.
+ - We can create (instantiate) objects out of a class.
+ - An object is created using the new keyword followed by the name of the class the 
+   object will be based on.
+     Car gmc = new Car();
+ - Objects can store values.  
+ - Objects can access methods of the class.
+ - When compiling, objects are stored inside the Heap.
+ 
+ - In order to access an object, we call it's reference variable stored inside the stack,
+   that's why it's called reference variable.
+ - So Object is the collection of variables stored inside the heap, while the reference
+   variable is stored in the stack in order to access that object.
+      ClassName objectName = new ClassName();
+       - objectName is a reference variable
+       - newCustomer is a reference variable with a default value of null unless we 
+         used the 'new' keyword to refer to an object;
+
+ Example of classes and object:
+	We can create a 'car' class, and from that car class, we could create new objects.
+	Properties like: HP, Wheels, Doors..etc.
+	Abilities like: drive, break, open window, light on/off.
+	inheritance: A5 < Audi < Car.

@@ -2,10 +2,13 @@ dotnet commands
   $ dotnet --version						Checks the current .Net version installed
   $ dotnet new console						Creates a new .NET Core console app in the current directory.
   $ dotnet new console -o project_name		Creates a new .NET Core console app in a new directory.
-  $ dotnet run								runs project file .cs 
-  $ dotnet build							build the project file.
   $ dotnet new console --framework net5.0	Create a new project that targets .NET 5.
 
+  $ dotnet new classlib         Creates a new class library file.
+  $ dotnet run								runs project file .cs 
+  $ dotnet build							build the project file.
+
+  $ dotnet add reference ../path/fielname.csproj
   1. press CTRL+SHIFT+P to open the command pallette, then type .NET
   2. Now, choose .NET generate assets for build and debug in order to build the .vscode
   folder.

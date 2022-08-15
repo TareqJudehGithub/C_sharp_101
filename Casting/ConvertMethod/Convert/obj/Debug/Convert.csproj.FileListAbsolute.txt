@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\bin\Debug\Convert.exe.config
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\bin\Debug\Convert.exe
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\bin\Debug\Convert.pdb
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\obj\Debug\Convert.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\obj\Debug\Convert.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\obj\Debug\Convert.exe
+E:\web\ASP_NET\CSharp101\Casting\ConvertMethod\Convert\obj\Debug\Convert.pdb

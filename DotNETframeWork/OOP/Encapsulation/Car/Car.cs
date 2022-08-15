@@ -39,28 +39,6 @@ public class Car
         price = value;
     }
 
-    //public int SetId(int value)
-    //{
-    //    return id = value;
-    //}
-    //public string SetModel(string value)
-    //{
-    //    return model = value;
-    //}
-    //public int SetYear(int value)
-    //{
-    //    return year = value;
-    //}
-    //public string SetColor(string value)
-    //{
-    //    return color = value;
-    //}
-    //public double SetPrice(double value)
-    //{
-    //    return price = value;
-    //}
-
-
     // Getters
     public int GetId()
     {
@@ -89,10 +67,16 @@ public class Car
     }
 
     // methods
-    public void TaxAmount(double price)
+    public void TaxAmount(double price, in double tax)
     {
-        double taxAmount = price * 0.1D;
+
+        double taxAmount = price * tax;
         Console.Write($"Tax amount = {taxAmount:C0}");
+    }
+    public void CarDetails(string model, int year, ref string color)  // ref keyword for arguments
+    {
+        color = "Red";
+        Console.WriteLine($"Model: {model}\nYear: {year}\nColor: {color}");
     }
 }
 

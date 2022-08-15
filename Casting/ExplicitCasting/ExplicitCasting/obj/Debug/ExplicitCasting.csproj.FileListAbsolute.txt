@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\bin\Debug\ExplicitCasting.exe.config
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\bin\Debug\ExplicitCasting.exe
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\obj\Debug\ExplicitCasting.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\obj\Debug\ExplicitCasting.exe
+E:\web\ASP_NET\CSharp101\Casting\ExplicitCasting\ExplicitCasting\obj\Debug\ExplicitCasting.pdb

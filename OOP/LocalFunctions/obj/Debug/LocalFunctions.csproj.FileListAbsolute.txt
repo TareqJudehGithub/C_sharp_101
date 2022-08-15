@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\bin\Debug\LocalFunctions.exe
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\bin\Debug\LocalFunctions.pdb
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\obj\Debug\LocalFunctions.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\obj\Debug\LocalFunctions.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\obj\Debug\LocalFunctions.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\obj\Debug\LocalFunctions.exe
+E:\web\ASP_NET\CSharp101\OOP\LocalFunctions\obj\Debug\LocalFunctions.pdb

@@ -1,10 +1,16 @@
+Type Conversion
+- Type Conversion is the process of converting from one type to another.
 
-Convert string to int
-  You can convert the string to integer using Convert.ToInt32() function:
-  int intTemp = Convert.ToInt32(Console.ReadLine());
+ implicit conversion. 
+  - Implicit casting is converting from a lower numerical type to a higher one.
+  - Implicit conversion is handled by the compiler without the need to any
+    additional syntax.
+  - Implicit conversion causes no data loss. like converting from int to decimal.
 
 Explicit Casting
-  Explicit casting must be done manually by placing the type in parentheses in front 
+ - Explicit casting is including the target data type name explicitly.
+ - Implicit casting is converting from a lower numerical type to a higher one.
+ - Explicit casting must be done manually by placing the type in parentheses in front 
   of the value:
 
     double myDouble = 9.78;
@@ -13,7 +19,16 @@ Explicit Casting
     Console.WriteLine(myDouble);   // Outputs 9.78
     Console.WriteLine(myInt);      // Outputs 9
 
+Parsing
+ - Parsing is the technique of converting from a string type to a numerical type.
+ - We can convert to any numeric type.
+ - The string value (source value) must contain digits only.
+    
 Type Conversion Methods
+  - Convert() is a method from the System class.
+  - Convert() allows us to convert from a any primitive type to any primitive type.
+  - Convert() also allows us to convert from any primitive type to string and visa versa.
+  - I.e. string => int  or  int => string.
   It is also possible to convert data types explicitly by using built-in methods, such as 
   Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32 (int) and 
   Convert.ToInt64 (long):
@@ -27,6 +42,10 @@ Type Conversion Methods
     Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
     Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
     Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
+
+  Convert string to int
+    You can convert the string to integer using Convert.ToInt32() function:
+    int intTemp = Convert.ToInt32(Console.ReadLine());
 
 Check this link for more info
 https://www.w3schools.com/cs/cs_type_casting.php
