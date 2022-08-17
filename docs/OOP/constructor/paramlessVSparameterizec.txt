@@ -1,0 +1,15 @@
+Parameter-less Constructor VS Parameterized Constructor
+ 
+ Parameter-less Constructor
+  - A constructor without parameters.
+    public ClassName()
+    {
+
+    }
+
+ Parameterized Constructor
+  - A constructor with one or more parameters.
+    public ClassName(param1, param2)
+    {
+      
+    }

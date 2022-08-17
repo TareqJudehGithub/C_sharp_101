@@ -31,4 +31,7 @@
     
   - Members:
     A class can contain properties and methods, and these are called Members
-    of that class.
+    of that class:
+     - Fields.        Stores data.
+     - Methods.       Manipulate fields.
+     - Constructors.  Initializes fields.

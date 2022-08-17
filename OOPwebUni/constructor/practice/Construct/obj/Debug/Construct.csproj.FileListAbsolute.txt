@@ -1,0 +1,11 @@
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\bin\Debug\Construct.exe.config
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\bin\Debug\Construct.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\bin\Debug\Construct.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\bin\Debug\ClassLibrary1.dll
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\bin\Debug\ClassLibrary1.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.csproj.CopyComplete
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\constructor\practice\Construct\obj\Debug\Construct.pdb

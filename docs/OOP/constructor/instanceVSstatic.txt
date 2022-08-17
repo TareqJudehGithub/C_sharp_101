@@ -1,0 +1,23 @@
+Instance constructor VS Static Constructor
+ 
+ - Instance constructor
+  - created without the use of a modifier.
+  - Initializes fields.
+  - Executes every time when we create a new object for the class.
+  - The instance constructor is private by default.
+  - We can include any additional logic that needs to be executed 
+    when we create objects.
+
+
+ - Static Constructor
+  - Created using static modifier.
+  - Used for initializing static fields
+  - Cannot have any parameters.
+  - Cannot return any value.
+  
+  - Will not executes when creating a new object for the class.
+  - Executes only one time when the first object is created for the class, or
+    when the class is accessed for the first time in the main method.
+  - The static constructor is public by default.  
+  - any additional logic will be executed once, when the class is accessed for
+    for the first time.

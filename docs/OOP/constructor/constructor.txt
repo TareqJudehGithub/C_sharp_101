@@ -1,0 +1,35 @@
+Constructor
+ What is a constructor?
+  - A special method of the class, which initializes the fields of the class.
+  - The constructor can have any additional initialization logic that helps in 
+    creating an object for the class.
+
+ Rules of a constructor
+  - When creating the constructor, that constructor should have the class name
+    as it's name as well.
+        public class Car {
+          // fields
+
+          // constructor
+          public Car() 
+          {
+
+          }
+        }
+  - The constructor access modifiers are same as the fields.
+    - private, protected, private protected, Internal, Internal protected, and public.
+  - It is recommended to create the constructor with internal or public access modifiers.
+  - The constructor has only modifier:  static  or (default no keyword).
+
+  - A constructor does not return any value.
+  - A constructor can receive one or more parameter optionally.
+  - Inside the constructor we can initialize the declared in the class.
+  
+  - We can create multiple constructors in the same class.
+  - All constructors in the same class, must have different types parameters.
+  
+
+
+
+
+   

@@ -1,0 +1,9 @@
+Implicit Constructor VS Explicit Constructor 
+ Implicit Constructor 
+  - When a class is declared without a constructor, the compiler by default
+    provides a constructor (Implicit Constructor).
+  - An implicit constructor does not initialize anything.
+
+ Explicit Constructor 
+  - When a class is declared with a constructor.
+  - An explicit constructor initializes fields and logic to initializes fields.
