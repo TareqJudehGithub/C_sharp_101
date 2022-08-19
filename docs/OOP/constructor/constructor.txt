@@ -25,8 +25,11 @@ Constructor
   - A constructor can receive one or more parameter optionally.
   - Inside the constructor we can initialize the declared in the class.
   
+  - If the developer does not create an constructor, the complier automatically
+    creates a default constructor with no parameters.
   - We can create multiple constructors in the same class.
-  - All constructors in the same class, must have different types parameters.
+  - All constructors in the same class, must have different types parameters 
+    and fields.
   
 
 

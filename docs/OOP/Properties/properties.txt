@@ -1,0 +1,15 @@
+Properties
+ - Properties naming convention starts with an uppercase (pascal naming).
+ - Properties syntax:
+            public int Height
+            {
+                get
+                {
+                    return this.height;
+                }
+                set
+                {
+                    this.height = value;
+                }
+ - the 'value' keyword in set:
+  - 

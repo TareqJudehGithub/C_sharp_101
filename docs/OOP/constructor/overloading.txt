@@ -1,0 +1,13 @@
+Constructors Overloading
+ - When we declare/define two or more constructors in the same class, we call
+   this technique 'Constructors Overloading'.
+    class ClassName()
+    {
+    }
+    class ClassName(param1, param2)
+    {
+
+    }
+  
+  - Every constructor should have different parameters than the other in order
+    to have constructor overloading.

@@ -22,6 +22,7 @@ static fields
   - while the static field is stored in the class memory in the heap.
 
                    Instance fields     VS         static fields
+                   
 Storage            Stored in Objects              Stored in class memory  (both are stored in the heap)
 
 Related to         represents data related        represents common data that belongs to 

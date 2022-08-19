@@ -1,0 +1,22 @@
+Object Initializer
+ - A special syntax in C# to initialize fields or properties of a class
+   when a new Object is created for the class.
+   
+ - Object initializer is an alternative to the constructor, but it does
+   not replaces it. We should have a parameter-less constructor declared.
+ - Object initializer executes after the constructor finishes executing.
+ - Object initializer cannot contain any initialization logic for the class.
+
+ - Use Object Initializer in case we need only to initialize certain fields
+   defined in the constructor and not all of the fields initialized in that
+   constructor.
+
+ - Object initializer syntax:
+      new ClassName()  
+      // These curly braces below are called Object Initializer 
+      {
+        field1 = value;
+        field2 = value;
+      }
+  
+  -

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\bin\Debug\net6.0\PhoneCompanyAssignment.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\bin\Debug\net6.0\PhoneCompanyAssignment.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\bin\Debug\net6.0\PhoneCompanyAssignment.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\bin\Debug\net6.0\PhoneCompanyAssignment.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\bin\Debug\net6.0\PhoneCompanyAssignment.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\refint\PhoneCompanyAssignment.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\PhoneCompanyAssignment.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Assignments\PhoneCompany\PhoneCompanyAssignment\obj\Debug\net6.0\ref\PhoneCompanyAssignment.dll
