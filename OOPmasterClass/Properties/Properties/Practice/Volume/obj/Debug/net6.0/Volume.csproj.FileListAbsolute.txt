@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\bin\Debug\net6.0\Volume.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\bin\Debug\net6.0\Volume.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\bin\Debug\net6.0\Volume.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\bin\Debug\net6.0\Volume.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\bin\Debug\net6.0\Volume.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\refint\Volume.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\Volume.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Practice\Volume\obj\Debug\net6.0\ref\Volume.dll
