@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\bin\Debug\net6.0\ChallengeFrontSurface.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\bin\Debug\net6.0\ChallengeFrontSurface.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\bin\Debug\net6.0\ChallengeFrontSurface.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\bin\Debug\net6.0\ChallengeFrontSurface.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\bin\Debug\net6.0\ChallengeFrontSurface.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\refint\ChallengeFrontSurface.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ChallengeFrontSurface.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Properties\Properties\Challenge\ChallengeFrontSurface\obj\Debug\net6.0\ref\ChallengeFrontSurface.dll

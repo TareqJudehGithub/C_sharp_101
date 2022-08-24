@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\bin\Debug\net6.0\MemberFinalizersDestructors.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\bin\Debug\net6.0\MemberFinalizersDestructors.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\bin\Debug\net6.0\MemberFinalizersDestructors.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\bin\Debug\net6.0\MemberFinalizersDestructors.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\bin\Debug\net6.0\MemberFinalizersDestructors.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\refint\MemberFinalizersDestructors.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\MemberFinalizersDestructors.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\MembersFinalizersDestructors\Lecture\MemberFinalizersDestructors\obj\Debug\net6.0\ref\MemberFinalizersDestructors.dll

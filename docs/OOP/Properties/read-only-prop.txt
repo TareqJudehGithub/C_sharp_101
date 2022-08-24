@@ -1,0 +1,23 @@
+Read-only Property
+ 
+ - A read-only property is a property with 'get' accessor, where you can read 
+   the value of the property any numbers of time any where.
+ - Read-only Property does contain a set accessor.
+
+Write-only Property
+ - A write-only property is a property with 'set' accessor only, where we can
+   set/modify fields values, but not view/read them.
+ - Write-only Property does contain a get accessor.  
+
+        // instance field
+        internal double salary;
+        // read-only properties
+        internal double Salary
+        {
+            get
+            {
+                return this.salary;
+            }
+        }
+
+

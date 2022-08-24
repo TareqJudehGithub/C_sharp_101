@@ -1,6 +1,16 @@
 Properties
+ - Properties were introduced in c# 3.0
+ - A composite member of the class.
+ - Properties check the incoming value whether it is valid or invalid, and assign
+   the value into the corresponding field only if the value is valid.
+
+ - Properties expose fields safely, preventing direct access to their corresponding
+   fields; because the fields only store values and cannot validate on it's own.
  - Properties naming convention starts with an uppercase (pascal naming).
+
+ - Properties contain two accessors: set and get.
  - Properties syntax:
+            private into height;
             public int Height
             {
                 get
@@ -11,5 +21,30 @@ Properties
                 {
                     this.height = value;
                 }
+ - set accessor 
+    - The set accessor sets the value of the field.
+    - Validates the incoming value and initializing it to its corresponding
+      field.
+    - We can check any custom logic to the set accessor, to check whether the value
+      is valid or invalid.  
+    - Can't have any additional parameter nor it returns any values.
+
  - the 'value' keyword in set:
-  - 
+  - A predefined and default implicit parameter which represents the value of the 
+  assigned to the property.
+  
+
+- get accessor
+    - The get accessor return the value of the field.
+    - Will be executed automatically when accessing the property.
+
+- Properties and fields share the same access modifiers.
+ - private, protected, private protected, internal, protected internal, and public.
+- Properties modifiers:
+ - static, virtual, abstract, override, new, and sealed.
+
+- No memory will be allocated for the property (will not be stored). 
+- The memory will be allocated only for the fields inside the object.
+- If we assigned values directly to fields inside a constructor, that will skip the 
+  properties and therefor the fields can be accessed directly.
+

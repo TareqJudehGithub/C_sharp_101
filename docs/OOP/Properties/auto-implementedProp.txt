@@ -1,0 +1,24 @@
+Auto-Implemented Properties
+ - Auto-Implemented Properties was introduced in c# 3.0
+ - Auto-Implemented Properties do not contain the definition of set and get accessors.
+ - Auto-Implemented Properties just contain the semi-colon;
+ - C# complier provider both the set and get accessors automatically.
+ - We use Auto-Implemented Properties in case we did not need to include any logic for 
+   or any validation for the set accessor.
+ - In Auto-Implemented Properties, we don't need to create a corresponding 
+   private field, C# complier will automatically do that.
+ - Creating only a set accessor, this means the auto-Implemented property 
+   is a write-only property.
+ - Creating only a get accessor, this means the auto-Implemented property 
+   is a read-only property.  
+
+Auto-Implemented Property Initializer
+ - Auto-Implemented Property Initializer was introduced in c# 6.0
+ - We can (optionally) initialize the property value by typing this syntax
+    accessModifier modifier type MyProperty { get; set; } = value;
+ - In case we did not initialize a value for the property, a default value
+   for the property will be initialized by the compiler:
+      0 value for numerical types.
+      null value for string types.
+ 
+

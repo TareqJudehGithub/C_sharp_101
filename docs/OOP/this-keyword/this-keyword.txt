@@ -5,4 +5,5 @@ this keyword
  - this keyword in C# refers to the current object of a particular 
    method.
  - this keyword is only available for instance methods.
+ - Don't use this keyword with class Properties.
  

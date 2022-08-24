@@ -14,7 +14,9 @@ Fields
 
    - It is not a good habit to initialize values for fields; because field is shared
      for all objects, and every object should have it's own separate value.
-   
+   - It is recommended to assign fields as private, so no body can access them from
+     outside the class.
+
    - There are two type of fields:
       - instance
        - instance field belong to it's object declared in the constructor.
@@ -33,6 +35,8 @@ Fields
    - Field access modifiers:
     private, protected, private protected, internal, protected internal, and public.
     - Field default access modifier is private.
+    - For private fields, it is recommended to start naming them with an underscore _
+        private int _id;
    
    - Field modifiers:
     static, const, and readonly 

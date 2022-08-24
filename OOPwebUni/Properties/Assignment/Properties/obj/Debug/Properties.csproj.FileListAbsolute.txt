@@ -1,0 +1,8 @@
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\bin\Debug\Properties.exe.config
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\bin\Debug\Properties.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\bin\Debug\Properties.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\obj\Debug\Properties.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\Properties\Assignment\Properties\obj\Debug\Properties.pdb
