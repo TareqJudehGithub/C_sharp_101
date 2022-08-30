@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\bin\Debug\net6.0\ClassObject.exe
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\bin\Debug\net6.0\ClassObject.deps.json
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\bin\Debug\net6.0\ClassObject.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\bin\Debug\net6.0\ClassObject.dll
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\bin\Debug\net6.0\ClassObject.pdb
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.dll
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\refint\ClassObject.dll
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.pdb
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ClassObject.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPtrevor\ClassObj\Lecture\ClassObject\obj\Debug\net6.0\ref\ClassObject.dll

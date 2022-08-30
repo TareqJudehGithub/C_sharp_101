@@ -1,0 +1,33 @@
+Indexers
+ - Indexers are rarely used in C#.
+ - Indexers makes it easy accessing an array stored inside a field.
+ - Indexers provide easy access to an array or a string value.
+ - Indexers are created with 'this' keyword; Therefor, Indexers should
+   always be named this.
+ - Indexers must have at least 1 parameter.  
+ - Indexers cannot be static; because they are accessible through reference
+   variable (instance members).
+
+
+   Indexers syntax:
+    accessModifier modifier type indexer
+     internal class Car
+    {
+        // private fields
+        private string[] _brands = new string[] { "BMW", "Skoda", "Honda" };
+
+        // Indexers
+        internal string this[int index]
+        {
+            set
+            {
+                this._brands[index] = value; // Assign value into the index based on indexer.
+
+            }
+        }
+    }
+ - Indexers can override arrays current elements value with the new value set inside
+   the indexer set method.
+
+ Indexers share the same access modifiers with fields and classes.
+   private, protected, private protected, internal, protected internal, and public.

@@ -3,6 +3,9 @@ Fields
   Understanding Fields
    - A field is a variable declared in the class, but stored inside the object.
    - Fields stores data in their respective class.
+   - Fields and properties are like the class nouns, while methods are like verbs.
+   - Fields are recommended to have a private access modifier.
+
    - Field Syntax:
         public class Employee 
         {

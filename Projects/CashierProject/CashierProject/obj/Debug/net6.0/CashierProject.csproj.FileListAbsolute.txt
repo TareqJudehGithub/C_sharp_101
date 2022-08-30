@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\bin\Debug\net6.0\CashierProject.exe
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\bin\Debug\net6.0\CashierProject.deps.json
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\bin\Debug\net6.0\CashierProject.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\bin\Debug\net6.0\CashierProject.dll
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\bin\Debug\net6.0\CashierProject.pdb
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.dll
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\refint\CashierProject.dll
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.pdb
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\CashierProject.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\Projects\CashierProject\CashierProject\obj\Debug\net6.0\ref\CashierProject.dll
