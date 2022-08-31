@@ -1,0 +1,128 @@
+Inheritance
+
+ - What is Inheritance?
+  - Creating an easy-type relationship between two or more classes.
+  - I.e. Animal can be a parent class of Tiger (child class to Animal).
+  - Parent class can have multiple child classes (Tiger, Lion, Panther).
+
+  - All parent members of parent class are implicitly given to the child 
+    class. So we can access all parent class fields, properties, and methods
+    from a child class.
+  - We cannot access any child class members from the parent class.
+
+    - Inheritance syntax
+        class ParentName
+        {
+          parent class members here
+        }
+        class ParentName : ChildName
+        {
+          child class members here
+        }  
+
+ - Types of inheritance
+  
+  - Single Inheritance
+    - One parent class
+
+     class Person 
+      {
+
+      }  
+      class Teacher : Person
+      {
+        
+      }
+  
+  - Multi-level Inheritance
+    - One parent class, one child class, and the child class has another child 
+      class.
+
+    - Hierarchal Inheritance
+        class Person 
+        {
+
+        }  
+        class Teacher : Person (parent)
+        {
+          
+        }
+        class Professor : Teacher (parent)
+        {
+
+        }
+    
+    - Multiple Inheritance
+     - A child class has multiple parents.
+     - In C#, we have to use the 'interface' keyword in order to implement
+       multiple inheritance.
+        interface Person
+        {
+
+        }
+        interface Teacher
+        {
+
+        }
+        class Professor : Person, Teacher
+
+    - Hybrid Inheritance
+     - A combination of two or more types of inheritance
+
+      class Person
+      {}
+      class Teacher: Person                     (Hierarchal)
+      {}
+      class Professor: Teacher                  (Hierarchal)
+      class EnglishProfessor: Professor         (Multi-level)
+
+
+
+ - 'base' keyword
+  - 'base' is keyword available in the child class that enables us to have access
+     to the parent class members.
+  - The 'base' keyword always refer to the parent class members, and not the child's.
+  - The use of 'base' keyword is optional, we can still access the parent class 
+    members without the use of 'base'.
+  - 'base' is useful when both the parent and child has a class member with the 
+    same name.
+
+ - Method Hiding
+  - Hiding parent class methods using 'new' keyword
+  - 'new' keyword hides/overrides the parent method by creating a new method in the
+    child class with the same name and parameters of the parent class method.
+  - The new child method prevents the parent method from execution.  
+
+
+ - Method Overriding
+  - Extending the parent class method through creating another method with the same
+    signature in the child class.
+  - Extending means, when we call the method from the child class, both methods in
+    the parent and the child classes will execute.
+
+  - Using 'virtual' keyword at parent class's method. 
+  - Using 'override' keyword in child class's method.
+  
+  - Method Overriding syntax:
+      class Parent
+      {
+        public virtual void MethodName(param1, param2)
+        {}
+      }
+        class Child : Parent
+      {
+        public override void MethodName(param1, param2)
+        {
+          base.MethodName(); (The parent class method name)
+        }
+      }
+  - The parent method first executes, then the child method follows.
+  
+
+
+
+
+ 
+
+
+

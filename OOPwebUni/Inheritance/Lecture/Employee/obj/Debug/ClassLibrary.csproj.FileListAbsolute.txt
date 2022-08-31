@@ -1,0 +1,6 @@
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\bin\Debug\Employee.dll
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\bin\Debug\Employee.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\obj\Debug\Employee.dll
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Employee\obj\Debug\Employee.pdb

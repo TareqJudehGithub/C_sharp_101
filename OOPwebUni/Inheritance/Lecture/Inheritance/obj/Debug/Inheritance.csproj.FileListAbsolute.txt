@@ -1,0 +1,11 @@
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\bin\Debug\Inheritance.exe.config
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\bin\Debug\Inheritance.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\bin\Debug\Inheritance.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\bin\Debug\Employee.dll
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\bin\Debug\Employee.pdb
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.csproj.CopyComplete
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.exe
+E:\web\ASP_NET\CSharp101\OOPwebUni\Inheritance\Lecture\Inheritance\obj\Debug\Inheritance.pdb

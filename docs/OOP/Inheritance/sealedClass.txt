@@ -1,0 +1,12 @@
+Sealed classes
+ - A sealed class, is a class that cannot be inherited.
+ - 'sealed' modifier keyword indicates that, this class cannot be inherited.
+ - A sealed class can still inherit other classes.
+ - A sealed class can still inherited from other interfaces.
+    
+    sealed class Manager
+    {}
+
+    class BranchManager : Manager
+    {}
+  - This code will return an error due to sealed class restriction. 
