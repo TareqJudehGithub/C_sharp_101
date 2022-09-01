@@ -1,0 +1,8 @@
+Sealed Methods
+ - We can turn methods into sealed methods through using the 'sealed' keyword for 
+   that method.
+ - A sealed method, should be an 'override' method.
+ - The sealed method, cannot be overridden by other child classes.
+ 
+
+

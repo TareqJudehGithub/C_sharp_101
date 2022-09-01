@@ -56,6 +56,7 @@ Inheritance
      - A child class has multiple parents.
      - In C#, we have to use the 'interface' keyword in order to implement
        multiple inheritance.
+     - Multiple parent classes are not allowed in C#, but multiple interfaces are.  
         interface Person
         {
 
@@ -92,6 +93,7 @@ Inheritance
   - 'new' keyword hides/overrides the parent method by creating a new method in the
     child class with the same name and parameters of the parent class method.
   - The new child method prevents the parent method from execution.  
+  - We use 'Method Hiding' incase we did not wish to run the parent class method.
 
 
  - Method Overriding
@@ -99,6 +101,7 @@ Inheritance
     signature in the child class.
   - Extending means, when we call the method from the child class, both methods in
     the parent and the child classes will execute.
+  
 
   - Using 'virtual' keyword at parent class's method. 
   - Using 'override' keyword in child class's method.
@@ -117,7 +120,8 @@ Inheritance
         }
       }
   - The parent method first executes, then the child method follows.
-  
+  - If we don't use the 'base' keyword in the overriding method body, the parent
+    method will not be executed.
 
 
 
