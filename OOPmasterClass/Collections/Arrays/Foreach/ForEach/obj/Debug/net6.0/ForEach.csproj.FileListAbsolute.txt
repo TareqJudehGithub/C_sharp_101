@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\bin\Debug\net6.0\ForEach.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\bin\Debug\net6.0\ForEach.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\bin\Debug\net6.0\ForEach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\bin\Debug\net6.0\ForEach.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Foreach\ForEach\obj\Debug\net6.0\ref\ForEach.dll
