@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\bin\Debug\net6.0\ArraysForeach.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\bin\Debug\net6.0\ArraysForeach.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\bin\Debug\net6.0\ArraysForeach.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\bin\Debug\net6.0\ArraysForeach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\bin\Debug\net6.0\ArraysForeach.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\refint\ArraysForeach.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ArraysForeach.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ArraysForeach\ArraysForeach\obj\Debug\net6.0\ref\ArraysForeach.dll

@@ -1,0 +1,41 @@
+Multi-Dimensional Array
+
+    // 2d array - initialization
+    int[,] array2D = new int[,]
+    {
+        {10, 40, 57},
+        {100, 250, 155},
+        {1006, 5019,  3574}
+    };
+    // access 2day array elements
+    // access the first element in the 2nd group
+    Console.WriteLine($"The 1st element in the 2nd element group: {array2D[1, 0]}");
+
+
+    // 3D Array - declaration
+    string[,,] studentScores = new string[,,]
+    {
+        { // matrix
+            {"Ali", "95" },
+            {"Waleed", "88"} ,
+            {"Sa'eed", "91"}
+        },
+        {
+            {"Tareq", "84" }
+        }
+    };
+
+    // access StudentScores elements
+    arrayName[matrix, row, column]
+
+    Console.WriteLine($"Name: {studentScores[0, 0, 0]}, Score: {studentScores[0, 0, 1]}");
+
+Rank method
+ - returns the array dimensional rank
+
+    Console.WriteLine($"This array is rank: {array2D.Rank}");
+    >>> $ This array is rank: 2
+
+GetLength(index)
+ - returns a specific row of a column inside a matrix in a multi-dimensional array.
+ 

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\bin\Debug\net6.0\StudentMarks.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\bin\Debug\net6.0\StudentMarks.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\bin\Debug\net6.0\StudentMarks.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\bin\Debug\net6.0\StudentMarks.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\bin\Debug\net6.0\StudentMarks.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\refint\StudentMarks.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\StudentMarks.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\StudentMarks\obj\Debug\net6.0\ref\StudentMarks.dll

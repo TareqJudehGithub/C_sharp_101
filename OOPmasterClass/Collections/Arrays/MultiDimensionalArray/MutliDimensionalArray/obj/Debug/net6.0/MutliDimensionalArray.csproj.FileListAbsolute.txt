@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\bin\Debug\net6.0\MutliDimensionalArray.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\bin\Debug\net6.0\MutliDimensionalArray.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\bin\Debug\net6.0\MutliDimensionalArray.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\bin\Debug\net6.0\MutliDimensionalArray.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\bin\Debug\net6.0\MutliDimensionalArray.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\refint\MutliDimensionalArray.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\MutliDimensionalArray.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\MutliDimensionalArray\obj\Debug\net6.0\ref\MutliDimensionalArray.dll

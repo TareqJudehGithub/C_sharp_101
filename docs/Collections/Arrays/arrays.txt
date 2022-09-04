@@ -12,9 +12,4 @@ Arrays
   grade2 = grades[2] = 79
   grade2 = grades[3] = 91
   grade2 = grades[4] = 93
-  
-
-
-
-
 

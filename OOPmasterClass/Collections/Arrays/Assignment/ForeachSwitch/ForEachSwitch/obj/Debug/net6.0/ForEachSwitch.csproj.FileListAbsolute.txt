@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\bin\Debug\net6.0\ForEachSwitch.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\bin\Debug\net6.0\ForEachSwitch.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\bin\Debug\net6.0\ForEachSwitch.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\bin\Debug\net6.0\ForEachSwitch.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\bin\Debug\net6.0\ForEachSwitch.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\refint\ForEachSwitch.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ForEachSwitch.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\Assignment\ForeachSwitch\ForEachSwitch\obj\Debug\net6.0\ref\ForEachSwitch.dll

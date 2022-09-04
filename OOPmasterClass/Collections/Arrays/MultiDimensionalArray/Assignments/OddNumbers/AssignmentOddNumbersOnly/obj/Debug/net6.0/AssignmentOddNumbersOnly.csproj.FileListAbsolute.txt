@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\bin\Debug\net6.0\AssignmentOddNumbersOnly.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\bin\Debug\net6.0\AssignmentOddNumbersOnly.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\bin\Debug\net6.0\AssignmentOddNumbersOnly.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\bin\Debug\net6.0\AssignmentOddNumbersOnly.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\bin\Debug\net6.0\AssignmentOddNumbersOnly.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\refint\AssignmentOddNumbersOnly.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\AssignmentOddNumbersOnly.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\OddNumbers\AssignmentOddNumbersOnly\obj\Debug\net6.0\ref\AssignmentOddNumbersOnly.dll
