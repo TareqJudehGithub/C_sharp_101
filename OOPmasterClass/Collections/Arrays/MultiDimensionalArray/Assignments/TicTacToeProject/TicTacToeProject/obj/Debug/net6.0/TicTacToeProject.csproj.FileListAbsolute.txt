@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\bin\Debug\net6.0\TicTacToeProject.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\bin\Debug\net6.0\TicTacToeProject.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\bin\Debug\net6.0\TicTacToeProject.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\bin\Debug\net6.0\TicTacToeProject.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\bin\Debug\net6.0\TicTacToeProject.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\refint\TicTacToeProject.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\TicTacToeProject.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeProject\TicTacToeProject\obj\Debug\net6.0\ref\TicTacToeProject.dll
