@@ -2,61 +2,42 @@
 {
     internal class GamePlay
     {
-        TicTacToe game = new TicTacToe();
-
-        // Variables 
-
-        string playerOneSquare = string.Empty;
-        string playerTwoSquare = string.Empty;
-        string playerOneChoice = String.Empty;
-        string playerTwoChoice = String.Empty;
-
-        internal void GameLogic()
+        private bool _isWinner;
+        internal bool Iswinner
         {
-            do
+            set { this._isWinner = value; }
+            get { return this._isWinner; }
+        }
+
+        TicTacToe game = new TicTacToe();
+        // Methods
+        internal bool Winner(string p1, string p2, string p1Choice, string p2Choice)
+        {
+            string winner = string.Empty;
+
+            if (p1Choice == "X")
             {
-                game.InputDuplication = false;
-                // P1
-
-                Console.WriteLine("Player1's turn.");
-                Console.Write("Choose a square number: ");
-                playerOneSquare = Console.ReadLine();
-                Thread.Sleep(500);
-
-                if (playerOneSquare == "q")
+                if (game.One == "X" && game.Two == "X" && game.Three == "X")
                 {
-                    Console.WriteLine("Good bye!");
-                    break;
+                    winner = $"{p1} is the winner! Game over";
+                    Iswinner = true;
                 }
-                Console.Write("(X/O)?: ");
-                playerOneChoice = Console.ReadLine();
-
-                game.PlayersChoices(playerOneSquare, playerOneChoice);
-                game.Board();
-
-                if (game.InputDuplication == true) continue;
-
-                // P2
-                Console.WriteLine("Player2's turn.");
-                Thread.Sleep(500);
-
-                Console.Write("Choose a square number: ");
-                playerTwoSquare = Console.ReadLine();
-                if (playerTwoSquare == "q")
+            }
+            else if (p2Choice == "O")
+            {
+                if (game.One == "O" && game.Two == "O" && game.Three == "O")
                 {
-                    Console.WriteLine("Good bye!");
-                    break;
+                    winner = $"{p2} is the winner!";
+                    Iswinner = true;
                 }
+            }
+            else
+            {
+                Iswinner = false;
+            }
 
-                Console.Write("(X/O)?: ");
-                playerTwoChoice = Console.ReadLine();
-
-
-                game.PlayersChoices(playerTwoSquare, playerTwoChoice);
-                game.Board();
-                if (game.InputDuplication == true) continue;
-
-            } while (playerOneSquare != "q");
+            Console.WriteLine(winner);
+            return Iswinner;
         }
     }
 }
