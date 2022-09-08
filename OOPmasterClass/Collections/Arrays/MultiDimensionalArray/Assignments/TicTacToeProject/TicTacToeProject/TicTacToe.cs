@@ -3,6 +3,7 @@
     internal class TicTacToe
     {
         // Board - fields
+        private int _counter = 0;
         private string _one = "1";
         private string _two = "2";
         private string _three = "3";
@@ -14,12 +15,11 @@
         private string _nine = "9";
 
         bool _Inputduplication = false;
+
         private bool _isWinner;
-        internal bool Iswinner
-        {
-            set { this._isWinner = value; }
-            get { return this._isWinner; }
-        }
+        private bool _isDraw;
+
+        private string[,] _ticTacToeBoard = new string[3, 3];
 
         // properties
         internal string One
@@ -67,19 +67,21 @@
             set { this._nine = value; }
             get { return this._nine; }
         }
-
-
-        private string[,] ticTacToeBoard = new string[3, 3];
-
-        //{
-        //    { One, Two, Three },
-        //    { Four, Five, Six},
-        //    { Seven, Eight, Nine }
-        //};
-
-        internal string PlayerOneSquare { get; set; }
-        internal string PlayerTwoSquare { get; set; }
-
+        internal bool Iswinner
+        {
+            set { this._isWinner = value; }
+            get { return this._isWinner; }
+        }
+        internal bool IsDraw
+        {
+            set { this._isDraw = value; }
+            get { return this._isDraw; }
+        }
+        internal string[,] TicTacTocBoard
+        {
+            set { this._ticTacToeBoard = value; }
+            get { return this._ticTacToeBoard; }
+        }
         internal bool InputDuplication
         {
             set
@@ -91,28 +93,24 @@
                 return this._Inputduplication;
             }
         }
+        internal string PlayerOneSquare { get; set; }
+        internal string PlayerTwoSquare { get; set; }
+
 
         // Methods
         internal void Board()
         {
-            //string[,] ticTacToeBoard =
-            //{
-            //    { One, Two, Three },
-            //    { Four, Five, Six},
-            //    { Seven, Eight, Nine }
-            //};
+            TicTacTocBoard[0, 0] = One;
+            TicTacTocBoard[0, 1] = Two;
+            TicTacTocBoard[0, 2] = Three;
 
-            ticTacToeBoard[0, 0] = One;
-            ticTacToeBoard[0, 1] = Two;
-            ticTacToeBoard[0, 2] = Three;
+            TicTacTocBoard[1, 0] = Four;
+            TicTacTocBoard[1, 1] = Five;
+            TicTacTocBoard[1, 2] = Six;
 
-            ticTacToeBoard[1, 0] = Four;
-            ticTacToeBoard[1, 1] = Five;
-            ticTacToeBoard[1, 2] = Six;
-
-            ticTacToeBoard[2, 0] = Seven;
-            ticTacToeBoard[2, 1] = Eight;
-            ticTacToeBoard[2, 2] = Nine;
+            TicTacTocBoard[2, 0] = Seven;
+            TicTacTocBoard[2, 1] = Eight;
+            TicTacTocBoard[2, 2] = Nine;
 
             Console.Clear();
             Console.WriteLine($"     |     |   ");
@@ -127,12 +125,12 @@
             Console.WriteLine($"  {Seven}  |  {Eight}  |  {Nine}  ");
             Console.WriteLine($"     |     |   ");
 
-            Console.WriteLine("\n");
+            Console.WriteLine("");
         }
 
-        internal void PlayersChoices(string square, string choice)
+        internal void PlayersChoices(int square, string choice)
         {
-            if (square == "1")
+            if (square == 1)
             {
                 if (One != "X" && One != "O")
                 {
@@ -151,7 +149,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice} : {One}");
+                    Console.WriteLine($"Square 1 is now {One}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -163,7 +161,7 @@
             }
 
             // 2
-            else if (square == "2")
+            else if (square == 2)
             {
                 if (Two != "X" && Two != "O")
                 {
@@ -182,7 +180,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice} : {Two}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -194,7 +192,7 @@
             }
 
             // 3
-            else if (square == "3")
+            else if (square == 3)
             {
                 if (Three != "X" && Three != "O")
                 {
@@ -213,7 +211,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Three}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -225,7 +223,7 @@
             }
 
             // 4
-            else if (square == "4")
+            else if (square == 4)
             {
                 if (Four != "X" && Four != "O")
                 {
@@ -244,7 +242,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Four}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -256,7 +254,7 @@
             }
 
             // 5
-            else if (square == "5")
+            else if (square == 5)
             {
                 if (Five != "X" && Five != "O")
                 {
@@ -275,7 +273,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Five}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -286,7 +284,7 @@
                 }
             }
             // 6
-            else if (square == "6")
+            else if (square == 6)
             {
                 if (Six != "X" && Six != "O")
                 {
@@ -305,7 +303,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Six}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -317,7 +315,7 @@
             }
 
             // 7
-            else if (square == "7")
+            else if (square == 7)
             {
                 if (Seven != "X" && Seven != "O")
                 {
@@ -336,7 +334,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Seven}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -346,10 +344,8 @@
                     Thread.Sleep(5000);
                 }
             }
-
-
             // 8
-            else if (square == "8")
+            else if (square == 8)
             {
                 if (Eight != "X" && Eight != "O")
                 {
@@ -368,7 +364,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Eight}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -378,9 +374,8 @@
                     Thread.Sleep(5000);
                 }
             }
-
             // 9
-            else if (square == "9")
+            else if (square == 9)
             {
                 if (Nine != "X" && Nine != "O")
                 {
@@ -399,7 +394,7 @@
                             Console.WriteLine("X or O only.");
                             break;
                     }
-                    Console.WriteLine($"Square {square} is now {choice.ToUpper()} : {Nine}");
+                    Console.WriteLine($"Square {square} is now {choice}");
                     Thread.Sleep(2000);
                 }
                 else
@@ -415,29 +410,53 @@
                 Console.WriteLine("Invalid square entry!");
                 Thread.Sleep(3000);
                 InputDuplication = true;
-
             }
 
             Console.Clear();
         }
-        internal bool Winner(string p1, string p2, string p1Choice, string p2Choice)
+        internal bool Winner(string player, string playerChoice)
         {
-            string winner = string.Empty;
-
-            if (p1Choice == "X")
+            if (playerChoice == "X" || playerChoice == "O")
             {
-                if (One == "X" && Two == "X" && Three == "X")
+
+                // 1st row
+                if (One == Two && Two == Three && Three == One)
                 {
-                    winner = $"{p1} is the winner! Good Game!";
                     Iswinner = true;
                 }
-
-            }
-            else if (p2Choice == "O")
-            {
-                if (One == "O" && Two == "O" && Three == "O")
+                // 2nd row
+                else if (Four == Five && Five == Six && Six == Four)
                 {
-                    winner = $"{p2} is the winner!";
+                    Iswinner = true;
+                }
+                // 3rd
+                else if (Seven == Eight && Eight == Nine && Nine == Seven)
+                {
+                    Iswinner = true;
+                }
+                // L col
+                else if (One == Four && Four == Seven && Seven == One)
+                {
+                    Iswinner = true;
+                }
+                // M col
+                else if (Two == Five && Five == Eight && Eight == Two)
+                {
+                    Iswinner = true;
+                }
+                // R col
+                else if (Three == Six && Six == Nine && Nine == Three)
+                {
+                    Iswinner = true;
+                }
+                // L diagonal                
+                else if (One == Five && Five == Nine && Nine == One)
+                {
+                    Iswinner = true;
+                }
+                // R diagonal                
+                else if (Three == Five && Five == Seven && Seven == Three)
+                {
                     Iswinner = true;
                 }
             }
@@ -445,9 +464,19 @@
             {
                 Iswinner = false;
             }
-
-            Console.WriteLine(winner);
+            Console.WriteLine($"\nIsWinner condition is {Iswinner}");
             return Iswinner;
+        }
+        internal bool Draw()
+        {
+            _counter++;
+            Console.WriteLine(_counter);
+
+            if (_counter == 9)
+            {
+                IsDraw = true;
+            }
+            return IsDraw;
         }
     }
 }
