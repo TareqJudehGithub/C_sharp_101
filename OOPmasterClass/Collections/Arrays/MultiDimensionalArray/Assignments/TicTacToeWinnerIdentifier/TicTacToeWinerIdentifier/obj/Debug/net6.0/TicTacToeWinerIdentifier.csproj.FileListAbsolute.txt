@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\bin\Debug\net6.0\TicTacToeWinerIdentifier.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\bin\Debug\net6.0\TicTacToeWinerIdentifier.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\bin\Debug\net6.0\TicTacToeWinerIdentifier.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\bin\Debug\net6.0\TicTacToeWinerIdentifier.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\bin\Debug\net6.0\TicTacToeWinerIdentifier.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\refint\TicTacToeWinerIdentifier.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\TicTacToeWinerIdentifier.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\Collections\Arrays\MultiDimensionalArray\Assignments\TicTacToeWinnerIdentifier\TicTacToeWinerIdentifier\obj\Debug\net6.0\ref\TicTacToeWinerIdentifier.dll
