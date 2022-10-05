@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\bin\Debug\net6.0\StringMinapulation.exe
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\bin\Debug\net6.0\StringMinapulation.deps.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\bin\Debug\net6.0\StringMinapulation.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\bin\Debug\net6.0\StringMinapulation.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\bin\Debug\net6.0\StringMinapulation.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\refint\StringMinapulation.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\StringMinapulation.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\StringMinapulation\obj\Debug\net6.0\ref\StringMinapulation.dll
