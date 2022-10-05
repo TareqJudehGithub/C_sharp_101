@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\bin\Debug\net6.0\OpenControlStructure.exe
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\bin\Debug\net6.0\OpenControlStructure.deps.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\bin\Debug\net6.0\OpenControlStructure.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\bin\Debug\net6.0\OpenControlStructure.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\bin\Debug\net6.0\OpenControlStructure.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\refint\OpenControlStructure.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\OpenControlStructure.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OpenControlStructure\obj\Debug\net6.0\ref\OpenControlStructure.dll
