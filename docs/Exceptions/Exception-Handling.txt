@@ -1,5 +1,9 @@
 Exception Handling
  - Exceptions is a neat way to handle errors that occur.
+ - An exception is an error that occur in our program that returns an
+   exception error message interrupting our program.
+ 
+ - Error handling is done by a try/catch block
 
   try
    - The try block of code test the code for errors.

@@ -1,4 +1,8 @@
 DateTime method
+  - DateTime is a datatype in C#, but not a primitive datatype.
+  - DateTime in C# is considered a class, like the case of Strings.
 
-- For today's date:       DateTime.Now
-- For short date version  DateTime.Now.ToShortDateString()
+
+
+  - For today's date:       DateTime.Now
+  - For short date version  DateTime.Now.ToShortDateString()

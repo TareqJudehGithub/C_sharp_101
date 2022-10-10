@@ -2,6 +2,7 @@ Variables
  - A place (named memory location) in memory to store values in.
  - Variables can store any type of value.
  - One variable can store one value.
+ - Data types describes variables.
  - when compiling using CLR, a local variables are stored in a memory 
    location called the stack.
  - When compiling is done, all variables stored in the stacked are deleted.

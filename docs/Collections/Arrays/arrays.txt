@@ -5,11 +5,23 @@ Arrays
  - The first index in an array is always 0.
 
  - Arrays syntax
-  int[] grades = new int[5]
+    int[] grades = new int[5];
+
     - The above syntax creates an new empty array of 5 size elements.
-  grade1 = grades[0] = 95;
-  grade2 = grades[1] = 86
-  grade2 = grades[2] = 79
-  grade2 = grades[3] = 91
-  grade2 = grades[4] = 93
+    grade1 = grades[0] = 95;
+    grade2 = grades[1] = 86
+    grade2 = grades[2] = 79
+    grade2 = grades[3] = 91
+    grade2 = grades[4] = 93
+
+  also valid:
+    int[] grades = new int[5] = {1, 2 ,3 ,4, 5};
+    int[] grades = {1, 2 ,3 ,4, 5};
+
+
+Array.Length
+ - returns the length (numbers) of elements inside an array
+  grades.Length;
+  >>> 5
+    
 

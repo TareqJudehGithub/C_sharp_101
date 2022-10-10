@@ -1,6 +1,11 @@
 Multi-Dimensional Array
 
     // 2d array - initialization
+
+    Declaring an array with 3 rows and 5 columns:
+        int[,] matrix = new int[3, 5];
+
+
     int[,] array2D = new int[,]
     {
         {10, 40, 57},

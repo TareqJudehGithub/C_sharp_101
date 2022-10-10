@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\refint\HandlingExceptions.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\MoreAdvConstructs\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll
