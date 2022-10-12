@@ -5,7 +5,7 @@ Arrays
  - The first index in an array is always 0.
 
  - Arrays syntax
-    int[] grades = new int[5];
+    int[] grades = new int[5];  // 5 spaces in memory will be saved in memory.
 
     - The above syntax creates an new empty array of 5 size elements.
     grade1 = grades[0] = 95;

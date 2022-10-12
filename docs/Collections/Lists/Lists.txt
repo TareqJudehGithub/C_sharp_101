@@ -1,0 +1,9 @@
+Lists
+
+ - Lists are another object/collection data type in C#.
+ - A list stores data of the same type.
+ - Unlike Arrays, list can have a dynamic number of data stored.
+ - We can add and remove data in Lists using add() and remove() properties.
+ - We can iterate over Lists elements using loops (for and foreach).
+ - listName.Count returns a integer with the List length.
+ 

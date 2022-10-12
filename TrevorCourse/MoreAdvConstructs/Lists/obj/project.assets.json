@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Arrays\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Lists\\Lists.csproj",
+      "projectName": "Lists",
+      "projectPath": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Lists\\Lists.csproj",
       "packagesPath": "C:\\Users\\USER10\\.nuget\\packages\\",
-      "outputPath": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Arrays\\obj\\",
+      "outputPath": "E:\\web\\ASP_NET\\CSharp101\\TrevorCourse\\MoreAdvConstructs\\Lists\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
