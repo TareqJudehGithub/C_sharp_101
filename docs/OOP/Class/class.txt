@@ -1,8 +1,8 @@
 
  Class
-  - A class is blue print of an object.
+  - A class is blueprint of an object.
   - A class defines a type of object.
-  - Classes applies the Single Responsibility principle: where each unit has 
+  - Classes applies the `Single Responsibility` principle: where each unit has 
     only one responsibility.
 
   - A class has properties. Like member variables. e.g. string properties.

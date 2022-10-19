@@ -7,3 +7,4 @@ Equals()
  - Equals() is method of the String class, that compares a string with an 
    argument provided inside the Equals method
       stringName.Equals("some value");
+

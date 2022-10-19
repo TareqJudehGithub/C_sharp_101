@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\bin\Debug\net6.0\OOPintro.exe
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\bin\Debug\net6.0\OOPintro.deps.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\bin\Debug\net6.0\OOPintro.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\bin\Debug\net6.0\OOPintro.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\bin\Debug\net6.0\OOPintro.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\refint\OOPintro.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\OOPintro.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\OOP\OOPintro\obj\Debug\net6.0\ref\OOPintro.dll

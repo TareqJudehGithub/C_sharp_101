@@ -39,8 +39,8 @@ Currency formatting
  - Control how many digit to display after decimal by adding a number after the 'C'.
 			decimal foodBill = 25.7517m;
 			Console.WriteLine($"Food bill: {foodBill:C2}\n");
-- We could also use String.Format()
-			Sting.Format("{0:C2}", foodBill);
+	- We could also use String.Format()
+				Sting.Format("{0:C2}", foodBill);
 
 
 
