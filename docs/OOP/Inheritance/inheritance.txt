@@ -4,18 +4,21 @@ Inheritance
   - Creating an easy-type relationship between two or more classes.
   - I.e. Animal can be a parent class of Tiger (child class to Animal).
   - Parent class can have multiple child classes (Tiger, Lion, Panther).
-
+  - *** Both parent and child class should have the same access modifier, if
+    not then inheritance won't work.
   - All parent members of parent class are implicitly given to the child 
     class. So we can access all parent class fields, properties, and methods
     from a child class.
   - We cannot access any child class members from the parent class.
-
+  - The class whose members are inherited is called the base class. The class 
+    that inherits the members of the base class is called the derived class.
+    
     - Inheritance syntax
-        class ParentName
+        class ParentName  (This is the base class)
         {
           parent class members here
         }
-        class ParentName : ChildName
+        class ChildClass (This is the derived class) : ParentClass
         {
           child class members here
         }  

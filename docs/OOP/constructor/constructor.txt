@@ -19,13 +19,15 @@ Constructor
   - The constructor access modifiers are same as the fields.
     - private, protected, private protected, Internal, Internal protected, and public.
   - It is recommended to create the constructor with internal or public access modifiers.
-  - The constructor has only modifier:  static  or (default no keyword).
-
+  - The constructor has only one modifier:  static  or (default no keyword).
+  
+  - A constructor name should be identical with the class name.
   - A constructor does not return any value.
   - A constructor can receive one or more parameter optionally.
-  - Inside the constructor we can initialize the declared in the class.
+  - Inside the constructor we can initialize the declared fields/properties in 
+    the class.
   
-  - If the developer does not create an constructor, the complier automatically
+  - If the developer does not create a constructor, the complier automatically
     creates a default constructor with no parameters.
   - We can create multiple constructors in the same class.
   - All constructors in the same class, must have different types parameters 

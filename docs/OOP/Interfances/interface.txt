@@ -1,0 +1,6 @@
+Interface
+ - An interface is another way of defining classes.
+ - As an interface naming convention, an interface always start with a capital I.
+    interface IMyClass {
+
+    }
