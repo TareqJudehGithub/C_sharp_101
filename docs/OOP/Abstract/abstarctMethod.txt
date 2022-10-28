@@ -1,0 +1,34 @@
+Abstract methods
+ - An abstract method, is declared in the parent abstract class.
+ - In a normal class, we cannot implement an abstract method.
+ - An abstract method has no method body (block of code).
+ 
+    public abstract class MyClass {
+      public abstract string MyMethod(string param1, ..);
+    }
+ 
+ - The child class of an abstract parent class, must implement
+   the body of an abstract method.
+ - we must use 'override' keyword to implement the method of the
+   child class.
+ - 'override' means that we are following the method signature of
+   the parent abstract class.
+ - The method name, parameters, and return type must all be the 
+   same in both the parent and the child abstract class.
+
+   public class ChildClass : ParentClass {
+    public override string MyMethod(string param1, ..)
+    {
+      // method body
+    }
+   }
+
+   Summary:
+    1- Create an abstract method (without a body) in the parent
+       abstract class.
+    2- Create an abstract method in the child class with 'override'
+       keyword. This method will be containing the method body.
+    3- remember, methods in the parent and in the child class share 
+       the same name, parameters, and return type.  
+    4- Instantiate and call the method from the child class.
+    

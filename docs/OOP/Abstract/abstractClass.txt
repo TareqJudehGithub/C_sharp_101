@@ -1,0 +1,11 @@
+abstract modifier
+ - abstract is a modifier of the class.
+ - Abstract class is a parent class, of which we cannot instantiate/create
+   objects off.
+ - abstract prevents a class from being instantiated.
+    internal abstract class MyClass {
+      // code here
+    }
+ - It is recommended to abstract parents classes, and instantiate from child ones.
+ - We cannot create objects off an abstract class directly.
+ - We can add abstract methods in the abstract class.
