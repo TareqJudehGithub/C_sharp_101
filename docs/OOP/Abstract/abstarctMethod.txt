@@ -2,6 +2,8 @@ Abstract methods
  - An abstract method, is declared in the parent abstract class.
  - In a normal class, we cannot implement an abstract method.
  - An abstract method has no method body (block of code).
+ - The abstract method body is provided by the derived class (inherited 
+   from).
  
     public abstract class MyClass {
       public abstract string MyMethod(string param1, ..);

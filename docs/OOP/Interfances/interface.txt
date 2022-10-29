@@ -1,6 +1,62 @@
 Interface
+ - An interface is a set of abstract methods that must be implemented by the child
+   classes.
  - An interface is another way of defining classes.
- - As an interface naming convention, an interface always start with a capital I.
-    interface IMyClass {
+ - The idea behind interfaces, is to define fields, methods, and constructors in 
+   the child classes.
+ - An interface we can only define abstract methods (normal methods not allowed).
+ - Interfaces are similar to abstract classes, but interfaces contain only abstract 
+   methods and property declarations.
+ - We can’t create other members such as Fields, normal methods, constructors, properties
+   etc., in interface.
+ - It is recommended to start the name of the interface with “I”.
+ - The default access modifier of all interfaces is public.
+ - Just like abstract classes, we cannot create objects off interfaces.
 
+ - An interface cannot contain fields or constructors.
+ - An interface can only contain abstract methods.
+ - Interface methods are public and abstract by default.
+ - For properties members, only their names are defined in the interface, while
+   the properties body (accessor) are define in the child class.
+ - fields, properties, and constructors are implemented in child classes, which
+   gives these child classes the freedom to define it's own logic and statements
+   for each child class.
+   // interface
+   string EmployeeName { set; get; }
+   // child class
+   string EmployeeName {
+      set { this._employeeName = value;}
+      get { return this._employeeName; 
+      }
+   }
+ 
+ - As an interface naming convention, an interface always start with a capital I, and
+   also the interface .cs file name should start with an I.
+ - We cannot change the access modifier of an interface method.
+   // Creating abstract method in the parent interface.
+    interface IMyInterface {
+      // method name (no body and no access modifier)  // abstract word is not needed.
+      void MethodName(param1, param2, ..);
     }
+ 
+ - child classes can inherit from an interface parent.
+ - ALL child classes MUST implement all abstract methods define in an interface.
+ - Methods implemented in child classes, should have the same name, return type, 
+   parameters, And the access modifier must be public.
+ 
+   // Creating a child class that will implement the interface.
+   class childName: IMyInterface
+   {
+      public void MethodName(param1, param2, ..)
+      {
+         // method body 
+      }
+   } 
+ - No need to write the 'override' key word in child class abstract methods in 
+   interfaces.
+ - A child class can inherit multiple interfaces.
+ - An interface can be a child of another interface (interface inheritance).    
+ - An interface cannot be a child of parent class (only parent interface).
+
+ - When it is best to use interfaces
+  - 
