@@ -4,6 +4,8 @@ Abstraction
    from outside its class.
  - Abstraction is the concept of providing only limited data or actions to 
    instead of providing everything there to outside the class.
+ - Abstraction keeps fields secured and safe from outside access.  
+ - Abstraction reduces complexity and code repetition, and increases efficiency.
  - The code outside the class can access only its public data but 
    not the private data/actions.
  - Private fields/methods can be called as part of the public methods indirectly.
@@ -11,6 +13,4 @@ Abstraction
    can call other private fields and methods. 
  - Always create fields as private, and access them through public methods
    using 'get' and 'set' methods.
- - Abstraction keeps fields secured and safe from outside access.  
- - Abstraction reduces complexity and increases efficiency.
  

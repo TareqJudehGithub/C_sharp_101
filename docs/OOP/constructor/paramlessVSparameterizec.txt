@@ -1,6 +1,6 @@
 Parameter-less Constructor VS Parameterized Constructor
  
- Parameter-less Constructor
+ Parameter-less /default Constructor
   - A constructor without parameters.
     public ClassName()
     {
@@ -13,3 +13,6 @@ Parameter-less Constructor VS Parameterized Constructor
     {
       
     }
+
+- It is possible to have more than one constructor for a class.
+- The default constructor is always executed first.
