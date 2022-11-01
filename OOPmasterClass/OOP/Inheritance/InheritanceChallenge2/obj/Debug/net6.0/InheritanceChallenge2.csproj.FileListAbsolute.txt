@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.exe
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.deps.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\bin\Debug\net6.0\InheritanceChallenge2.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\refint\InheritanceChallenge2.dll
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.pdb
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\InheritanceChallenge2.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPmasterClass\OOP\Inheritance\InheritanceChallenge2\obj\Debug\net6.0\ref\InheritanceChallenge2.dll
