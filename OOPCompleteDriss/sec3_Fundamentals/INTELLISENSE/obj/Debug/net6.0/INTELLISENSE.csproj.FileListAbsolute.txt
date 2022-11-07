@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\bin\Debug\net6.0\INTELLISENSE.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\bin\Debug\net6.0\INTELLISENSE.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\bin\Debug\net6.0\INTELLISENSE.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\bin\Debug\net6.0\INTELLISENSE.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\bin\Debug\net6.0\INTELLISENSE.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\refint\INTELLISENSE.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\INTELLISENSE.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\INTELLISENSE\obj\Debug\net6.0\ref\INTELLISENSE.dll
