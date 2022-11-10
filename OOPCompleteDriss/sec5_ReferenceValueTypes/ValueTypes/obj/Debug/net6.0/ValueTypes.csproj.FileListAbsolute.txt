@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\bin\Debug\net6.0\ValueTypes.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\refint\ValueTypes.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ValueTypes.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec5_ReferenceValueTypes\ValueTypes\obj\Debug\net6.0\ref\ValueTypes.dll
