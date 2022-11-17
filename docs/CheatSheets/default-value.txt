@@ -1,0 +1,17 @@
+The default operator and literal
+ - default() produces the default value of data type
+ - The default value for value types is zero.
+    int age = 47;
+    Console.WriteLine($"The default value for {nameof(age)} is {default(int)}");
+
+ - The default value for reference types is null.
+
+    string greet = "Hello World";
+    Console.WriteLine($"The default value of {nameof(greet)} is {default(greet)}");
+ 
+
+
+ default literal
+ - Can be used as a default value (zero or null) when declaring variables.
+    int number = default;
+    string name = default;

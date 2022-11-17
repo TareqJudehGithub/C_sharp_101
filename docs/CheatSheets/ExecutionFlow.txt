@@ -1,0 +1,4 @@
+Execution Flow
+ - Execution flow is the order in which statements are executed.
+ - The default execution flow in C# is from top to bottom.
+ 

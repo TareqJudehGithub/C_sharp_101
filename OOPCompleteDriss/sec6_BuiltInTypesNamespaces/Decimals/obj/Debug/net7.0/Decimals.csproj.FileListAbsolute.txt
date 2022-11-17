@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\bin\Debug\net7.0\Decimals.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\bin\Debug\net7.0\Decimals.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\bin\Debug\net7.0\Decimals.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\bin\Debug\net7.0\Decimals.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\bin\Debug\net7.0\Decimals.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\refint\Decimals.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\Decimals.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Decimals\obj\Debug\net7.0\ref\Decimals.dll

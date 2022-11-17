@@ -17,7 +17,7 @@
         public Post()
         // parameterless/default constructor
         {
-            ID = 0;
+            ID = GetNextId();
             Title = "My First Post";
             IsPublic = true;
             SendByUsername = "John Smith";
@@ -35,7 +35,6 @@
         protected int GetNextId()
         // This method increments ID by 1 each time users submit a new post.
         {
-            Console.WriteLine($"ID: {currentPostID}");
             return currentPostID++;
         }
 

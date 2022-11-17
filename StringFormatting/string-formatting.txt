@@ -42,16 +42,17 @@ Currency formatting
 	- We could also use String.Format()
 				Sting.Format("{0:C2}", foodBill);
 
-
-
-
 Formatting percentages
  - Use the P format specifier to format percentages. 
  - Add a number afterwards to control the number of values displayed after the decimal point.
 		decimal tax = 0.16m;
-
 		Console.WriteLine($"percentage formatted: {tax:P0}");  // 0
  - We could also use String.Format()
 			Sting.Format("{0:P}", tax);
+
+Digit formatting
+ - Use :G format to specify the number of decimal digits
+  double d = 15.55;
+	Console.WriteLine($"{15.55:G2}");
 
 

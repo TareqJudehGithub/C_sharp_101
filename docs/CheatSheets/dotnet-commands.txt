@@ -1,12 +1,19 @@
 dotnet commands
   $ dotnet --version						Checks the current .Net version installed
-  $ dotnet new console						Creates a new .NET Core console app in the current directory.
+  $ dotnet --info               returns info about .NET SDK.
+  $ dotnet --list-sdks
+  $ dotnet new console						Creates a new .NET Core console app in the current 
+                                  directory with the same name of that dir.
   $ dotnet new console -o project_name		Creates a new .NET Core console app in a new directory.
-  $ dotnet new console --framework net5.0	Create a new project that targets .NET 5.
-
+  $ dotnet new console -n project_name    -n  for name
+  $ dotnet new console --framework net5.0	 Create a new project that targets .NET 5.
+  
+  $ dotnet new -n project_name --use-program-main     Whether to generate an explicit Program class and Main method instead of top-level statements.
+  
   $ dotnet new classlib         Creates a new class library file.
   $ dotnet run								runs project file .cs 
   $ dotnet build							build the project file.
+  $ dotnet test               tests a project.
 
   $ dotnet add reference ../path/fielname.csproj
   1. press CTRL+SHIFT+P to open the command pallette, then type .NET

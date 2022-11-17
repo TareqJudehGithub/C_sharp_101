@@ -1,5 +1,9 @@
 Integers
- - an integer is a positive or a negative whole number.
+ - An integer is a positive or a negative whole number.
+ - An integer is a value type.
+ - Integers values (integer literals) are stored in binary (0s and 1s).
+ - int is 32bits.
+ - Integer value is converted to a binary value before its being stored.
  - Integer data ranges between negative 2 billions and 2 billions.
     int intMin = int.MinValue;
     int intMax = int.MaxValue;

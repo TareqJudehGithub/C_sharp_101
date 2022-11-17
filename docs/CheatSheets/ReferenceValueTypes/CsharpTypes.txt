@@ -1,0 +1,39 @@
+C# Types
+ - Every C# variable has a type
+ - The type of a variable is checked at the compilation stage.
+
+  Value Types
+  - Directly contains their values.
+  - Stored in memory in the stack.
+  - Cannot be null.
+
+  Reference Types
+   - Contains a reference to the memory address stored in the Stack, where 
+     the instance (object) is stored in the Heap.
+   - Can be null.  
+
+    - Built-In reference types
+    - Classes
+    - Records
+    - Interfaces
+    - Arrays
+    - Delegates
+    - Strings
+
+    Built-in Types
+    - Boolean (bool)
+    - All integer types
+    - All floating-point types (float, double, decimal)
+    - Character (char)
+    - Strings (string)
+    - Object. The base type of all C# types.
+
+
+    Custom Types
+    C# Allows us to creates variables of our own custom type.
+    - Enumerations  - custom value types.
+    - Structures    - custom reference type 
+    - Interfaces    - custom reference type 
+    - Classes       - custom reference type  
+    - Records       - custom reference type 
+    - Delegates     - custom reference type 

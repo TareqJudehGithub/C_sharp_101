@@ -1,0 +1,5 @@
+Keywords
+ - Special and reserved words.
+ - Have a Special meaning to the compiler.
+ - class, public, and private are all examples of reserved Keywords.
+ - Keywords cannot be used to define variables.

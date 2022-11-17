@@ -1,6 +1,7 @@
 Properties
  - Properties were introduced in c# 3.0
  - A composite member of the class.
+ - Properties access the class fields, in and out of that class.
  - Properties check the incoming value whether it is valid or invalid, and assign
    the value into the corresponding field only if the value is valid.
 

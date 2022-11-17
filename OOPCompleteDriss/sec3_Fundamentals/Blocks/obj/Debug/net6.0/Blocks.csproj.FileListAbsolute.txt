@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\bin\Debug\net6.0\Blocks.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\bin\Debug\net6.0\Blocks.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\bin\Debug\net6.0\Blocks.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\bin\Debug\net6.0\Blocks.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\bin\Debug\net6.0\Blocks.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\refint\Blocks.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\Blocks.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\Blocks\obj\Debug\net6.0\ref\Blocks.dll

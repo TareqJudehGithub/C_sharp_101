@@ -1,0 +1,3 @@
+CompareTo()
+ - CompareTo() methods compares two literals of the same or even different type.
+ - CompareTo() returns an integer of -1 (false) or 0 (true).

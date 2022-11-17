@@ -1,0 +1,7 @@
+Stack
+
+ - A fast access, size, and limited memory.
+ - The stack uses last-in first-out mechanism.
+ - Stack overflow means that the stack is totally used.
+ - Responsible for keeping track of context of execution (params, method calls, 
+   variables.etc).

@@ -1,0 +1,6 @@
+namespace
+ - A container that allow you to organize types.
+ - We import a namespace with 'using' directive in order to use a type.
+ - .Net and custom types (like classes) are organized in namespaces.
+
+ 

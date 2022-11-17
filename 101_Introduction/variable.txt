@@ -3,6 +3,8 @@ C# Variables
   - Variables are temporary storage containers for data.
   - Variables are temporary values you store in the computer's memory address.
   -  In C#, the variable is statically typed.
+  - A variable when created can have one or more members like 
+   fields, properties, or methods. 
 
   - In C#, there are different types of variables (defined with different keywords), 
     for example:

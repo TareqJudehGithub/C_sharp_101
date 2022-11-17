@@ -1,0 +1,6 @@
+nameof()
+ - nameof method returns the name of a variable.
+  $ string greet = "hello world";
+  $ Console.WriteLine(nameof(greet));
+
+  >>> greet

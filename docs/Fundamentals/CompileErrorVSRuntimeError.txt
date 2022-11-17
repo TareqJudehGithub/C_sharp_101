@@ -1,0 +1,6 @@
+Compile Error VS Runtime Error
+
+ - Compile Error occurs when we try to build/compile our project.
+    - $ dotnet build errors.
+ - Runtime error occurs when we try to run our project.
+    - $ dotnet run errors.

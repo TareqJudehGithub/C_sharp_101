@@ -1,8 +1,9 @@
 String 
- - Strings is a set of multiple characters.
+ - Strings is a class that contains a set of multiple characters.
  - Each character occupies 2 bytes in memory.
-
-
+ - Strings are immutable.
+ - Strings are reference type.
+ - String.Empty assigns a variable with an empty value;
 
 Console.WriteLine()
   - Writes a new line to the Console.

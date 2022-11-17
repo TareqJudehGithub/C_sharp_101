@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\bin\Debug\net6.0\Booleans.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\bin\Debug\net6.0\Booleans.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\bin\Debug\net6.0\Booleans.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\bin\Debug\net6.0\Booleans.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\bin\Debug\net6.0\Booleans.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\refint\Booleans.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\Booleans.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec6_BuiltInTypesNamespaces\Booleans\obj\Debug\net6.0\ref\Booleans.dll

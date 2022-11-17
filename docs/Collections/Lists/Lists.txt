@@ -6,4 +6,6 @@ Lists
  - We can add and remove data in Lists using add() and remove() properties.
  - We can iterate over Lists elements using loops (for and foreach).
  - listName.Count returns a integer with the List length.
+ - Before Dotnet 6.0, List needs namespace System.Collections.Generic; in
+   order to be declared.
  

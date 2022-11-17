@@ -1,0 +1,5 @@
+We can use aliases for Namespaces in C#
+
+using sys = System;
+ 
+ sys.Console.WriteLine("Hello world");

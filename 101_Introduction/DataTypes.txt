@@ -67,3 +67,10 @@ C# Data Types
     Example
     string greeting = "Hello World";
     Console.WriteLine(greeting);
+
+- var (Implicit Data Types Variables)
+  - makes declaring variables easier
+  - we use the 'var' keyword to implicitly declare a variable
+  - Type Inference: 'var' keyword determines the variables assigned value.
+  - implicit type variables must be initialized.
+  - Implicit type variables cannot be initialed with a null.

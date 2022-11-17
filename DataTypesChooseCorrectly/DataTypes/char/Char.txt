@@ -1,3 +1,10 @@
 characters in C sharp
- - Each character occupies 2 bytes in memory.
- -
+ - Char is a Unicode UTF-16 character.
+ - UTF-16 uses 2 bytes to uncode more than 1 millions characters.
+ - Each character occupies 2 bytes (16 bits) in memory.
+ - Char type is value type.
+ - A Char type represents a single unicode character, Char cannot be 
+   concatenated to string, we first need to convert the char to a string
+   using ToString() method.
+
+   

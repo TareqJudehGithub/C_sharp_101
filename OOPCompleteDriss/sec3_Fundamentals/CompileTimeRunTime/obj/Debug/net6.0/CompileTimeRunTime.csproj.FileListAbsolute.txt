@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\bin\Debug\net6.0\CompileTimeRunTime.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\bin\Debug\net6.0\CompileTimeRunTime.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\bin\Debug\net6.0\CompileTimeRunTime.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\bin\Debug\net6.0\CompileTimeRunTime.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\bin\Debug\net6.0\CompileTimeRunTime.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\refint\CompileTimeRunTime.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\CompileTimeRunTime.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec3_Fundamentals\CompileTimeRunTime\obj\Debug\net6.0\ref\CompileTimeRunTime.dll
