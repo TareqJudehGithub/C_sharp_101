@@ -1,14 +1,17 @@
-Properties
+Properties 
  - Properties were introduced in c# 3.0
- - A composite member of the class.
+ - A composite/public member of the class.
  - Properties access the class fields, in and out of that class.
+ - Properties gives access to private and protected variables of a class.
  - Properties check the incoming value whether it is valid or invalid, and assign
    the value into the corresponding field only if the value is valid.
 
- - Properties expose fields safely, preventing direct access to their corresponding
-   fields; because the fields only store values and cannot validate on it's own.
+ - Properties expose fields safely (only members that r supposed to be exposed), 
+   preventing direct access to their corresponding fields; because the fields only 
+   store values and cannot validate on it's own.
+ - Properties can also perform computation on a field before exposing it.  
  - Properties naming convention starts with an uppercase (pascal naming).
-
+ - a property can be read, write, readOnly, or writeOnly.
  - Properties contain two accessors: set and get.
  - Properties syntax:
             private into height;
@@ -22,6 +25,9 @@ Properties
                 {
                     this.height = value;
                 }
+ - auto-implemented property syntax:
+          AccessModifier DataType PropertyName {get; set;}
+  - auto-implemented properties are only usable in case if there's no additional logic.
  - set accessor 
     - The set accessor sets the value of the field.
     - Validates the incoming value and initializing it to its corresponding
@@ -29,10 +35,12 @@ Properties
     - We can check any custom logic to the set accessor, to check whether the value
       is valid or invalid.  
     - Can't have any additional parameter nor it returns any values.
+    - If we add a private modifier to the set accessor, then we can only access it inside
+      the class.
 
  - the 'value' keyword in set:
   - A predefined and default implicit parameter which represents the value of the 
-  assigned to the property.
+  assigned value to the property.
   
 
 - get accessor
@@ -48,4 +56,5 @@ Properties
 - The memory will be allocated only for the fields inside the object.
 - If we assigned values directly to fields inside a constructor, that will skip the 
   properties and therefor the fields can be accessed directly.
+- Do not assign a property to field that is not going to be accessed outside it's class.
 

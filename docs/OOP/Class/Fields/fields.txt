@@ -1,12 +1,15 @@
 Fields
  
   Understanding Fields
-   - A field is a global variable declared in the class, but stored inside the object.
+   - A field is a global variable declared in the class/structure, but stored inside the 
+     object.
    - Fields stores data in their respective class.
    - Fields and properties are like the class nouns, while methods are like verbs.
-   - Fields are recommended to have a private access modifier.
+   - Fields are recommended to have a private access modifier (Encapsulation).
    - Fields are global variables of a class.
    - It is recommended to start a field name with _ (underscore).
+   - A backing field: is a private fields that holds the data that is exposed by 
+     a property.
 
    - Field Syntax:
         public class Employee 

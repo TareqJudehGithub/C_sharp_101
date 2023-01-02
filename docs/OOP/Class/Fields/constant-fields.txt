@@ -1,17 +1,20 @@
 Constant fields (const keyword)
  - like static fields, constant fields are common to all objects in the class.
  - Constant fields MUST be initialized upon declaration.
- - Constant fields are fixed values and cannot be modified after initialization.
+ - Constant fields are fixed (immutable) values and cannot be modified after initialization.
  - like static fields, constant fields are accessed using it's class name, and
    not the object.
-    ClassName.variableName;
+ - A constant is declared with const keyword.  
+      private const fieldDataType fieldName = value;
+      private const float PI = 3.14;
+      
  - Constant fields are common to all objects, because it's memory is not stored 
    inside any object.
  - Constant variables are not stored anywhere; because the constants are replaced
    with actual values always.
  - During compilation, constants names are replaced with their initial values.
  - constants cannot be reference variables.
-
+ - Events and properties cannot be defined as constants.
   const syntax
-   AccessModifer const type fieldName = value;
+   accessModifier const type fieldName = value;
 

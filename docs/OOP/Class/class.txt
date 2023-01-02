@@ -1,6 +1,7 @@
 
  Class
   - A class is blueprint of an object.
+  - With a class, we can create our own custom type.
   - A class defines a type of object.
   - Classes applies the `Single Responsibility` principle: where each unit has 
     only one responsibility.
@@ -8,6 +9,8 @@
   - A class has properties. Like member variables. e.g. string properties.
   - A class has actions or abilities. like functions and methods.
   - Fields and properties are like the class nouns, while methods are like verbs.
+  - Fields, constants, and properties (aka class members) represent the state of a class.
+  - Methods represents the behavior or a class.
   
   - Inheritance is possible in classes.
 

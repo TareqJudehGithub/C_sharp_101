@@ -2,7 +2,8 @@ Objects
  - An object represents a physical or a non-physical entity.
  - An object is small unit in the program that represents a real-world
    thing or person.
- - An object has it's own properties. I.e. a chair has legs, cushion, and backrest, etc.
+ - An object has it's own state: properties. I.e. a chair has legs, cushion, and 
+   backrest, etc.
  
  - An object refers to an instance of a class.
  - We can create (instantiate) objects out of a class.
@@ -27,3 +28,32 @@ Objects
 	Properties like: HP, Wheels, Doors..etc.
 	Abilities like: drive, break, open window, light on/off.
 	inheritance: A5 < Audi < Car.
+
+
+  Object/instance instantiating
+
+  // Explicit 
+  ClassName objectName = new ClassName();
+
+  // Implicit
+  var objectName = new ClassName();
+
+  // Target-Types new Expression - C# V9
+  ClassName objectName = new ();
+
+  Object initializer
+   - Initializes (assigns values) to public fields and properties during instantiation.
+
+      Movie refVarName = new ObjectName()
+      {
+        Id = 1,
+        Title = "Title 1"
+      }
+
+       Movie refVarName = new()
+      {
+        Id = 1,
+        Title = "Title 1"
+      }
+
+
