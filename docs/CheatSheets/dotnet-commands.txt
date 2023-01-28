@@ -14,10 +14,20 @@ dotnet commands
   $ dotnet run								runs project file .cs 
   $ dotnet build							build the project file.
   $ dotnet test               tests a project.
+  $ dotnet publish -o ./publish  publish a project.
 
   $ dotnet add reference ../path/fielname.csproj
   1. press CTRL+SHIFT+P to open the command pallette, then type .NET
   2. Now, choose .NET generate assets for build and debug in order to build the .vscode
   folder.
+
+  $ dotnet add reference //path  Add an existing project as a reference to out project.
+
+  $ dotnet watch  to run project with debug mode, and for dynamic html page updates.
+
+  How to clean a project and rebuild
+  $ rm -r /bin
+  $ dotnet clean
+  # dotnet build
 
   

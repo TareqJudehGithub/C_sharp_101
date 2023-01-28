@@ -1,6 +1,7 @@
 Constructor
  What is a constructor?
   - A special method of the class, which initializes the fields of the class.
+  - Inside a constructor, we initialize the state of a type.
   - The constructor can have any additional initialization logic that helps in 
     creating an object for the class.
 
@@ -32,6 +33,30 @@ Constructor
   - We can create multiple constructors in the same class.
   - All constructors in the same class, must have different types parameters 
     and fields.
+
+ - Using the 'this' keyword with constructors
+  - 'this' keyword can be used with constructors to minimize fields/properties
+    initialization duplication inside a constructor.
+     Example
+      class MyClass(
+        string _a;
+        string _b;
+        string _c;
+        string _d;
+
+        MyClass(string a, string b)
+        {
+          this._a = a;
+          this._b = b;
+        }
+
+        MyClass(string a, string b, string c, string d) : this(a, b)
+        {
+          this._c = c;
+          this._d = d;
+        }
+      )
+
   
 
 

@@ -18,11 +18,22 @@ Abstract methods
  - The method name, parameters, and return type must all be the 
    same in both the parent and the child abstract class.
 
-   public class ChildClass : ParentClass {
-    public override string MyMethod(string param1, ..)
+   public class ChildClass : ParentClass
     {
-      // method body
-    }
+      public override string MyMethod(string param1, ..)
+        {
+          // method body
+        }
+   }
+
+   public class ChildClass : ParentClass
+    {
+      override  (method names will appear)
+      
+      public override string MyMethod(string param1, ..)
+        {
+          // method body
+        }
    }
 
    Summary:

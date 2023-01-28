@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\bin\Debug\net6.0\Constructors.exe
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\bin\Debug\net6.0\Constructors.deps.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\bin\Debug\net6.0\Constructors.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\bin\Debug\net6.0\Constructors.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\bin\Debug\net6.0\Constructors.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.csproj.AssemblyReference.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\refint\Constructors.dll
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.pdb
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\Constructors.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\OOPCompleteDriss\sec8_MethodsConstructorsStatic\Constructors\Constructors\Constructors\obj\Debug\net6.0\ref\Constructors.dll

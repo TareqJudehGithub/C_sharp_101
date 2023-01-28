@@ -1,0 +1,13 @@
+Structure
+ - Similar to a class, a structure is complex(custom) data type.
+ - A structure is used to create small data centric types with little behavior.
+ - A structure is a value type.
+ - A structure is created using struct keyword.
+ - A structure cannot inherit from a class or from another struct.
+ - A structure can only inherit from an interface.
+ - A structure cannot have a parameter less constructor.
+ - In a structure, we cannot initialize a field/property at declaration.
+ - A structure inherits from the object type.
+ - A structure can contain methods.
+ - We can create static fields and static properties on structures.
+ 

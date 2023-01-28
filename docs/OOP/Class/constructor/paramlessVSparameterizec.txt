@@ -6,6 +6,7 @@ Parameter-less Constructor VS Parameterized Constructor
     {
 
     }
+  - A parameter-less constructor sets all types to their default value.  
 
  Parameterized Constructor
   - A constructor with one or more parameters.

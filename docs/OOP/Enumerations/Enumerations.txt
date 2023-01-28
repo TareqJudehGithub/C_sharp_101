@@ -1,0 +1,42 @@
+Enumerations
+ - Enumerations are strongly typed constants.
+ - Created with enum keyword.
+ - A Enumeration is a set of named constants.
+ - Each value is associated with an integer value.
+ - Enumerations follow the pascal naming convention.
+ - Base class for all enumerations.
+ - Enumeration provides useful methods:
+   IsDefined, GetValues, Parse, TryParse, ToObject.
+ - After creating an enum,  create a default element associated with the value 0.
+   It is useful when you instantiate the enum with a new expression to avoid errors.
+
+   
+ public enum Planet 
+ {
+  Earth,
+  Venus,
+  Mars,
+  Jupiter,
+  Saturn,
+  Neptune,
+  Uranus
+ }
+
+
+ Enum methods
+  - TryParse
+   - Returns true if the parse operation succeed.
+   
+
+  - ToObjects method
+    - Initialize an enumeration with an integer value.
+    - Converts int value to an enum.
+
+  - IsDefined
+    - IsDefined method
+    - Determines if an enumerations contains an int value.
+
+  - GetValues method
+   - returns all constants associated with an enum
+
+

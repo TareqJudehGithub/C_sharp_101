@@ -1,0 +1,6 @@
+static class
+ - A static class cannot be instantiated.
+ - A static class members can only be reached through the class name it self.
+ - A static class cannot be inherited.
+ - A static class cannot be does have a constructor.
+ - We use the 'static' keyword to initialize a static class.

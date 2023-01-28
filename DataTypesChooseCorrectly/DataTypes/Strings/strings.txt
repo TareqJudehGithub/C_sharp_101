@@ -19,7 +19,7 @@ Console.Write()
 
 
 Console.ReadLine();
-  - Captures users input and store in a variable.
+  - Captures users input storing it in a variable.
     string name = Console.ReadLine();
 
 
@@ -42,5 +42,5 @@ Replace() method
 
 WE MUST reassign any changes to variable defined, or else
 the state of that variable won't change.
-  greet =  greet.Replace("Hello", "Hello,");
+  greet =  greet.Replace("Hello", "HELLO,");
   Console.WriteLine($"{greet}");

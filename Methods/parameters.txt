@@ -1,0 +1,12 @@
+Method parameters
+ - Parameters can be passed to a method:
+   - By value(default behavior)  
+      - The method receives the value of the argument.
+      - Any change to the parameter that takes place inside the method has no 
+        effect on the argument variable.
+   - By reference (ref and out keywords): 
+      - The method receives the reference of the argument.
+      - Any change to the parameter that takes place inside the method changes 
+        the argument variable.
+
+ 

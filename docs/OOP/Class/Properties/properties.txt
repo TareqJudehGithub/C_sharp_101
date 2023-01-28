@@ -41,7 +41,6 @@ Properties
  - the 'value' keyword in set:
   - A predefined and default implicit parameter which represents the value of the 
   assigned value to the property.
-  
 
 - get accessor
     - The get accessor return the value of the field.
