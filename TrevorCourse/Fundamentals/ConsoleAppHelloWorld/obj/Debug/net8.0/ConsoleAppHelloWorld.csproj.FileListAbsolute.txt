@@ -1,0 +1,15 @@
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.exe
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.deps.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.runtimeconfig.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\bin\Debug\net8.0\ConsoleAppHelloWorld.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.AssemblyInfoInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.AssemblyInfo.cs
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.sourcelink.json
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\refint\ConsoleAppHelloWorld.dll
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.pdb
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ConsoleAppHelloWorld.genruntimeconfig.cache
+E:\web\ASP_NET\CSharp101\TrevorCourse\Fundamentals\ConsoleAppHelloWorld\obj\Debug\net8.0\ref\ConsoleAppHelloWorld.dll
