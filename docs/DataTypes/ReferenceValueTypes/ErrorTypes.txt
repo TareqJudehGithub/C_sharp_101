@@ -1,0 +1,10 @@
+Error Types
+ 
+ - Runtime errors
+  - Happens when the application is running.
+  - Example of a runtime error,  is when a developer forgets to add 
+    a variable type.
+
+ - Compilation errors
+  - Happens during Compilation process. 
+

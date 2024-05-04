@@ -1,0 +1,8 @@
+Non Primitive Types
+ - Stores one or more values.
+ - Usually contains multiple members.
+string
+class
+interface
+structures
+enumerations

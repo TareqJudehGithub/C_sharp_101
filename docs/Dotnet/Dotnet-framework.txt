@@ -1,6 +1,7 @@
 What is .NET?
-  An applications development platform to build various applications.
-  - .NET is a technologies to create applications.
+  An open source developer platform, created by Microsoft for building  various
+  many types of applications.
+  - .NET is a technology to create applications.
   - .NET was developed by Microsoft and released  in 2002 for free.
   - .NET provided fully managed, secured application execution environment.
   - .NET supports multiple languages including C#, VB, F#, and VC++.
@@ -16,7 +17,7 @@ Modules and applications of .NET
     1. ASP.NET
       - Websites (e.g. landing pages)
       - Web applications (e.g. E-Commerce)
-      - Web Services (e.g. reuseable programs on the web)
+      - Web Services (e.g. reuseable programs on the web, that run in the background).
     2. C#.NET
       - Windows GUI applications  (e.g. calculator)
       - Windows desktop application
@@ -28,11 +29,11 @@ CLI (Common Language Infrastructure)
   - The developer writes code in humanly understandable programming high level
     language like C# or VB (source code).
   - Next, The source code is converted to an intermediate level language (IL) or
-    Microsoft Intermediate Language using the C Sharp Compiler (CSC).
+    Microsoft Intermediate Language using the C-Sharp Compiler (CSC).
   - The compiled IL code is stored in a separate .exe file under 
     /projectFolder/bin/Debug/projectName.exe 
-  - After that, the CLR takes the IL (byte code) and converts it into a machine code and
-    execute it (at execution time).
+  - After that, the CLR takes the IL (byte code) and converts it into a native machine
+    code at execution time.
   - Finally, the machine code is executed by machine operating system (OS) and returns 
     the output for the user.
 
@@ -147,8 +148,6 @@ Understanding
     B- .NET Core
 
 Versions of .NET framework
-
-
 
 Visual Studio
 

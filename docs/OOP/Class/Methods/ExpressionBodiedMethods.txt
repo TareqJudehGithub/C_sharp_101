@@ -1,0 +1,11 @@
+Expression Bodied Methods
+ - A statement does something but does not evaluate to a value.
+ - In Expression Bodied Methods, we use => and braces instead of curly braces and 
+   the enter keyword.
+ - We can only use Expression Bodied Methods if the method body contains only
+   one expression or one statement.
+   
+  Example:  Console.WriteLine("Hello world!");
+ - An expression is something that evaluates to a value.
+  Example: 1 + 2
+  

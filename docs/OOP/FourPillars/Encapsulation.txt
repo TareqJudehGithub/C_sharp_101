@@ -1,11 +1,12 @@
 Encapsulation
  - Encapsulation binds data (fields) and actions (methods).
+ - Encapsulation bundles data with methods that operate on this data  (in single class).
+ - Encapsulation enables data hiding.
  - Encapsulation provides safety.
  - Using Encapsulation, we indirectly access fields through
    Setters and Getters methods. So we protect fields from 
    accessing them directly.
 
- 
  Setters and Getters methods
 
  Setters
@@ -22,5 +23,4 @@ Encapsulation
    Getters
     - Getters return the value of field declared.
     
- - readonly fields can only have Get methods since their value is 
-   readonly.
+ - readonly fields can only have Get methods since their value is readonly.

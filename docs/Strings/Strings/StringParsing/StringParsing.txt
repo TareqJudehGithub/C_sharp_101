@@ -1,0 +1,5 @@
+String Parsing
+ - String parsing means converting the current string value into another type.
+    string "16"  =parsing=> int 16
+    
+    

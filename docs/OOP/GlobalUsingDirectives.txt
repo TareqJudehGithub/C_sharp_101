@@ -1,0 +1,10 @@
+Global Using Directives
+ - Global Using directives was 1st introduced in C# 10.
+ - Global using Directives allows us to use a namespace for multiple files without
+   the need to import (type using keywords) in every file.
+ - the global using directive must be on top of other namespaces.
+ 
+ Global Using Directives syntax
+  global using System.Diagnosticts;
+
+- Global Using Directives is recommended to have it's own class (file) in the project.

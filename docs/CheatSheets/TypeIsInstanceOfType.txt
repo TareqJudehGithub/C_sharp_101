@@ -5,3 +5,5 @@ typeof(double).IsInstanceOfType(studentMark)
 
 This checks variable data type
 (typeof(double).IsAssignableFrom(studentMark.GetType()) 
+
+typeof(string)

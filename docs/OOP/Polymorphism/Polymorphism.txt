@@ -1,0 +1,5 @@
+Polymorphism
+ - Polymorphism is the provision of a single interface to entities of different types.
+ - Polymorphism comes from the greek words Poly (many) and morphe (shape).
+ - Inheritance helps us achieve polymorphism.
+ 

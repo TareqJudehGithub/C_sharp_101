@@ -1,6 +1,13 @@
 static class
  - A static class cannot be instantiated.
  - A static class members can only be reached through the class name it self.
+ - A static class serves as a container for methods.
+ - A static class can only contain static methods.
  - A static class cannot be inherited.
  - A static class cannot be does have a constructor.
  - We use the 'static' keyword to initialize a static class.
+ 
+ - it's good practice to make a private method static, if that method does not use
+   instance data.
+ - Static methods have faster performance comparing to instance methods.
+ - All const fields are implicitly static.  

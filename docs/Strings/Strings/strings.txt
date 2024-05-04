@@ -1,0 +1,11 @@
+String 
+ - A string is an object that represents text.
+ - A string is a reference type that stores text as a sequential collection of char 
+   objects.
+ - Strings is a class that contains a set of multiple characters.
+ - Each character occupies 2 bytes in memory.
+ - Strings are immutable.
+ - Strings are reference type.
+ - String.Empty assigns a variable with an empty value;
+
+

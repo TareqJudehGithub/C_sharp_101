@@ -13,12 +13,13 @@ Objects
  - Objects can store values.  
  - Objects can access methods of the class.
  - When compiling, objects are stored inside the Heap.
+ - An object is a collection of fields that is stored inside the Heap. 
  
- - In order to access an object, we call it's reference variable stored inside the stack,
-   that's why it's called reference variable.
- - So Object is the collection of variables stored inside the heap, while the reference
+ - In order to access an object, we call it's reference variable stored inside 
+ the stack, that's why it's called reference variable.
+ - So the object is the collection of variables stored inside the heap, while the reference
    variable is stored in the stack in order to access that object.
-      ClassName objectName = new ClassName();
+      ClassName referenceVariableName = new ClassName();
        - objectName is a reference variable
        - newCustomer is a reference variable with a default value of null unless we 
          used the 'new' keyword to refer to an object;

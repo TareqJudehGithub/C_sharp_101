@@ -1,2 +1,6 @@
 Top level statements
-  - In .Net 6
+  - A new feature in .Net 6
+  - Top level statements reduce the amount of coded needed to 
+    start an application.
+    
+    

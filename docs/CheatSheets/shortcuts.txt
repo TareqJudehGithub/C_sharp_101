@@ -1,7 +1,9 @@
 Command shortcuts in C#
 
- - svm    => declares Main class 
+ - svm    => declares Main class.
  - prop   => declares a new class property member.
  - ctor   => declares a class constructor.
- - struct => creates a new structure
+ - struct => creates a new structure.
+ 
+ 
  

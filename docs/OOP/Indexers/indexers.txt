@@ -22,7 +22,6 @@ Indexers
             set
             {
                 this._brands[index] = value; // Assign value into the index based on indexer.
-
             }
         }
     }

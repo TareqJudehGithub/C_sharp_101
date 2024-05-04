@@ -1,0 +1,175 @@
+Methods in strings
+  - Methods in strings ends with () i.e., .Replace()
+    - int name.Length;
+      - Here in the above line, name is the property, and .Length is the property of
+        that object.
+  
+  .Length
+    - returns the total number of characters in a string.
+    - Length is of type int.
+
+    int numberOfStrings = filePath.Length;
+    Console.WriteLine(numberOfStrings);
+  
+  .Substring()
+    - Substring() method or property extracts a substring from a larger one.
+     - Syntax
+      string subString = originalString.SubString(startIndex);
+      string subString = originalString.Substring(startIndex, length);
+        - startIndex param allows us to specify the starting index of a string to extract.
+        - Length param is optional, allowing us to specify how many characters to extract.
+        - If the length is not specified, then the extraction will be right till the last
+          char of the string.
+
+  .IndexOf
+    - A string method that returns the index of the first occurrence of the specified 
+      character/substring within the string.
+  
+        Example: return the index of "cream"
+        string iceCream = "ice cream";
+        int creamIndex = iceCream.IndexOf("cream");
+        Console.WriteLine($"cream index is {creamIndex}"); 
+        $ 4
+        - Here, 4 is starting index of the first occurrence substring cream (the 1st "cream found") in the 
+        string iceCream.
+
+  .LastIndexOf()
+    - Returns the index position of the last occurrence of the specified 
+      character/substring within the string.
+        
+        Example: return the index of "cream"
+          string iceCream = "ice cream i love ice cream";
+        int creamIndex = iceCream.LastIndexOf("cream");
+        Console.WriteLine($"cream index is {creamIndex}"); 
+        $ 
+          - Here, [number] is the starting index of the last occurrence substring cream 
+            (the 1st "cream found") in the string iceCream.
+  
+  - Both IndexOf and LastIndexOf methods returns int.
+  - Both IndexOf and LastIndexOf methods are case sensitive.
+
+  .ToUpper() and .ToLower()
+   - Converts a character in string to upper case and to lower case respectively.
+  
+  .Split()
+   - Split() breaks up a string at a specific separator and returns its substring.
+   - Split() returns a string array.
+      Syntax
+      string[] arrayName = stringVar.Split('separator');
+  - Split() optional params:
+    - Split() can also have a 2nd optional param to set the max number of items to be
+      split, ignoring any separator in the string after that.
+      Syntax: 
+      string[] arrayName = stringVar.Split('separator', number);
+    - Split('|, MaxNum, StringSplitOption.RemoveEmptyEntries);
+      - RemoveEmptyEntries removes any empty entries between two separators.
+        - Example:  "john, ali,, sarah";       
+    - Split('|, MaxNum, StringSplitOption.TrimEntries);
+      - Trims any free space between and next to the separators.
+
+  - Replace() method
+    - Replace() method returns a new string by replacing EACH matching character/substring
+      in the string with a new character/subString.
+    - Syntax String.Replace(string oldValue, string newValue);
+
+  -.Trim()
+    - .Trim() removes any leading(starting) or trailing(ending) white spaces or any other
+      specified characters from a string.
+    - .Trim() is useful for cleaning user inputs and raw data.
+    - Trim() params
+     - We can specify between quotation any char or white space we wish to trim.
+      Syntax:  string.Trim('$', ' ');
+
+    - .TrimStart() and TrimEnd() trim any leading and trailing characters or white space
+      respectively.
+
+    greet = greet.Trim();
+    Console.WriteLine($"[{greet}]");
+
+
+  - StartsWith()  
+   - StartsWith() method checks whether a string starts with the specific 
+     character/substring or not.
+   - StartsWith() method returns a boolean value.
+   - C# is a case sensitive language, so be aware of that always when comparing 
+     characters and  strings.
+   - We can add the StringComparison.OrdinalIgnoreCase param to ignore any case
+     sensitivity.
+   - Syntax
+      boolean startWith = originalString.StartsWith(prefix);
+      boolean startWith = originalString.StartsWith(prefix, StringComparison.OrdinalIgnoreCase)
+
+  - EndsWith()
+   - The opposite of StartsWith() method, the EndsWith() method checks whether a string 
+     ends with the specific character/substring or not.
+   - EndsWith() method returns a boolean value.
+   - Syntax 
+      boolean startWith = originalString.StartsWith(suffix);
+      boolean startWith = originalString.StartsWith(suffix, StringComparison.OrdinalIgnoreCase)
+
+
+  string introduceSelf = "Hello, my name is Tareq.";
+
+  .Contains()
+    - Contains() is string method that searches inside a string lateral for a match and 
+      returns a boolean value.
+        Console.WriteLine(introduceSelf.Contains("Tareq"));
+        >>> True
+
+    - C# is case sensitive, so in order to ignore case sensitivity comparison, we add 
+      the StringComparison.OrdinalIgnoreCase param.
+        
+
+    - Syntax
+      string.Contains(substring, StringComparison.originalString)
+
+
+
+  Console.WriteLine()
+    - Writes a new line to the Console.
+
+  Console.Write()
+    - Writes in the same line to the Console.
+
+    Console.WriteLine("What is your name?");
+    string name = "john smith";
+    Console.WriteLine($"Hi, {name}!");
+  
+  Console.ReadLine();
+  - Captures users input storing it in a variable.
+    string name = Console.ReadLine();
+
+  string greet = "Hello world!    ";
+  Console.WriteLine($"[{greet}]");
+  $ is called string interpolation, allowing us to include both string literal along
+  with variables wrapped between {} in the same string value between double quotation.
+
+  string greet = "Hello world!    ";
+  Console.WriteLine($"[{greet}]");
+    $ is called string interpolation, allowing us to include both string literal along
+    with variables wrapped between {} in the same string value between double quotation.
+
+
+
+
+
+
+
+WE MUST reassign any changes to variable defined, or else
+the state of that variable won't change.
+  greet =  greet.Replace("Hello", "HELLO,");
+  Console.WriteLine($"{greet}");
+
+        // File path.  we must use escape characters.
+
+        string filePath = "c:\\windows\\system";
+        Console.WriteLine(filePath);
+
+        // @ enables us to not use escape characters.
+        string filePath2 = @"c:\windows\system";
+        Console.WriteLine(filePath2);
+
+  
+
+
+

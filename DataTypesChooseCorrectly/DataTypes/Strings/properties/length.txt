@@ -1,6 +1,0 @@
-.Length
-  - .Length is a string property that returns the characters count of a string.
-
-  string day = "Monday";
-  Console.WriteLine(Monday.Length);
-  >>> 6

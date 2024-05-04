@@ -1,0 +1,5 @@
+Terms and Definitions
+
+ - Expression
+  - An Expression is a piece of code that define a value.
+      int oddNumber = 5;

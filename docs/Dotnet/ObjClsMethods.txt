@@ -1,6 +1,10 @@
 Object, Classes, and Methods
+
  - Objects
-   - An object is an instance of a class, that is an object is created from a class.
+   - Objects are the physical things that exists in the real world.
+   - In C#, an object is an instance of a class, that is an object is created from a class.
+   - Without a class, objects cannot be created; because the class describes the list of
+     fields, methods, and properties stored inside the object.
 
  - Classes
   - A class is model (blue prints) of objects.

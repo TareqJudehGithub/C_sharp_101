@@ -4,6 +4,10 @@ this keyword
    of the constructor parameter.
  - this keyword in C# refers to the current object of a particular 
    method.
- - this keyword is only available for instance methods.
- - Don't use this keyword with class Properties.
+ - The this keyword is only available for instance methods, as there must be a "current object"
+   to call
+ - Don't use this keyword with class Property members.
+ - In case both a parameter and the field name were the exact same in 
+   a constructor or a method, then the "this" keyword usage is compulsory.
+ - this keyword refers to the field, and not the parameter.
  

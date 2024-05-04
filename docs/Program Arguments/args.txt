@@ -1,0 +1,15 @@
+namespace HelloWorldExplicit
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine($"My name is: {args[0]} {args[1]}");
+        }
+    }
+}
+
+
+$ dotnet run John Smith
+
+Output =>  My name is: John Smith

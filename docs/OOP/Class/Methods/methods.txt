@@ -1,9 +1,11 @@
 Methods
  
- - Method is function (group of statements) to do some action.
- - Method is part of the class.
+ - A method is function (group of statements) to do some operation/action.
+ - A method is part of the class.
+ - A method is not stored in the object, but is called through it.
  - Method receives inputs (arguments).
  - Method returns values based on arguments given.
+ - Method name should always start with a verb.
 
     class Car 
     {
@@ -20,9 +22,9 @@ Methods
         calculateEmi(1000, 12, 7.5);
   
  - method syntax
-      accessModifier modifier returnType methodName(params)
+      accessModifier modifier returnType MethodName(params)
       {
-
+        Method body
       }
   - returnType should match the method return value.
   - void dataType indicates that a method does not return any dataType.
@@ -34,7 +36,7 @@ Methods
    - Both local variables and parameters are stored inside the stack.
    - Every time a method is being called, a new stack is created for that
      method.
-   - After finishing executing the method, the stack will be removed and 
+   - After finishing executing the method, the stack will be emptied and 
      deleting all local variables and parameters stored there.
    - Parameters can be primitive and non primitive types.
 
@@ -56,10 +58,11 @@ Methods
             {
             
             }
+
     - ref
      - Changes made to the ref parameter, will be automatically effected/reflected 
        in the argument variable.
-    - We must prefix the reef keyword for both the parameter and the argument variables.
+    - We must prefix the ref keyword for both the parameter and the argument variables.
           methodName(ref string username)
           {
             username = "john smith";
@@ -112,7 +115,7 @@ Methods
      - An array is a collection of values of the same type.
      - params modifier declares a new array as a method parameter.
      - Use params modifier in case we did not know how many arguments we will have.
- 
+      
         class Student
         {
             public void DisplaySubjects(params string[] subjects)
@@ -123,7 +126,6 @@ Methods
                     System.Console.WriteLine(subjcet);
                 }
             }
-
         }
         class Program
         {

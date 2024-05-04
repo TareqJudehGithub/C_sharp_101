@@ -2,5 +2,3 @@ Environment.NewLine
 
 - Environment.NewLine; works as a line break
 - I'd prefer using escape character "\n" instead.
-
-

@@ -1,6 +1,7 @@
 Local Functions
  - Local Functions was introduced in c# 7.0
- - A local function in c# is a collection of statements to perform some action.
+ - A local function in c# is a collection of statements to perform some
+  action as a part of a method.
  - local function are declared inside methods.
  - We cannot call a local function from outside its method scope.
  - local functions does not support access modifiers or modifiers.

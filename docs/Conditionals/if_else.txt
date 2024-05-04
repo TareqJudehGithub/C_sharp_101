@@ -4,8 +4,11 @@ Control Flow
    be executed first.
  - In order to control the flow of execution forward or backward, we use the 
    Control Statements.
+ - Conditional statements control the flow of execution of a program based on 
+   certain given conditions.
  - Control Statements that enables us to jump forward are called Conditional
    Control Statements (if/else, and switch).
+   
  - Control Statements that enables us to jump backward are called Looping 
    Control Statements (do-while, while, and for).
 

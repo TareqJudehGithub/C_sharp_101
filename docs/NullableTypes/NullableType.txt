@@ -1,0 +1,11 @@
+Nullable Types
+ - Nullable types allow value types to have a value of null.
+ - Explicitly indicate when a value is undefined or missing.
+ - Add a ? as a suffix to the data type to indicate a nullable type.
+    
+    int age;  // Non-nullable int
+    int? age; // Nullable int
+
+ - Nullables avoid saving values as zeros.
+ - Value types cannot handle null values, so by introducing Null Types, they now can.
+ 

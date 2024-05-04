@@ -1,4 +1,6 @@
 GetType() method
  - returns the type of a variable
       int age = 47;
-      Console.WriteLine($"Data type for {age} is {age.GetType()}");
+      Console.WriteLine($"Data type for {age} is {age.GetType().Name}");
+
+name.GetType().Name != typeof(string)   

@@ -7,9 +7,8 @@ Enumerations
  - Base class for all enumerations.
  - Enumeration provides useful methods:
    IsDefined, GetValues, Parse, TryParse, ToObject.
- - After creating an enum,  create a default element associated with the value 0.
+ - After creating an enum, create a default element associated with the value 0.
    It is useful when you instantiate the enum with a new expression to avoid errors.
-
    
  public enum Planet 
  {
@@ -21,7 +20,6 @@ Enumerations
   Neptune,
   Uranus
  }
-
 
  Enum methods
   - TryParse

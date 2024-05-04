@@ -1,0 +1,10 @@
+While Loop
+ - A while loop is a loop method used to control the flow of our program.
+ - while loops will keep on running as long as the condition specified is true.
+ - while loops stops when the condition is no longer met (false).
+ - while is useful when we don't know exactly how many times we have to run the loop.
+ - syntax
+  while (condition is true)
+   {
+   // execute this!
+   }

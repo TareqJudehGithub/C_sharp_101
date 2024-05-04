@@ -3,3 +3,18 @@ Keywords
  - Have a Special meaning to the compiler.
  - class, public, and private are all examples of reserved Keywords.
  - Keywords cannot be used to define variables.
+ 
+ - string.All() 
+  - .All() is a method in String that checks if all characters inside a string
+    met a certain condition.
+
+ - new
+  - new is used to created new instances of classes.   
+
+ - out
+  - The argument value will not be given to the parameter, the parameter value
+    will be assigned to the argument variable.
+  - Use out keyword whenever we needed to return multiple projects.  
+  - If out keyword was not used, the parameter value will be passed/assigned from a 
+    variable.
+

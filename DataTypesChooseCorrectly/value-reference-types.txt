@@ -1,8 +1,11 @@
 Value types and reference types
-  With so many different data types available in C#, choosing the right one to use means that you'll need to understand what each one does and when you might choose one data type over another.
+  With so many different data types available in C#, choosing the right one to use means
+  that you'll need to understand what each one does and when you might choose one data 
+  type over another.
 
  What is data?
-  - In software development, data is essentially a value that is stored in the computer's memory as a series of bits. 
+  - In software development, data is essentially a value that is stored in the computer's 
+    memory as a series of bits. 
   - A bit is a simple binary switch represented as a 0 or 1, or rather, "off" and "on".
   - Values are stored as bits, which are simple on / off switches. 
   - When you combine 8 bits together in a sequence, they form a byte.  8 bits = 1 byte.
@@ -15,21 +18,33 @@ Value types and reference types
 
 What about textual data?
  - If a computer only understands 0s and 1s, then how does it allow us to work with text? 
- - Using a system like ASCII, you can use a single byte to represent upper and lowercase letters, numbers, tab, backspace, newline and many mathematical symbols, blocks, lines, and so on.
+ - Using a system like ASCII, you can use a single byte to represent upper and lowercase
+   letters, numbers, tab, backspace, newline and many mathematical symbols, blocks, 
+   lines, and so on.
 
 What is a data type?
- - A data type is a programming language construct that defines how much memory to reserve for a value. 
+ - A data type is a programming language construct that defines how much memory to 
+   reserve for a value. 
  - This is why we have so many data types.
- - Given the type of applications you'll build in your career, you'll come to realize you settle on a small subset of all the available data types. However, it's still vital to know others exist and why.
+ - Given the type of applications you'll build in your career, you'll come to realize 
+   you settle on a small subset of all the available data types. However, it's still 
+   vital to know others exist and why.
 
 Value vs. reference types
   - There are two basic categories of data types: value types and reference types. 
-  - The fundamental difference between value and reference types concerns where those values are temporarily stored in memory as your application executes. 
-  - Where the value is stored affects how the .NET runtime manages the life of the value including its declaration (birth), assignment and retrieval (life), and finalization (death). This, in turn, impacts the syntax you use when working with either a value type or a reference type.
+  - The fundamental difference between value and reference types concerns where those 
+    values are temporarily stored in memory as your application executes. 
+  - The value is stored affects how the .NET runtime manages the life of the value 
+    including its declaration (birth), assignment and retrieval (life), and finalization
+    (death). This, in turn, impacts the syntax you use when working with either a value 
+    type or a reference type.
 
  Simple value types
   - Simple value types are a set of predefined types provided by C# as keywords.
   - value types can hold smaller values and are stored in the stack. 
-  -  For example, the C# keyword int is an alias of a value type defined in the .NET Class Library as System.Int32.
-  - Simple value types include many of the data types that you may have used already like char and bool. 
-  - There are also many integral and floating-point value types to represent a wide range of whole and fractional numbers.
+  -  For example, the C# keyword int is an alias of a value type defined in the .NET 
+     Class Library as System.Int32.
+  - Simple value types include many of the data types that you may have used already 
+    like char and bool. 
+  - There are also many integral and floating-point value types to represent a wide 
+    range of whole and fractional numbers.

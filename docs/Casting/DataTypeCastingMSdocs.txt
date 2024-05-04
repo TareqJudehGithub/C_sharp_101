@@ -19,12 +19,12 @@ Use the Convert class' methods
   - Since any int value can easily fit inside of a decimal, the compiler performs 
     the conversion.
 
-Narrowing conversion
+Narrowing(Explicit) conversion 
  - The term narrowing conversion means that you're attempting to convert a value 
    from a data type that can hold more information to a data type that can hold less 
    information. like converting from decimal to int.
  - When you know you'll be performing a narrowing conversion, you'll need to perform 
-   a cast. 
+   a cast expression (casting). 
  - Casting is an instruction to the C# compiler that you know precision may be lost, 
    but you're willing to accept it.
  - To perform a cast, you use the casting operator  () to surround a data type,  then

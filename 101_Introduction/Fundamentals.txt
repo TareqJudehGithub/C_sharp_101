@@ -1,0 +1,23 @@
+What is Programming?
+ - Programming is the process of activity of writing computer programs.
+ - All different application we use on our daily life, are computer programs.
+ - We write programs using computer languages. This process is also called coding.
+ 
+ Programs follow three control structures:
+  - Sequence
+    - The code will always execute in the order it is written.
+  
+  - Decision
+   - Based on information provided, the computer will excuse certain codes.
+
+  - Repetition
+   - To execute code in certain number of times.
+
+  Programs perform three operations:
+   - Input
+    - Taking information from a user.
+   - Processing 
+    - Making a decision or doing calculation.
+   - Output
+    - Showing a result of a process.
+

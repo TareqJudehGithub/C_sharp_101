@@ -25,6 +25,9 @@ Properties
                 {
                     this.height = value;
                 }
+            }
+      - The setter accessor assigns a new value to the field, where the getter returns
+        the current value.           
  - auto-implemented property syntax:
           AccessModifier DataType PropertyName {get; set;}
   - auto-implemented properties are only usable in case if there's no additional logic.

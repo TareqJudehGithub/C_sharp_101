@@ -1,18 +1,26 @@
 Arrays
+ - A collection of elements of the same data type.
  - An array stores a fixed size sequential collection of data of the same type.
+ - An array can have multiple values in a single variable.
  - We can have any type of arrays (int, string, objects, etc).
+ - Once the array is created, it's size cannot be changed.
+ - We cannot add/remove more elements to/from an Array.
+ 
  - Arrays use zero indexing to store elements of the same type.
- - The first index in an array is always 0.
+ - The first index in an array is always 0 (o based indexing).
+
+ - Arrays are useful when we already know the size elements needed.
+ - Chess board, geometry shapes, and tic tac toe are all good examples of an Array.
 
  - Arrays syntax
     int[] grades = new int[5];  // 5 spaces in memory will be saved in memory.
 
     - The above syntax creates an new empty array of 5 size elements.
     grade1 = grades[0] = 95;
-    grade2 = grades[1] = 86
-    grade2 = grades[2] = 79
-    grade2 = grades[3] = 91
-    grade2 = grades[4] = 93
+    grade2 = grades[1] = 86;
+    grade2 = grades[2] = 79;
+    grade2 = grades[3] = 91;
+    grade2 = grades[4] = 93;
 
   also valid:
     int[] grades = new int[5] = {1, 2 ,3 ,4, 5};
@@ -23,5 +31,47 @@ Array.Length
  - returns the length (numbers) of elements inside an array
   grades.Length;
   >>> 5
-    
 
+
+- Two-dimensional arrays
+  - char[,] letters = new char[2, 3];
+  - In a two-dimensional arrays, we provide two indexes instead of one.
+  - 
+            int[,] numbers = new int[,]
+            {
+                {10 , 20, 30},
+                { 100, 200, 300}
+            };
+
+            int[,] numbers2 =
+            {
+                {10 , 20, 30},
+                { 100, 200, 300}
+            };
+    
+Array Methods using Array classz
+  - The Array class contains methods that we can use to manipulate the content, arrangement, and size of an array. 
+
+  Sorting item in arrays
+  - Array.Sort(arrayName) methods sorts out elements inside an array in an alphabetical order.
+
+  Reversing items in arrays
+  - Array.Reverse() method reverses the elements orders in an array
+
+  Clearing/removing an element from an array
+  - The Array.Clear(arrayName, starting index, ending index) method allows us to clear the value of specific elements in our array.
+  - Here we're using the Array.Clear() method to clear the values stored in the elements of the pallets array 
+  -  the elements still exist, but they're now empty.
+
+  Empty string versus null
+  - When you use Array.Clear(), the elements that were cleared no longer reference a string in memory.
+  -  The value stored in pallets[0] (the cleared element value) after being cleared is null.
+  - Null points to no reference in memory.
+  
+  Resizing arrays
+  Array.Resize(ref ArrayName, new array size number);
+  Array.Resize(ref myArray, 5);
+  - Here, we're calling the Resize() method passing in the myArray array by reference, using the ref keyword.
+  - The new elements will be null until we assign a value to them. 
+
+  - If we resized to a smaller number of the original array size, the elements at the end of the array will be removed.

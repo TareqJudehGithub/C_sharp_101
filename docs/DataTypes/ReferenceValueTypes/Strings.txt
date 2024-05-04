@@ -1,0 +1,6 @@
+Strings in C#
+ - string data type is series of one or more characters.
+ - string is a reference type, that means it stores a reference to their data, not the 
+   value it self.
+ - The default string value is null.
+

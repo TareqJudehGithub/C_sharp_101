@@ -1,0 +1,49 @@
+DateTime class
+ - DateTime class type represents an instant in time.
+ - Ranges from year 1 to 9999
+ - The unit ticks is based on nanoseconds
+ - Supports:
+  Different Calanders
+  Different time zones
+  Transformation between different dates and times.
+
+
+- Display current date
+  $ DateTime date = DateTime.Now;
+
+- Display current year
+  int year = date.Year;
+  Console.WriteLine(year);
+
+
+    // Instantiating 'today' object from DateTime
+    DateTime today = DateTime.Today;
+
+    // return today's date
+    Console.WriteLine($"Today is {today.ToShortDateString()}");
+    // return today's day of the week
+    Console.WriteLine($"Today is {today.DayOfWeek}");
+
+    // return time now (hh:mm:sec)
+    Console.WriteLine($"The time now is {DateTime.Now.ToShortTimeString()}");
+
+    // return UTC time
+    Console.WriteLine($"UTC time is {DateTime.UtcNow.ToShortTimeString()}");
+
+    // Convert string time format into DateTime format
+    // Date of birth in string format
+    DateTime myBD = DateTime.Parse("1975.06.27");
+
+    // US date format with culture info
+    DateTime usDate = DateTime.Parse("06.27.1975", new CultureInfo("en-us"));
+    Console.WriteLine($"Local Date:  {myBD} {usDate}");
+
+    // DateTime formatting
+    Console.WriteLine(dateOfBirth.ToString(new CultureInfo("en-us")));
+
+    // To output only the date   *** month must be in uppercase
+    Console.WriteLine(dateOfBirth.ToString("yyyy-MM-dd"));
+
+    /* Look up more DateTime formats on the Microsoft documentation at 
+      https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-date-and-time-format-strings
+    */

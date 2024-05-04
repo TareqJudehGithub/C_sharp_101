@@ -33,7 +33,8 @@ Constructor
   - We can create multiple constructors in the same class.
   - All constructors in the same class, must have different types parameters 
     and fields.
-
+  - Providing values values to fields in the constructor, overrides assigned fields
+  values provided when initializing these fields values.
  - Using the 'this' keyword with constructors
   - 'this' keyword can be used with constructors to minimize fields/properties
     initialization duplication inside a constructor.

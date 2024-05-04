@@ -1,6 +1,7 @@
 Access Modifiers 
  - Access Modifiers specifies the accessibility or the visibility of class members
    from outside that class.
+ - Access Modifiers control who acces components of a class.  
  - Access modifiers available are:
   private, protected, private protected, internal, protected internal, and public.
 

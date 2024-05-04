@@ -1,3 +1,5 @@
 Methods Overloading
- - Writing multiple methods with the same name with different arguments.
+ - Writing multiple methods with the same name with different Parameters or order of
+   these Parameters.
+
  

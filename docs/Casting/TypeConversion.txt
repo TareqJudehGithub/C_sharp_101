@@ -4,7 +4,7 @@ Type Conversion
  implicit conversion. 
   - Implicit casting is converting from a lower numerical type to a higher one.
   - Implicit conversion is handled by the compiler without the need to any
-    additional syntax.
+    additional syntax (automatic).
   - Implicit conversion causes no data loss. like converting from int to decimal.
 
 Explicit Casting

@@ -5,9 +5,8 @@ For loop
  - The while statement iterates through a block of code until a condition is met.
  - The for statement should be used when you know the number of times you need to iterate through a block of code ahead of time.
  - The for statement allows you to control the way in which each iteration is handled. 
- - 
-
-- There are six parts to for statement:
+ 
+ - There are six parts to for statement:
   (initializer, condition, and iterator)
   for (int i = 0; i < 10; i++) {do something action}
 	1. The for keyword

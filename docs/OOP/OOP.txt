@@ -4,6 +4,16 @@
  - OOP saves time and decreases development cost.
  - OOP is a programming model for scalable applications.
 
+ - Repositories
+  - Repositories are classes or components that encapsulate the logic required 
+    to access data sources.
+ 
+ - Solution
+  A collection of projects.
+ - Assembly
+  A collection of files (or a project).
+
+
 
 - Access modifiers
  - Access modifiers like (public or private) determines if members of a class
@@ -24,4 +34,6 @@
  - Method is a collection of statements to perform certain actions.
  - Method cannot store values.
 
+ Object
+  - 
 

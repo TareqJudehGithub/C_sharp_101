@@ -11,6 +11,8 @@ Fields
    - A backing field: is a private fields that holds the data that is exposed by 
      a property.
 
+   - public fields should start with a capital letter. FieldName
+   - private fields should start with _ followed by a small letter. _fieldName
    - Field Syntax:
         public class Employee 
         {

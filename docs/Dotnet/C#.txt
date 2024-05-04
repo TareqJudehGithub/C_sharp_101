@@ -1,8 +1,29 @@
 C#
- - A general purpose programming language developed by Andres Hejlsberg and Microsoft 
-   in 2000, and introduced in 2002.
- - C# is an object oriented programming language (OOP).
- - C# is case sensitive. Variable myMoney is different than MyMoney.
- - C# is strongly-typed language. Variables typed are fixed and cannot be changed 
-   after declaration.
- - C# is compiler-based language.
+ - A general purpose programming language developed by Andres Hejlsberg 
+   and Microsoft in 2000, and introduced in 2002.
+ 
+ - Simple. modern, general-purpose, object-oriented programming language.
+ - Language Paradigms
+  - A language paradigm is a pattern or a definition that describes a programming
+    language behavior.
+    - Static Typing.
+      Allows the compiler to check for potential programming errors.      
+    - C# is an object oriented programming language (OOP).
+    - C# is case sensitive. 
+          Variable myMoney is different than MyMoney.
+    - C# is strongly-typed language. 
+          Variables typed are fixed and cannot be changed. 
+      after declaration.
+    - Class-based.
+    - Functional.
+    - Imperative.
+    - Declarative.
+    - lexically scoped.
+    - Component-oriented.
+    - Generic.
+    - C# is a compiler-based language.
+
+    
+
+
+ 

@@ -1,15 +1,23 @@
 Variables
- - A place (named memory location) in memory to store values in.
+ - A place (named memory location) in memory/RAM to store values in.
  - Variables can store any type of value.
  - One variable can store one value.
  - Data types describes variables.
- - when compiling using CLR, a local variables are stored in a memory 
+ - when compiling using CLR, local variables are stored in a memory 
    location called the stack.
  - When compiling is done, all variables stored in the stacked are deleted.
  - Variable must be declared before using it.
  - Variable must have a data type.
+ - Example of a variable declaration
     int myNum;
  - To initialize a variable, we must include it's data type and value.
+    [type] [identifier] = [value]
     int myNum = 10;
+
+
+Variable rules
+ - Spaces, duplications, and keywords are not allowed for naming variables.
+ - Variables cannot contain special characters (except _underscore).
+ 
 
  

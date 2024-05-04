@@ -3,7 +3,7 @@ Inheritance
  - What is Inheritance?
   - Creating an easy-type relationship between two or more classes.
   - Inheritance saves time and code.
-  - I.e. Animal can be a parent class of Tiger (child class to Animal).
+  - I.e. Animal class can be a parent class of Tiger (which in turn is a child class to Animal).
   - Parent class can have multiple child classes (Tiger, Lion, Panther).
   - *** Both parent and child class should have the same access modifier, if
     not then inheritance won't work.
@@ -87,10 +87,8 @@ Inheritance
       class Professor: Teacher                  (Hierarchal)
       class EnglishProfessor: Professor         (Multi-level)
 
-
-
  - 'base' keyword
-  - 'base' is keyword available in the child class that enables us to have access
+  - 'base' is a keyword available in the child class that enables us to have access
      to the parent class members.
   - The 'base' keyword always refer to the parent class members, and not the child's.
   - The use of 'base' keyword is optional, we can still access the parent class 
@@ -102,13 +100,12 @@ Inheritance
             // code
           }
 
-
  - Method Hiding
   - Hiding parent class methods using 'new' keyword
   - 'new' keyword hides/overrides the parent method by creating a new method in the
-    child class with the same name and parameters of the parent class method.
-  - The new child method prevents the parent method from execution.  
-  - We use 'Method Hiding' incase we did not wish to run the parent class method.
+    child class with the SAME name and parameters of the parent class method.
+  - The new child method prevents the parent method from execution.
+  - We use 'Method Hiding' in case we did not wish to run the parent class method.
 
 
  - Method Overriding
@@ -117,11 +114,12 @@ Inheritance
   - Extending means, when we call the method from the child class, both methods in
     the parent and the child classes will execute.
   
-
   - Using 'virtual' keyword at parent class's method. 
-    - 'virtual' indicates that a method is get overridden/extended by a child method.
+    - 'virtual' indicates that a parent method is to be overridden/extended by a child method.
+  
   - Using 'override' keyword in child class's method.
     - 'override' extends a virtual method in the base class.
+  
   
   - Method Overriding syntax:
       class Parent

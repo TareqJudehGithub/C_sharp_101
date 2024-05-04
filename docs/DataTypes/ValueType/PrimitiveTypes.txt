@@ -1,0 +1,29 @@
+Primitive Types 
+ - A type (data type) specifies what type of value we want to store in a 
+   variable.
+ - Primitive Types store a single value.
+ - Primitive Types are basic building blocks of non-Primitive types.
+  
+
+sbyte, byte
+ushort, short
+uint, int
+ulong, long
+
+float
+double
+decimal
+
+char
+bool
+
+The mostly used primitive types are:
+  int 
+  long
+  float
+  double
+  char
+  bool
+
+
+

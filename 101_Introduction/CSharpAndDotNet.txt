@@ -1,0 +1,15 @@
+What is C#?
+ A modern, object-oriented, and type-safe computer Programming language.
+
+What is .Net?
+ - .Net is a platform for developing various types of applications.
+ - .Net is the runtime that C# programs are built with and run on.
+ - A library that contains thousands of classes for use right out of the box.
+ - C# programs run on a viral execution system called the common language 
+   runtime (CLR), ad a set of class libraries.
+ - .Net support other languages, and allows you to use different languages
+  in one program.
+
+ - Jan 2024 now, and the latest .Net version is 8, and the current C# version
+   is 12.
+ - .Net supports cross-platform.

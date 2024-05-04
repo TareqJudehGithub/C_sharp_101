@@ -1,0 +1,8 @@
+ SOLID Principles
+
+ 1. Single Responsibility Principle
+    - A class should be responsible for only one thing.
+ 
+ 
+
+

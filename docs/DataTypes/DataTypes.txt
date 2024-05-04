@@ -23,7 +23,7 @@ C# Data Types
  - float data type value ends with an 'F'
     float myNum = 5.75F;
    - float is good for performance apps. 
- - decimal data type value ends with an 'M' or nothing at all.
+ - double type value ends with an 'D' or nothing at all.
     double myNum = 19.99D;
    - double is the most used floating data type.
  - decimal data type is more precised that double and float ending with an 'M'.

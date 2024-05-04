@@ -1,0 +1,5 @@
+bool
+  - bool is a data type that has two possible values: true of false.
+  - bool default value is false.
+  - bool checks and evaluates conditions.
+  
