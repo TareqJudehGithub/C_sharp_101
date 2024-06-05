@@ -1,12 +1,36 @@
 Method parameters
+ - Method parameters are variables declared within the method parentheses.
  - Parameters can be passed to a method:
    - By value(default behavior)  
       - The method receives the value of the argument.
       - Any change to the parameter that takes place inside the method has no 
         effect on the argument variable.
-   - By reference (ref and out keywords): 
+   - By reference ('ref' and 'out' keywords): 
       - The method receives the reference of the argument.
       - Any change to the parameter that takes place inside the method changes 
         the argument variable.
+        
 
- 
+ - Types of parameters
+  - Value Parameters
+
+    - A value parameter passes data into a method by value through creating a copy of
+      that value 1st.
+    - Any changes made to the value inside the method body does not affect the original
+      value of the parameter.
+
+  - Reference Parameters
+   - Reference parameter passes a reference of the object.
+   - Reference parameter allows modification of the original variable value outside the 
+     method.
+   - Any changes that occur to the variable inside the method body will directly affect 
+     the original value of the parameter.
+   - Both variables inside and outside the method references to the same address in 
+     memory.
+   - Use the 'ref' keyword to for both the parameter variables and arguments.  
+     
+  - out parameter
+   - The out parameter returns data from a method back to the argument variable.
+   - A good example the out parameter is used in, is the TryParse() method.
+   - The out parameter is declared in the method parameters using the 'out' keyword.
+   

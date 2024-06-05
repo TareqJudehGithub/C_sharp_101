@@ -23,7 +23,7 @@ Calling methods in C#
     changing any values already stored in memory.
   - Stateless methods are also known as static methods.  
   - For example, the Console.WriteLine() method doesn't rely on any values stored in 
-    memory. It performs its function and finishes without impacting the state of the 
+    memory, It performs its function and finishes without impacting the state of the 
     application in any way.
   
   - Stateful methods 

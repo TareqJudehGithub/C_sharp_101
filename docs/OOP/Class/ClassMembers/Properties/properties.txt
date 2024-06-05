@@ -1,0 +1,75 @@
+Properties 
+ - Properties were introduced in c# 3.0
+ - A composite/public member of the class.
+ - Properties access the class fields, in and out of that class, giving access to 
+   private and protected variables of a class (Encapsulation).
+ - Properties check the incoming value whether it is valid or invalid, and assign
+   the value into the corresponding field only if the value is valid.
+
+ - Properties expose fields safely (only members that r supposed to be exposed), 
+   preventing direct access to their corresponding fields; because the fields only 
+   store values and cannot validate on it's own.
+
+ - Properties can also perform computation on a field before exposing it, providing
+   validation and logic.  
+ - The rule about properties, is that they should not be performance-heavy.  
+
+ - Properties naming convention starts with an uppercase (pascal naming).
+ - a property can be read, write, readOnly, or writeOnly.
+ 
+
+ - Properties contain two accessors: set and get. The get accessor returns the field
+   value, while the set assign a new value to that field.
+
+ - Properties syntax:
+            private into height;
+            public int Height
+            {
+                get
+                {
+                    return this.height;
+                }
+                set
+                {
+                    this.height = value;
+                }
+            }
+      - The setter accessor assigns a new value to the field, where the getter returns
+        the current value.   
+
+ - auto-implemented property syntax:
+          AccessModifier DataType PropertyName {get; set;}
+  - auto-implemented properties are only usable in case if there's no additional logic.
+ - set accessor 
+    - The set accessor sets the value of the field.
+    - Validates the incoming value and initializing it to its corresponding
+      field.
+    - We can check any custom logic to the set accessor, to check whether the value
+      is valid or invalid.  
+    - Can't have any additional parameter nor it returns any values.
+    
+    - The most common access modifiers for properties are setting the setter as private,
+      and setting the getter as public/internal.
+    - If we add a private modifier to the set accessor, then we can only access it inside
+      the class.
+
+ - the 'value' keyword in set:
+  - A predefined and default implicit parameter which represents the value of the 
+  assigned value to the property.
+
+- get accessor
+    - The get accessor return the value of the field.
+    - Will be executed automatically when accessing the property.
+
+- Properties and fields share the same access modifiers.
+ - private, protected, private protected, internal, protected internal, and public.
+- Properties modifiers:
+ - static, virtual, abstract, override, new, and sealed.
+
+- No memory will be allocated for the property (will not be stored). 
+- The memory will be allocated only for the fields inside the object.
+- If we assigned values directly to fields inside a constructor, that will skip the 
+  properties and therefor the fields can be accessed directly.
+- Do not assign a property to field that is not going to be accessed outside it's class.
+
+

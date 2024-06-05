@@ -1,0 +1,23 @@
+Types of programming languages
+ - Procedural programming language.
+   - A program is divided into a series of procedures of functions that are executed 
+     in a sequential manner. These procedures contain a step by step instructions to 
+     save a problem, or to complete a task.
+   - Fortran and Pascal
+ - Functional programming language
+   
+   - Haskell and #F
+
+ - Object Oriented language (OOP)
+   - Organized the code around objects.
+   - C++, C#, and Java.
+ - Scripting Language
+   - Design for scripting and automation task.
+   - JavaScript and Perl.
+
+ - Markup Language
+  - Defines the structure, deisgn, and the behavior of documents.
+   - HTML and CSS
+ - Query Language
+   - Query and manipulate data.
+   - SQL  

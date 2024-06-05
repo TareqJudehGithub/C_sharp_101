@@ -1,9 +1,13 @@
 Constructor
  What is a constructor?
   - A special method of the class, which initializes the fields of the class.
+  - The constructor is automatically called when an instance of a class is created.
+  - constructors have the same name of the class, and may or may not accept parameters.
+
   - Inside a constructor, we initialize the state of a type.
   - The constructor can have any additional initialization logic that helps in 
     creating an object for the class.
+  - Constructors do not return any type, like the case of methods.
 
  Rules of a constructor
   - When creating the constructor, that constructor should have the class name
@@ -28,8 +32,14 @@ Constructor
   - Inside the constructor we can initialize the declared fields/properties in 
     the class.
   
-  - If the developer does not create a constructor, the complier automatically
-    creates a default constructor with no parameters.
+  - Default Constructors
+    - If the developer does not create a constructor, the complier automatically
+      creates a default constructor with no parameters.
+    - A default constructor is one without any parameter (parameterless constructor) 
+
+  - If values were provided for fields or properties while creating new objects, these 
+    values will override any value from the constructor. 
+     
   - We can create multiple constructors in the same class.
   - All constructors in the same class, must have different types parameters 
     and fields.

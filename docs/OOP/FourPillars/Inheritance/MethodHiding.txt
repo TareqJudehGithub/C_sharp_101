@@ -1,0 +1,11 @@
+Method Hiding
+  - Method Hiding allows the derived class to define a method with the same name 
+    as the method in the base class.
+  - Method Hiding, hides (does not execute) the base class method, but it invokes the derived 
+    one instead.
+  - Method Hiding is achieved using 'new' keyword.
+  - 'new' keyword hides (but does not override) the base class method by creating a new 
+    method in the derived class with the SAME name and parameters of the base class 
+    method.
+  - The new child method prevents the parent method from execution.
+  - We use 'Method Hiding' in case we did not wish to run the parent class method.

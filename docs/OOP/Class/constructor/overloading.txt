@@ -1,7 +1,7 @@
 Constructors Overloading
  - When we declare/define two or more constructors in the same class, we call
    this technique 'Constructors Overloading'.
-    class ClassName()
+    class ClassName() :
     {
     }
     class ClassName(param1, param2)
@@ -11,3 +11,18 @@ Constructors Overloading
   
   - Every constructor should have different parameters than the other in order
     to have constructor overloading.
+
+
+
+  public MyClass
+  {
+    public Constructor1() : this(4, 6)
+    {
+
+    }
+    public Constructor2(int num1, int num2)
+    {
+
+    } 
+  }
+  - this keyword refers to another constructor in this class.

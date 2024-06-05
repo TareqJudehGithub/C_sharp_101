@@ -1,0 +1,39 @@
+
+Method overriding (Run-time Polymorphism)
+ - Allows a derived class to provide a specific implementation of a method that is
+   already defined in its base class.
+ - Allows a sub-class to provide it's own implementation of a method with the same
+   signature.
+ - Method overriding is a form of run-time polymorphism, where the method to be invoked
+   is determined at runtime.
+ - virtual and override keywords are added to the base and to the derived classes 
+   respectively.
+
+  - Extending the parent class method through creating another method with the same
+    signature in the child class.
+  - Extending means, when we call the method from the child class, both methods in
+    the parent and the child classes will execute.
+  
+  - Using 'virtual' keyword at parent class's method. 
+    - 'virtual' indicates that a parent method is to be overridden/extended by a child 
+       method.  
+  - Using 'override' keyword in child class's method.
+    - 'override' extends a virtual method in the base class.
+  
+  
+  - Method Overriding syntax:
+      class Parent
+      {
+        public virtual void MethodName(param1, param2)
+        {}
+      }
+        class Child : Parent
+      {
+        public override void MethodName(param1, param2)
+        {
+          base.MethodName(); (The parent class method name)
+        }
+      }
+  - The parent method first executes, then the child method follows.
+  - If we don't use the 'base' keyword in the overriding method body, the parent
+    method will not be executed.

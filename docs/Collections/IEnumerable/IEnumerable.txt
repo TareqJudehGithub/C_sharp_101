@@ -1,0 +1,3 @@
+IEnumerable
+ - IEnumerable is an interface that allows us to iterate a type with a foreach loop.
+ 

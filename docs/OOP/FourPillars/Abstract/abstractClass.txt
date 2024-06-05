@@ -1,0 +1,27 @@
+abstract modifier
+ - Abstract class is a parent class, of which we cannot instantiate/create
+   objects off.
+ - abstract keyword is a modifier of the abstract class.
+ - abstract keyword prevents a class from being instantiated.
+ - Use abstract for parent classes.
+    internal abstract class MyClass {
+      // code here
+    }
+ - It is recommended to abstract parents classes, and instantiate from child ones.
+ - We cannot create objects off an abstract class directly.
+ - We can add abstract methods in the abstract class, and we can also add concrete
+   methods as well.
+ - abstract methods should always be public, so other derived classes can access it.  
+
+   public abstract class MyClass
+   {
+    public abstract MyAbstracMethod();
+    public void MyConcreteMethod()
+    {
+      Console.WriteLine("My concrete method.");
+    }
+   }
+
+
+
+ 

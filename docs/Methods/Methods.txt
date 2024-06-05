@@ -1,1 +1,18 @@
 Methods
+ - Methods are blocks of codes that perform specific tasks or actions.
+ - Methods encapsulate functionality intro reusable units, which makes our code more
+   organize, readable, and maintainable.
+ 
+ - Syntax
+    access_modifier return_type method_name(parameters)
+    {
+      // method body
+    }
+
+ - Calling Methods
+  - To call an instance method, first we need to create an object of the class.
+  - We instantiate a new object (instance) using the 'new' keyword.
+    Syntax:
+      Program newInstance = new Program();
+      - Now, we have a new object called newInstance which can access all the members
+        of the class it was instantiated from.

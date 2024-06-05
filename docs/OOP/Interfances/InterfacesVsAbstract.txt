@@ -1,0 +1,24 @@
+Interfaces and Abstract classes - The similarities and differences
+ 
+ - Similarities
+  - Abstraction: Both allow for abstraction by defining a set of methods.
+  - Inheritance: Both support inheritance, enabling derived classes to inherit 
+    and extend their functionality.
+    Contracts / Enforce Structure - Both provide contracts that have to be implemented 
+    in the derived classes.
+
+  - Encapsulation - Both promote encapsulation by hiding implementation details and 
+    expositing the public contracts.
+  
+
+ - Differences   Abstract classes                       Interfaces
+                 Can have fields                        Can have static fields only
+                 Can inherit from another abstract      Can inherit from interface only
+                 class and from an interface
+                 A class can inherit from only ONE      A class can implement multiple
+                 abstract class, but a class can        interfaces
+                 still inherit multiple interfaces      
+                 Can have access modifiers              Cannot have access modifiers
+
+We can use the term "implement" instead of inherit for classes. i.e a class can implement
+multiple interfaces.

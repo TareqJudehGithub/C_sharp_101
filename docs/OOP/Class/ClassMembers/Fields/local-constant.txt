@@ -1,0 +1,11 @@
+Local Constants (local const)
+
+ - Local constants can be of any primitive data type, but not class type.
+ - Reference variables cannot be constants.
+ - const variable must be initialized at declaration.
+ - const does not accept var identifier, it must have a primitive type.
+ - const variable follows PascalCase naming convention.
+ 
+ - local const syntax
+  const dataType VarName = value;
+  const int DaysOfWeek = 7;

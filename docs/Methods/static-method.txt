@@ -1,0 +1,23 @@
+Static methods
+ - A static method is method that belongs to a type it self rather than to instances 
+   of that type.
+ - We use 'static' keyword to create a new static method.  
+ - static method/classes are like Console() class.
+ - static method is associated with the class, while instance method is associated
+   with the object.
+ - Because static methods belong to a class, they do not have access to objects data.
+ - The instance fields and static fields are both associated to objects.
+
+ - A class can contain two types of methods: instance and static.
+  - static methods are declared with 'static' modifier.
+  - Instance methods are not declared with the 'static' modifier.
+  - The 'this' keyword is only available inside instance methods; because
+    'this' keyword refers to the current object when calling the method.
+  - static methods cannot use 'this' keyword; because there is no 
+    current object to refer to when calling the method.
+  - A static class cannot be instantiated creating new objects out of it.
+  - *** Static methods and properties cannot access non-static fields.
+
+  When to use static and when to use instance methods?
+   - When we need to manipulate fields, we should use instance methods.
+   - Use static methods for manipulating static fields.

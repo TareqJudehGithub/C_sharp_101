@@ -1,7 +1,0 @@
-Local Constants (local const)
-
- - Local constants can be of any primitive data type, but not class type.
- - Reference variables cannot be constants.
- 
- - local const syntax
-  const dataType varName = value;

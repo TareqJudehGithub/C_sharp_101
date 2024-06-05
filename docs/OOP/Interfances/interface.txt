@@ -1,21 +1,23 @@
 Interface
  - An interface is a set of abstract methods that must be implemented by the child
    classes.
- - An interface is another way of defining classes.
+ - An interface is another way of defining classes, and is a reference type as well.
  - The idea behind interfaces, is to define fields, methods, and constructors in 
    the child classes.
- - An interface we can only define abstract methods (normal methods not allowed).
+ - In an interface we can only define abstract methods (normal methods not allowed).
  - Interfaces are similar to abstract classes, but interfaces contain only abstract 
-   methods and property declarations.
+   methods (method declarations) and property declarations.
  - We can’t create other members such as Fields, normal methods, constructors, properties
-   etc., in interface.
- - It is recommended to start the name of the interface with “I”.
+   in interface.
+ - It is recommended to start (prefix) the name of the interface with “I”.
  - The default access modifier of all interfaces is public.
  - Just like abstract classes, we cannot create objects off interfaces.
 
  - An interface cannot contain fields or constructors.
  - An interface can only contain abstract methods.
  - Interface methods are public and abstract by default.
+ - Interface members must end with a ;
+
  - For properties members, only their names are defined in the interface, while
    the properties body (accessor) are define in the child class.
  - fields, properties, and constructors are implemented in child classes, which
@@ -30,10 +32,15 @@ Interface
       }
    }
  
+ - The child class inheriting from an interface, may implement every method declared in 
+   its parent interface.
+
  - As an interface naming convention, an interface always start with a capital I, and
    also the interface .cs file name should start with an I.
  - We cannot change the access modifier of an interface method.
+ 
    // Creating abstract method in the parent interface.
+
     interface IMyInterface {
       // method name (no body and no access modifier)  // abstract word is not needed.
       void MethodName(param1, param2, ..);
@@ -52,11 +59,58 @@ Interface
          // method body 
       }
    } 
- - No need to write the 'override' key word in child class abstract methods in 
-   interfaces.
+ - We cannot use 'override' keyword in derived classes for methods in 
+   inherited from interfaces. Just type the exact method data type and signature.
  - A child class can inherit multiple interfaces.
  - An interface can be a child of another interface (interface inheritance).    
  - An interface cannot be a child of parent class (only parent interface).
 
  - When it is best to use interfaces
   - 
+
+
+
+  
+public interface IMyInterFace
+{
+	#region Methods
+	string MethodTwo(string parameterOne);
+	int MethodOne(int parameterOne, int parameterTwo);
+	#endregion
+}
+public class ImplementInterface : IMyInterFace
+{
+    public int MethodOne(int parameterOne, int parameterTwo)
+    {
+        throw new NotImplementedException();
+    }
+
+    string IMyInterFace.MethodTwo(string parameterOne)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+
+Benefits of Interfaces
+ - Abstraction
+   - Interfaces provide a way to define abstract behavior without specifying any 
+     implementation details, promoting code abstraction and modularity.
+
+ - Polymorphism
+  - Interfaces enable Polymorphism by allowing objects of different classes to be treated
+    uniformly if they implement the same interface, enhancing code flexibility and 
+    extensibility.
+
+ - Contractual Agreements
+  - Interfaces establish contractual agreements between components, ensuring that 
+    implementing classes adhere to a specific set of rules and requirements.
+
+ - Loose Coupling
+  - Interfaces promote loose coupling between components by allowing classes to interact
+    based on contracts rather than concrete implementations, facilitating easier 
+    maintenance and testing.
+
+ - multiple Inheritance
+  - Interfaces allow classes to inherit behavior from multiple sources, providing a
+    flexible alternative to single inheritance.

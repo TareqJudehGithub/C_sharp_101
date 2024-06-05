@@ -4,6 +4,10 @@ Command shortcuts in C#
  - prop   => declares a new class property member.
  - ctor   => declares a class constructor.
  - struct => creates a new structure.
+
+ - Control + K, Control + U  => Undo   (MS VS)
+ - Control + K, Control + D  => Format document (MS VS)
+ 
  
  
  

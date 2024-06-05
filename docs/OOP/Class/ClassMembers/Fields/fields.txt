@@ -1,0 +1,69 @@
+Fields
+ 
+  Understanding Fields
+   - A field is a global variable declared in the class/structure, but stored inside the 
+     object (belonging to the object of a class).
+   - Fields stores data in their respective class.
+   - Fields and properties are like the class nouns, while methods are like verbs.
+   - Fields are recommended to have a private access modifier (Encapsulation).
+   - Fields should always set to private, we should only expose them outside the class
+    through their properties.
+   - Fields are global variables of a class.
+   - It is recommended to start a field name with _ (underscore).
+   - A backing field: is a private fields that holds the data that is exposed by 
+     a property.
+
+   - public fields should start with a capital letter. FieldName
+   - private fields should start with _ followed by a small letter. _fieldName
+   - Field Syntax:
+        public class Employee 
+        {
+          public string firstName;
+          public string lastName;
+        }
+  - Fields are accessible using the dot . operator
+        objectName.fieldName
+
+   - It is not a good habit to initialize values for fields; because field is shared
+     for all objects, and every object should have it's own separate value.
+   - It is recommended to assign fields as private, so no body can access them from
+     outside the class.
+
+   - There are two type of fields:
+      - instance
+       - instance field belong to it's object declared in the constructor.
+
+      - static, const, and readonly
+       - static, const, and readonly are common to all objects.
+
+  Syntax of Fields
+   accessModifier Modifier(optional) dataType fieldName;
+
+       Product product1 = new Product();
+        - product1 is a reference variable which access the object.
+        - product1 is stored in the stack.
+        
+
+   - Field access modifiers:
+    private, protected, private protected, internal, protected internal, and public.
+    - Field default access modifier is private.
+    - For private fields, it is recommended to start naming them with an underscore _
+        private int _id;
+   
+   - Field modifiers:
+    static, const, and readonly 
+    static
+     - static fields are common to all objects.
+     - Accessible with class name.
+    const
+     - const field's value cannot be modified
+     - compiler replaces all const names with respective values.
+     - const is by default "static"
+    readonly
+     - readonly field's value cannot be modified.
+     - compilation-time restriction only.  
+
+  Access Modifiers of Fields
+  Static Fields
+  Constant Fields
+  Read-Only Fields

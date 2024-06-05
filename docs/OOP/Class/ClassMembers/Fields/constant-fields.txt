@@ -1,0 +1,37 @@
+Constant fields (const keyword)
+ - const modifier can be applied to both variables and fields.
+ - like static fields, constant fields are common to all objects in the class.
+ - Constant fields MUST be initialized upon declaration.
+
+ - All const fields are implicitly static.  
+ - Constant fields are fixed (immutable) values and cannot be modified after initialization.
+ - like static fields, constant fields are accessed using it's class name, and
+   not the object.
+   
+ - A constant is declared with const keyword.  
+
+      private const fieldDataType FieldName = value;
+      private const float PI = 3.14;
+ - const variables conviction is PascalCase.
+ - Constant fields are common to all objects, because it's memory is not stored 
+   inside any object.
+   
+ - Constant variables are not stored anywhere; because the constants are replaced
+   with actual values always.
+ - During compilation, constants names are replaced with their initial values.
+ - constants cannot be reference variables.
+ - Events and properties cannot be defined as constants.
+  const syntax
+   accessModifier const type FieldName = value;
+ 
+ * We use 'const' for things with a constant value, known at compilation time. 
+   For example i.e cont float PI = 3.14f;
+
+
+
+ - const does not accept var identifier, it must have a primitive type.
+ - const variable follows PascalCase naming convention.
+ 
+ - local const syntax
+  const dataType VarName = value;
+  const int DaysOfWeek = 7;

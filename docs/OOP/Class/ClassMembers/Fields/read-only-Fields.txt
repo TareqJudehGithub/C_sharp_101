@@ -1,0 +1,20 @@
+readonly fields
+ - readonly fields are instance fields with their values cannot be modified.
+ - readonly fields are stored inside the object only.
+ - Immutable means, once an object is created, it will never be modified.
+ - readonly fields cannot be created inside constructors, but they can be assigned 
+   there.
+ readonly syntax:
+  AccessModifer readonly dataType fieldName = value;
+
+ - readonly fields ares accessed with their objects through their reference
+   variables.
+    objectName.variableName;
+ - readonly fields can be initialized upon declaration or inside a inside a constructor.
+ - In OOP, we call methods by their object reference variable names.
+   Product product1 = new Product();
+   product1.MethodName();
+
+ * Good practice make fields readonly if possible.
+ * We use readonly fields when we want a field never to change after it has been set
+   in the constructor.

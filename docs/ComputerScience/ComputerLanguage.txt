@@ -1,0 +1,11 @@
+What is a computer language
+ - Computer stores data in binary format (0s and 1s), storing all characters entered
+   by the user.
+ - O and 1 came from the electricity switch icons On and Off (0 and 1)
+ - Each letter has a binary number.
+ - Binary language is a low-level language; because it directly interacts with the 
+   computer hardware.
+ - Other programming languages are considered a high-level languages; because they
+   operate on top of the binary language.
+ - An Intermediate Component (a compiler) translates the high-level language into a machine (binary)  
+   language.

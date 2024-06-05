@@ -1,0 +1,13 @@
+Optional Parameters
+ - Allows us to define parameters for a method that have default values.
+ - You can omit arguments for some or all of these parameters.
+ - Optional parameters must be after the required parameters (in order).
+
+  public void GreeUser(string user = "John Smith")
+  {
+    Console.WriteLine($"Welcome {user}");
+  }
+
+  GreeUser();
+
+  $ John Smith

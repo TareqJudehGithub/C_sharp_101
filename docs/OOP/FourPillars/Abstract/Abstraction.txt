@@ -1,0 +1,34 @@
+Abstraction
+ - Abstraction means that classes only expose essential data and methods, and hide the 
+   underlying details. (Abstraction).
+ - through Abstraction, a class can hide sensitive and private data and prevent access 
+   from outside its class.
+ - Abstraction keeps fields secured and safe from outside access.  
+ - A good example of Abstraction, is when we drive a car, when are only exposed to
+   objects like the steering wheel, gear, and paddles! But when don't need to understand
+   how see the engine of that car, or understand how it works in order to drive.
+ - Data hiding makes the class members non-public.  
+
+ - Abstraction is the concept of providing only limited data or actions instead of
+   providing everything there to outside the class.
+ - Code Reusability: Abstraction reduces complexity and code repetition, and increases 
+   efficiency.
+ - The code outside the class can access only its public data but 
+   not the private data/actions.
+ - Private fields/methods can be called as part of the public methods indirectly.
+ - So, from outside the class, we can call a method, and that method
+   can call other private fields and methods. 
+ - Always create fields as private, and access them through public methods
+   using 'get' and 'set' methods.
+ 
+ - Flexibility: Abstract classes allow for Flexibility in class hierarchies, enabling
+   subclasses to extend functionality and provide custom implementation for abstract 
+   methods.
+ 
+ - Polymorphism: Abstract classes facilitate polymorphism, allowing objects of different
+   subclasses to be treated uniformly through base class references.
+ 
+ - Enforcement of Structure: Abstract classes enforce a structure for subclasses to 
+   follow by defining a set of methods that must be implemented, promoting consistency
+   and maintainability in the codebase.
+ 

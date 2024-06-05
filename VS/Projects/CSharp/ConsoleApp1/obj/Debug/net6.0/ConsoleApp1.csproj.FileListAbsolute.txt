@@ -3,7 +3,6 @@ E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\bin\Debug\net6.0\Console
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
-E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
@@ -13,3 +12,4 @@ E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\refint\
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\web\ASP_NET\CSharp101\VS\Projects\CSharp\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json

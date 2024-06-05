@@ -1,0 +1,13 @@
+Access Modifiers In Inheritance
+
+  In order for inheritance to work, both base and derived class must have the same access
+  modifiers.
+  
+  public
+    - Public members of the base class are accessible in the derived class.    
+  protected
+    - Protected members of the base class are accessible from the derived class and its
+      subclasses, but not from outside the class.
+  private
+    - Private members of the base class are not accessible in the derived class and 
+      cannot be inherited. 

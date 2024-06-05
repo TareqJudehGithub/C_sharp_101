@@ -1,0 +1,8 @@
+Difference between fields and properties
+  - Fields are like variables, while properties are like methods.
+  - Fields has a single access modifier, while properties can have separate access 
+    modifiers for getter ans setter.
+  - unlike fields, properties can be overridden in derived classes.
+  - Fields should always set to private, we should only expose them outside the class
+    through their properties.
+

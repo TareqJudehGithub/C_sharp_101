@@ -1,0 +1,7 @@
+Named Parameters
+ - Allows us to specify the arguments for a method by associating them with parameter
+  names rather than relying on the order in which the parameters are defined.
+ - Improve readability.
+
+ MyMethod(id: 1, userName: "johnSmith@75, age: 49);
+ 

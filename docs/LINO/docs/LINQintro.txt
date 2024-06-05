@@ -1,0 +1,6 @@
+LINQ
+ 
+ What is LINQ?  
+  - Language Integrated Query
+  - LINQ is a set of technologies that allow simple and efficient querying over different
+    kinds of data.

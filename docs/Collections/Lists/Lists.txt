@@ -3,15 +3,14 @@ Lists
  - Lists are another object/collection data type in C#.
  - A list stores data of the same type.
  
- - Unlike Arrays, list can have a dynamic number of data stored.
+ - Unlike Arrays, list can have a dynamic number of data stored (size is not fixed).
  - We can add and remove data in Lists using add() and remove() properties.
  - Shopping carts, ToDo lists are good examples of when to use Lists.
 
  - A List uses 'new' Keyword to create it; because List is a class.
     $ List<string> words = new List<string>();
- - <> or angle brackets are use for Generic types.
- - .Count method is used to find out a list length.
-
+ - <> or angle brackets are used for generic types, and List is a generic type.
+ - List.Count method is used to find out a list length.
 
  - We can iterate over Lists elements using loops (for and foreach).
  - listName.Count returns a integer with the List length.
@@ -19,19 +18,48 @@ Lists
    order to be declared.
 
  - Adding elements  
-   - Add() method adds a new element to a list, and the end of this list.
-   - AddRange() can add multiple elements into a list.
+   - Add() method adds a new element to a list, at the end of this list.
+   - AddRange() can add multiple elements (a collection) into a list.
 
  - Removing elements 
    - Remove("element name") removes a specific element from a list.
-   - .RemoveAt(indexX) remove an element using it's index number.
+   - .RemoveAt(index) remove an element using it's index number.
 
  - List query
-   - IndexOf("elementName")   returns an element name using its index number.
+   - IndexOf("elementName") returns an element name using its index number.
    - If the element does not exist  in the list, the return result will be -1
 
  - Contains() - chk if an element exists in the List - bool result.  
  - Clear() empty/deletes all element inside a list.
+
+
+ //your code goes here
+             List<string> upperWords = new List<string>();
+
+                foreach (string word in words)
+                {
+                    if (!upperWords.Contains(word))
+                    {
+
+                        bool isUpper = true;
+                        foreach (char letter in word)
+                        {
+                            if (!char.IsUpper(letter))
+                            {
+                                isUpper = false;
+                            }
+                        }
+                        if (isUpper)
+                        {
+                            upperWords.Add(word);
+                        }
+                    }
+                }
+                foreach (string word in upperWords)
+                {
+                    Console.WriteLine(word);
+                }
+                return upperWords;
 
 
 

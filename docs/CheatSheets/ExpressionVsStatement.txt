@@ -1,0 +1,7 @@
+Expression
+ - Something that evaluates to a value.
+ - Example: 1 + 2
+
+statement
+ - It does something, but does not evaluate to a value.
+ - Example:  Console.WriteLine("Hello World");

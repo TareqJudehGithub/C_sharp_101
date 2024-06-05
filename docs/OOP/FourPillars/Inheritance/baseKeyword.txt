@@ -1,0 +1,31 @@
+'base' keyword
+  - 'base' is a keyword available in the derived class that enables it to 
+     have access to the base class members.
+  - The 'base' keyword always refer to the base class members, and not the child's.
+  - The use of 'base' keyword is optional, we can still access the parent class 
+    members without the use of 'base'.
+  - 'base' is useful when both the parent and child has a class member with the 
+    same name.
+
+    //(this is the constructor)
+      public ChildName(param1, param2): base (param1: param1, param2: param2) 
+          {
+            // code
+          }
+
+    // Base class Method
+    public void BaseClassMethod
+    {
+      // some code
+    }
+    // Derived class method
+      public void DerivedClassMethod
+      {
+        // This will invoke the base method instead of the derived one.
+        base.BaseClassMethod();
+      }
+
+
+
+
+ 

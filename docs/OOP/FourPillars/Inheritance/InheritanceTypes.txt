@@ -1,0 +1,67 @@
+
+ - Types of inheritance
+  - In C#, we only have single class inheritance, C# does not support class multiple 
+    inheritance.
+  - C# does not support class multiple inheritance because that will lead to a diamond
+    problem.
+    A diamond problem is when the engine cannot decide which derived method to execute.
+  - C# supports multilevel inheritance.
+
+  - Single Inheritance
+    - One parent class 
+
+     class Person 
+      {
+
+      }  
+      class Teacher : Person
+      {
+        
+      }
+  
+  - Multi-level Inheritance
+    - One parent class, one child class, and the child class has another child 
+      class.
+
+    - Hierarchal Inheritance
+        class Person 
+        {
+
+        }  
+        class Teacher : Person (parent)
+        {
+          
+        }
+        class Professor : Teacher (parent)
+        {
+
+        }
+    
+    - Multiple Inheritance
+     - A child class has multiple parents.
+     - In C#, we have to use the 'interface' keyword in order to implement
+       multiple inheritance.
+     - Multiple parent classes are not allowed in C#, but multiple interfaces are.  
+        interface Person
+        {
+
+        }
+        interface Teacher
+        {
+
+        }
+        class Professor : Person, Teacher
+
+    - Hybrid Inheritance
+     - A combination of two or more types of inheritance
+
+      class Person
+      {}
+      class Teacher: Person                     (Hierarchal)
+      {}
+      class Professor: Teacher                  (Hierarchal)
+      class EnglishProfessor: Professor         (Multi-level)
+
+
+
+

@@ -1,0 +1,9 @@
+Collections
+ - What is a collection?
+  - Collections are types that provide a way to store and manipulate groups of related 
+    objects.
+
+ - Type of collections in C#
+  - IEnumerable
+  - ICollection
+  - IList   

@@ -1,0 +1,48 @@
+Inheritance
+
+ - What is Inheritance?
+  - Creating an easy-type relationship between two or more classes.
+  - Inheritance allows a class to inherit properties and behavior of another.
+  - Inheritance enables us to create new classes that reuse, extend, and modify, the
+    behavior defined in other classes.
+  - Inheritance saves time and code.
+  - I.e. Animal class can be a parent class of Tiger (which in turn is a child class to 
+    Animal).
+
+ - Benefits of Inheritance
+  - Code Reusability
+    - By inheriting and properties and behavior from other classes.
+  - Modularity
+   - Inheritance organize classes into Hierarchies, making it easier to manage and 
+     maintain code.
+  - Polymorphism
+   - Through Polymorphism, object of different classes can be treated uniformly through 
+     a common interface.
+
+  - The Base and Derived class. 
+  - Parent class (aka base class) can have multiple child (derived) classes (Tiger, 
+    Lion, Panther).
+  - *** Both parent and child class should have the same access modifier, if
+    not then inheritance won't work.
+  - The child class (derived) inherits or extends the parent class (base).
+  - All members of parent class are implicitly given to the child 
+    class, so we can access all parent class fields, properties, and methods
+    from a child class.
+  - We cannot access any child class members from the parent class.
+  - The class whose members are inherited is called the base class. The class 
+    that inherits the members of the base class is called the derived class.
+
+    - Inheritance syntax
+        class ParentName  //(This is the base class)
+        {
+          parent class members here
+          public ParentName(param1, param2) //(this is the constructor)
+          {
+            // code
+          }
+        }
+        class ChildClass (This is the derived class) : ParentClass
+        {
+          child class members here
+        }  
+

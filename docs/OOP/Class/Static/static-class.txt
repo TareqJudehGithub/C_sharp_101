@@ -1,0 +1,76 @@
+static class
+ - A static class cannot be instantiated.
+ - A static class members can only be reached through the class name it self.
+ - A static class serves as a container for methods.
+ - A static class can only contain static methods; because instance methods may contain
+   fields or properties (which of course belong to an object of the class, not the class
+   it self.)
+
+ - A static class cannot be inherited.
+ - A static class cannot have a constructor.
+ - We use the 'static' keyword to initialize a static class.
+ 
+ - A static method belongs to the class it self, not to an object of that class.
+ - it's good practice to make a private method static, if that method does not 
+   use instance data.
+ - Static methods have faster performance comparing to instance methods.
+ - All const fields are implicitly static. 
+ - We cannot use instance fields in static methods, but non-static (instance) methods
+   can safely use static fields.
+
+
+
+
+Exercise: Static classes - NumberToDayOfWeekTranslator
+ using System;
+
+namespace Coding.Exercise
+{
+    //your code goes here
+    public static class NumberToDayOfWeekTranslator
+    {
+        public static string Translate(int num)
+        {
+            string day;
+            switch (num)
+            {
+                case 1:
+                day = "Monday";
+                break;
+                
+                case 2:
+                day = "Tuesday";
+                break;
+                
+                case 3:
+                day = "Wednesday";
+                break;
+                
+                case 4:
+                day = "Thursday";
+                break;
+                
+                case 5:
+                day = "Friday";
+                break;
+                
+                case 6:
+                day = "Saturday";
+                break;
+                
+                case 7:
+                day = "Sunday";
+                break;
+                
+                default:
+                day = "Invalid day of the week";
+                break;
+            }
+            return day;
+        }
+        
+    }
+}
+
+
+ 

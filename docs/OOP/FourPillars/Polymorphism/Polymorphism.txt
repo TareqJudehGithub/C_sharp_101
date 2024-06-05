@@ -1,0 +1,43 @@
+Polymorphism 
+ - Polymorphism is the provision of a single interface to entities of different types.
+ - Polymorphism allows objects of different types to be treated as objects of a common
+   base type.
+ - Polymorphism comes from the greek words Poly (many) and morphe (shape).
+ - Polymorphism is achieved through inheritance, through method overriding and 
+   overloading.
+
+
+Types of Polymorphism
+ - Run-time Polymorphism (Method overriding)
+    
+ - Compile-time Polymorphism (Method overloading)
+ 
+
+
+ using System;
+
+namespace Coding.Exercise
+{
+    public class Exercise
+    {
+        public List<int> GetCountsOfAnimalsLegs()
+        {
+            var animals = new List<Animal>
+            {
+                new Lion(),
+                new Tiger(),
+                new Duck(),
+                new Spider()
+            };
+            
+            var result = new List<int>();
+            foreach(var animal in animals)
+            {
+                result.Add(animal.NumberOfLegs);
+            }
+            return result;
+        }
+    }
+    
+    //your code goes here
+}
